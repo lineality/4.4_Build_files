@@ -1,0 +1,2351 @@
+ms, pain, Creative, Energetic, Tingly, Euphoric, Relaxed, Earthy, Sweet, Citrus
+Relaxed, Aroused, Creative, Happy, Energetic, Flowery, Violet, Diesel
+pain, Uplifted, Happy, Relaxed, Energetic, Creative, Spicy/Herbal, Sage, Woody
+appetite, depression, Tingly, Creative, Hungry, Relaxed, Uplifted, Apricot, Citrus, Grapefruit
+Happy, Relaxed, Euphoric, Uplifted, Talkative, Citrus, Earthy, Orange
+appetite, None, None
+nausea, pain, Relaxed, Euphoric, Happy, Uplifted, Hungry, Earthy, Sweet, Pungent
+anxiety, depression, Relaxed, Happy, Euphoric, Uplifted, Giggly, Citrus, Pungent, Earthy
+inflammation, anxiety, pain, Uplifted, Focused, Happy, Talkative, Relaxed, Earthy, Woody, Flowery
+insomnia, ms, pain, Relaxed, Tingly, Happy, Euphoric, Uplifted, Earthy, Grape, Sweet
+migraines, insomnia, anxiety, pain, Energetic, Happy, Talkative, Uplifted, Pine, Diesel
+pain, Relaxed, Euphoric, Sleepy, Happy, Talkative, Earthy, Pine, Skunk
+Relaxed, Focused, Euphoric, Uplifted, Aroused, Earthy, Woody, Pine
+anxiety, Euphoric, Happy, Uplifted, Talkative, Creative, Earthy, Woody, Pungent
+Relaxed, Uplifted, Happy, Creative, Euphoric, Citrus, Earthy, Pine
+insomnia, appetite, pain, Relaxed, Happy, Euphoric, Giggly, Sleepy, Earthy, Diesel, Flowery
+None, None
+pain, Relaxed, Sleepy, Euphoric, Happy, Hungry, Earthy, Sweet, Berry
+appetite, Relaxed, Euphoric, Happy, Hungry, Uplifted, Earthy, Pungent, Berry
+insomnia, pain, Relaxed, Focused, Happy, Sleepy, Uplifted, Citrus, Pungent, Sweet
+Relaxed, Happy, Euphoric, Uplifted, Sleepy, Diesel, Pepper, Earthy
+Creative, Euphoric, Relaxed, Happy, Hungry, Earthy, Woody, Citrus
+anxiety, multiple sclerosis, epilepsy, pain, Relaxed, Happy, Uplifted, Focused, Euphoric, Earthy, Pine, Woody
+Happy, Relaxed, Uplifted, Euphoric, Energetic, Earthy, Pungent, Woody
+hiv, Happy, Energetic, Uplifted, Creative, Relaxed, Earthy, Pungent, Citrus
+migraines, anxiety, Uplifted, Euphoric, Giggly, Energetic, Sleepy, Menthol, Blue, Cheese, Chemical
+appetite loss, anxiety, appetite, pain, Relaxed, Euphoric, Sleepy, Happy, Giggly, Earthy, Pine, Diesel
+Happy, Uplifted, Euphoric, Energetic, Relaxed, Earthy, Sweet, Pungent
+Relaxed, Sleepy, Euphoric, Happy, Uplifted, Earthy, Diesel, Spicy/Herbal
+Relaxed, Euphoric, Happy, Sleepy, Hungry, Earthy, Sweet, Woody
+Creative, Euphoric, Talkative, Energetic, Happy, Earthy, Mango, Lemon
+Creative, Happy, Euphoric, Energetic, Uplifted, Lemon, Diesel, Earthy
+Talkative, Giggly, Happy, Hungry, Relaxed, None
+Tingly, Euphoric, Happy, Relaxed, Uplifted, Sweet, Flowery, Earthy
+ms, Euphoric, Happy, Relaxed, Sleepy, Talkative, Pungent, Lemon, Peach
+Focused, Uplifted, Happy, Euphoric, Talkative, Sweet, Vanilla
+Euphoric, Relaxed, Uplifted, Happy, Creative, Earthy, Diesel, Chemical
+spasticity, Tingly, Sleepy, Relaxed, Energetic, Aroused, Nutty, Earthy, Chestnut
+appetite loss, appetite, depression, pain, Sleepy, Relaxed, Giggly, Happy, Creative, Earthy, Flowery, Tea
+Relaxed, Sleepy, Happy, Hungry, Euphoric, Earthy, Flowery, Woody
+ms, Sleepy, Relaxed, Happy, Hungry, Giggly, Skunk, Woody, Sweet
+Hungry, Relaxed, Aroused, Sleepy, Euphoric, Earthy, Diesel, Pungent
+insomnia, nausea, cancer, Creative, Energetic, Euphoric, Focused, Uplifted, Flowery, Diesel, Sweet
+insomnia, pain, Relaxed, Sleepy, Happy, Euphoric, Hungry, Earthy, Sweet, Pine
+insomnia, anxiety, pain, Focused, Uplifted, Happy, Creative, Relaxed, Lemon, Citrus, Sweet
+insomnia, pain, Relaxed, Happy, Sleepy, Tingly, Creative, Flowery, Chemical, Spicy/Herbal
+insomnia, pain, Relaxed, Sleepy, Happy, Hungry, Euphoric, Sweet, Flowery, Skunk
+pain, Hungry, Relaxed, Aroused, Sleepy, Focused, Citrus, Skunk
+Uplifted, Euphoric, Relaxed, Talkative, Creative, Earthy, Sweet, Woody
+Relaxed, Sleepy, Happy, Euphoric, Hungry, Sweet, Pine, Woody
+Relaxed, Happy, Sleepy, Giggly, Uplifted, Woody, Pine, Pungent
+insomnia, appetite, Uplifted, Euphoric, Giggly, Happy, Relaxed, Tobacco, Earthy
+appetite, Relaxed, Creative, Focused, Sleepy, Happy, Pine, Spicy/Herbal, Earthy
+Euphoric, Energetic, Aroused, Tingly, Creative, Spicy/Herbal, Pungent, Pepper
+None, None
+Talkative, Relaxed, Uplifted, Tingly, Creative, Pungent, Citrus, Tropical
+Euphoric, Happy, Uplifted, Relaxed, Sleepy, Earthy, Pine, Pungent
+Happy, Uplifted, Relaxed, Energetic, Euphoric, Citrus, Orange, Earthy
+depression, Uplifted, Happy, Creative, Euphoric, Focused, Skunk, Citrus, Orange
+Happy, Relaxed, Euphoric, Sleepy, Tingly, Diesel, Pine, Spicy/Herbal
+nausea, depression, Talkative, Energetic, None
+inflammation, insomnia, nausea, ms, pain, Relaxed, Sleepy, Euphoric, Focused, Happy, Earthy, Woody, Pine
+Tingly, Uplifted, Creative, Euphoric, Focused, Pepper, Strawberry, Grape
+ms, Euphoric, Uplifted, Happy, Relaxed, Energetic, Sweet, Earthy, Spicy/Herbal
+appetite, Happy, Euphoric, Relaxed, Uplifted, Energetic, Earthy, Woody, Pine
+appetite loss, anxiety, appetite, depression, pain, Relaxed, Euphoric, Happy, Uplifted, Hungry, Earthy, Mango, Blueberry
+appetite, Relaxed, Sleepy, Uplifted, Hungry, Tingly, Cheese, Sweet, Spicy/Herbal
+nausea, ms, appetite, pain, Relaxed, Creative, Euphoric, Giggly, Happy, Diesel, Tropical, Pungent
+anxiety, depression, Focused, Euphoric, Happy, Uplifted, Relaxed, Pine, Mint, Sweet
+appetite, Happy, Relaxed, Focused, Uplifted, Creative, Earthy, Nutty, Sweet
+pain, Hungry, Energetic, Euphoric, Aroused, Tingly, Sweet, Pungent, Skunk
+Euphoric, Creative, Giggly, Relaxed, Happy, Pungent, Citrus, Earthy
+Relaxed, Sleepy, Euphoric, Happy, Uplifted, Earthy, Woody, Sweet
+Relaxed, Sleepy, Happy, Euphoric, Uplifted, Earthy, Pungent, Woody
+headache, nausea, appetite, Euphoric, Relaxed, Uplifted, Focused, Happy, Sweet, Berry, Blueberry
+ms, Happy, Relaxed, Giggly, Aroused, Hungry, Sweet, Earthy, Diesel
+pain, Happy, Talkative, Euphoric, Uplifted, Energetic, Pine, Diesel, Earthy
+pain, Relaxed, Euphoric, Happy, Tingly, Uplifted, Earthy, Woody, Flowery
+Relaxed, Happy, Euphoric, Uplifted, Creative, Earthy, Lemon, Citrus
+Euphoric, Uplifted, Happy, Relaxed, Talkative, Pungent, Skunk, Cheese
+pain, Relaxed, Happy, Euphoric, Uplifted, Hungry, Grape, Earthy, Chemical
+Relaxed, Happy, Euphoric, Sleepy, Tingly, Sweet, Citrus, Earthy
+Euphoric, Relaxed, Uplifted, Creative, Happy, Sweet, Lemon, Apple
+Uplifted, Happy, Euphoric, Creative, Tingly, Diesel, Spicy/Herbal, Sage
+Happy, Relaxed, Uplifted, Euphoric, Focused, Earthy, Spicy/Herbal, Woody
+inflammation, Relaxed, Happy, Talkative, Uplifted, Giggly, Citrus, Sage, Grapefruit
+Uplifted, Euphoric, Happy, Relaxed, None
+Happy, Uplifted, Focused, Energetic, Hungry, Citrus, Earthy, Pungent
+anxiety, ms, depression, Relaxed, Sleepy, Uplifted, Happy, Spicy/Herbal, Honey, Earthy
+migraines, pain, Energetic, Uplifted, Happy, Creative, Focused, Tropical, Sweet, Citrus
+Tingly, Uplifted, Euphoric, Giggly, Happy, Blueberry, Grape, Tropical
+Euphoric, Creative, Energetic, Talkative, Uplifted, Sweet, Citrus, Earthy
+Energetic, Uplifted, Aroused, Tingly, Relaxed, Berry, Apple, Chestnut
+anxiety, Energetic, Happy, Euphoric, Relaxed, Talkative, Earthy, Blueberry, Sweet
+None, None
+Energetic, Focused, Talkative, Happy, Relaxed, Diesel, Earthy, Spicy/Herbal
+nausea, appetite, pain, Relaxed, Focused, Happy, Euphoric, Sleepy, Spicy/Herbal, Sweet, Berry
+inflammation, anxiety, pain, Uplifted, Creative, Energetic, Aroused, Euphoric, Berry, Blueberry, Pine
+pain, Relaxed, Uplifted, Happy, Euphoric, Tingly, Pine, Citrus, Earthy
+Uplifted, Euphoric, Relaxed, Creative, Focused, Flowery, Lavender, Earthy
+Focused, Euphoric, Tingly, Energetic, Relaxed, Earthy, Sweet, Pungent
+nausea, ms, pain, Relaxed, Tingly, Sleepy, Uplifted, Happy, Sweet, Lemon, Lime
+headache, insomnia, ms, pain, Relaxed, Creative, Focused, Euphoric, Aroused, Earthy, Spicy/Herbal, Tobacco
+Energetic, Creative, Giggly, Hungry, Happy, nan
+Uplifted, Happy, Relaxed, Focused, Energetic, Berry, Lavender, Sweet
+Happy, Euphoric, Energetic, Creative, Uplifted, Earthy, Sweet, Skunk
+ms, None, None
+ms, Happy, Euphoric, Uplifted, Energetic, Creative, Earthy, Citrus, Lemon
+Sleepy, Relaxed, Aroused, Creative, Energetic, Skunk, Cheese, Mint
+Relaxed, Euphoric, Sleepy, Happy, Hungry, Earthy, Flowery, Nutty
+pain, Hungry, Sleepy, Relaxed, Happy, Euphoric, Earthy, Pungent, Sweet
+insomnia, pain, Happy, Relaxed, Uplifted, Sleepy, Euphoric, Pungent, Earthy, Berry
+insomnia, ms, pain, Relaxed, Happy, Euphoric, Creative, Uplifted, Earthy, Sweet, Pungent
+ms, Relaxed, Sleepy, Happy, Euphoric, Hungry, Earthy, Flowery, Coffee
+Relaxed, Sleepy, Creative, Focused, Aroused, Grape, Lime, Earthy
+anxiety, depression, Happy, Relaxed, Uplifted, Giggly, Talkative, Sweet, Grape, Lavender
+pain, Uplifted, Happy, Euphoric, Relaxed, Creative, Pungent, Citrus, Lemon
+Happy, Euphoric, Energetic, Uplifted, Creative, Earthy, Spicy/Herbal, Sweet
+ms, appetite, pain, Relaxed, Euphoric, Happy, Creative, Giggly, Pungent, Skunk, Earthy
+Euphoric, Creative, Focused, Talkative, Uplifted, Tropical, Grape, Sweet
+nausea, pain, Happy, Relaxed, Focused, Energetic, Tingly, Apple, Sweet, Earthy
+inflammation, anxiety, depression, Relaxed, Euphoric, Uplifted, Happy, Tingly, Apple, Diesel, Pungent
+ms, pain, Relaxed, Happy, Sleepy, Hungry, Euphoric, Berry, Apple, Sweet
+Euphoric, Tingly, Giggly, Sleepy, Creative, nan
+ms, pain, Creative, Relaxed, Energetic, Euphoric, Focused, Ammonia, Skunk
+anxiety, ms, pain, Happy, Uplifted, Euphoric, Energetic, Relaxed, Blueberry, Sweet, Earthy
+Happy, Uplifted, Relaxed, Euphoric, Creative, Earthy, Citrus, Sweet
+hiv, ms, pain, Happy, Uplifted, Relaxed, Sleepy, Focused, Spicy/Herbal, Pungent, Earthy
+Happy, Uplifted, Talkative, Relaxed, Creative, Strawberry, Sweet, Berry
+Euphoric, Focused, Energetic, Relaxed, Creative, Minty, Earthy, Mint
+Uplifted, Giggly, Happy, Relaxed, Talkative, Diesel, Woody, Tropical
+anxiety, pain, Relaxed, Sleepy, Talkative, Giggly, Happy, Spicy/Herbal, Sweet, Flowery
+Relaxed, Happy, Uplifted, Euphoric, Sleepy, Pungent, Skunk, Spicy/Herbal
+Euphoric, Hungry, Happy, Relaxed, Talkative, Earthy, Skunk, Woody
+appetite, pain, Focused, Happy, Energetic, Relaxed, Talkative, Blueberry, Spicy/Herbal, Earthy
+Relaxed, Energetic, Happy, Creative, Focused, Sweet, Citrus, Grapefruit
+ptsd, epilepsy, arthritis, Talkative, Uplifted, Happy, Relaxed, Giggly, Earthy, Ammonia, Diesel
+Uplifted, Euphoric, Relaxed, Happy, Tingly, Flowery, Sweet, Citrus
+Happy, Relaxed, Talkative, Creative, Euphoric, Earthy
+Relaxed, Uplifted, Giggly, Tingly, Happy, Spicy/Herbal, Nutty, Sage
+Talkative, Uplifted, Hungry, Tingly, Focused, Earthy, Pungent, Flowery
+Happy, Relaxed, Energetic, Uplifted, Creative, Pungent, Minty, Citrus
+Happy, Euphoric, Relaxed, Sleepy, Hungry, Earthy, Woody, Sweet
+insomnia, pain, Relaxed, Sleepy, Happy, Euphoric, Uplifted, Earthy, Spicy/Herbal, Tropical
+Aroused, Tingly, Hungry, Uplifted, Giggly, Sweet, Earthy, Nutty
+pain, Relaxed, Focused, Uplifted, Creative, Happy, Earthy, Pungent
+inflammation, Relaxed, Uplifted, Happy, Focused, Energetic, Earthy, Flowery, Sweet
+Relaxed, Euphoric, Sleepy, Happy, Tingly, Spicy/Herbal, Pungent, Earthy
+Relaxed, Uplifted, Focused, Euphoric, Happy, Berry, Sweet, Blueberry
+Relaxed, Happy, Giggly, Focused, Uplifted, Sweet, Woody, Earthy
+anxiety, nausea, Euphoric, Relaxed, Happy, Hungry, Sleepy, Earthy, Sweet, Citrus
+anxiety, nausea, Euphoric, Relaxed, Happy, Hungry, Sleepy, Earthy, Sweet, Citrus
+ms, appetite, Sleepy, Happy, Relaxed, Uplifted, Creative, Lemon, Earthy, Citrus
+anxiety, Happy, Uplifted, Euphoric, Focused, Relaxed, Spicy/Herbal, Berry, Skunk
+nausea, ms, pain, Relaxed, Euphoric, Happy, Creative, Sleepy, Earthy, Pungent, Tropical
+anxiety, Euphoric, Uplifted, Happy, Giggly, Relaxed, Skunk, Earthy, Woody
+Uplifted, Happy, Relaxed, Sleepy, Euphoric, Sweet, Honey, Tree, Fruit
+Sleepy, Focused, Happy, Hungry, None
+Uplifted, Happy, Relaxed, Creative, Hungry, Flowery, Berry, Earthy
+Relaxed, Happy, Hungry, Euphoric, Giggly, Earthy, Pungent, Sweet
+None, nan
+nausea, pain, Euphoric, Relaxed, Giggly, Happy, Sleepy, Earthy, Diesel, Sweet
+anxiety, nausea, pain, Relaxed, Happy, Uplifted, Focused, Talkative, Earthy, Cheese, Pine
+Relaxed, Euphoric, Uplifted, Creative, Happy, Tree, Fruit, Earthy, Sweet
+ms, Relaxed, Creative, Tingly, Uplifted, Focused, Minty, Mint, Pine
+appetite, Happy, Uplifted, Euphoric, Relaxed, Giggly, Diesel, Earthy, Skunk
+depression, Happy, Relaxed, Euphoric, Uplifted, Talkative, Sweet, Tropical, Tree, Fruit
+insomnia, appetite, pain, Relaxed, Happy, Hungry, Euphoric, Sleepy, Tropical, Earthy, Sweet
+Relaxed, Euphoric, Uplifted, Happy, Sleepy, Spicy/Herbal, Tropical, Earthy
+Relaxed, Energetic, Happy, Uplifted, Focused, Tropical, Grape, Vanilla
+Euphoric, Happy, Relaxed, Talkative, Creative, Earthy, Pungent, Woody
+Aroused, Uplifted, Euphoric, Hungry, Berry, Tree, Fruit, Cheese
+appetite, depression, Uplifted, Creative, Energetic, Euphoric, Focused, Lime, Earthy, Pungent
+ms, pain, Relaxed, Euphoric, Happy, Hungry, Uplifted, Citrus, Earthy, Mango
+ms, Euphoric, Relaxed, None
+insomnia, pain, Sleepy, Hungry, Happy, Relaxed, Giggly, Skunk, Pungent, Sweet
+appetite, pain, Happy, Relaxed, Uplifted, Energetic, Creative, Sweet, Earthy, Citrus
+anxiety, appetite, Relaxed, Happy, Euphoric, Uplifted, Focused, Citrus, Earthy, Sweet
+Uplifted, Euphoric, Giggly, Happy, Energetic, Earthy, Minty, Sweet
+appetite, pain, Relaxed, Sleepy, Tingly, Happy, Euphoric, Earthy, Woody, Berry
+pain, Relaxed, Euphoric, Uplifted, Talkative, Happy, Pine, Apricot, Earthy
+Happy, Uplifted, Euphoric, Giggly, Relaxed, Pepper, Pine, Sage
+Relaxed, Sleepy, Hungry, Focused, Euphoric, Pungent, Cheese, Woody
+inflammation, anxiety, nausea, pain, Relaxed, Talkative, Happy, Focused, Uplifted, Mango, Citrus, Lemon
+appetite, pain, Relaxed, Sleepy, Euphoric, Hungry, Happy, Sweet, Citrus, Pungent
+Happy, Sleepy, Giggly, Euphoric, Uplifted, Peach, Earthy, Butter
+anxiety, Talkative, Happy, Uplifted, Energetic, Focused, Citrus, Sweet, Pungent
+None, None
+Relaxed, Happy, Euphoric, Tingly, Sleepy, Berry, Blueberry, Flowery
+inflammation, Relaxed, Uplifted, Creative, Euphoric, Talkative, Berry, Citrus, Orange
+Relaxed, Euphoric, Sleepy, Happy, Hungry, Berry, Earthy, Sweet
+Happy, Relaxed, Uplifted, Euphoric, Sleepy, Berry, Blueberry, Earthy
+anxiety, Relaxed, Euphoric, Happy, Uplifted, Sleepy, Berry, Sweet, Blueberry
+insomnia, pain, Uplifted, Energetic, Happy, Hungry, None
+anxiety, Uplifted, Creative, Euphoric, Focused, Energetic, Cheese, Berry, Tree, Fruit
+ms, Creative, Uplifted, Energetic, Euphoric, Relaxed, Earthy, Sweet, Blue, Cheese
+anxiety, nausea, ms, Relaxed, Sleepy, Euphoric, Focused, Creative, Earthy, Woody, Spicy/Herbal
+Creative, Euphoric, Focused, Uplifted, Energetic, Sweet, Flowery, Diesel
+Relaxed, Happy, Euphoric, Hungry, Talkative, Sweet, Spicy/Herbal, Sage
+pain, Relaxed, Sleepy, Happy, Euphoric, Aroused, Sweet, Orange, Lemon
+Relaxed, Euphoric, Sleepy, Happy, Tingly, Earthy, Skunk, Flowery
+Happy, Relaxed, Euphoric, Uplifted, Giggly, Cheese, Earthy, Flowery
+appetite, Talkative, Uplifted, Euphoric, Happy, Relaxed, Lime, Lemon, Earthy
+Uplifted, Relaxed, Euphoric, Creative, Focused, Citrus, Lemon, Skunk
+appetite, Relaxed, Aroused, Sleepy, Talkative, Tingly, Sweet, Berry, Blueberry
+Talkative, Uplifted, Creative, Energetic, Hungry, Flowery, Skunk
+Relaxed, Tingly, Uplifted, Hungry, Sleepy, Pungent, Skunk, Diesel
+pain, Happy, Relaxed, Giggly, Uplifted, Aroused, Blueberry, Spicy/Herbal, Nutty
+Relaxed, Uplifted, Focused, Euphoric, Energetic, Earthy, Menthol, Pine
+ms, Relaxed, Uplifted, Happy, Sleepy, Euphoric, Flowery, Diesel, Sweet
+appetite, Relaxed, Tingly, Euphoric, Happy, Uplifted, Earthy, Pungent, Nutty
+Relaxed, Focused, Energetic, Euphoric, Aroused, Spicy/Herbal, Sage, Earthy
+Euphoric, Happy, Relaxed, Energetic, Uplifted, Diesel, Earthy, Pungent
+pain, Happy, Relaxed, Euphoric, Sleepy, Uplifted, Earthy, Chemical, Diesel
+Relaxed, Euphoric, Tingly, Sleepy, Happy, Spicy/Herbal, Earthy, Cheese
+pain, Happy, Uplifted, Energetic, Euphoric, Relaxed, nan
+appetite loss, headache, inflammation, anxiety, appetite, pain, Relaxed, Happy, Euphoric, Uplifted, Sleepy, Sweet, Vanilla, Lemon
+insomnia, anxiety, pain, Relaxed, Sleepy, Happy, Hungry, Euphoric, Pungent, Earthy, Grape
+Relaxed, Sleepy, Hungry, Happy, Euphoric, Earthy, Pine, Pepper
+ms, Euphoric, Relaxed, Happy, Uplifted, Energetic, Sweet, Berry, Pungent
+appetite, pain, Happy, Relaxed, Sleepy, Tingly, Euphoric, Earthy, Flowery, Pine
+Creative, Relaxed, Euphoric, Hungry, Uplifted, Berry, Sweet, Cheese
+insomnia, pain, Relaxed, Uplifted, Happy, Giggly, Euphoric, Berry, Sweet, Earthy
+nausea, pain, Relaxed, Uplifted, Creative, Euphoric, Happy, Earthy, Berry, Sweet
+ms, Relaxed, Happy, Euphoric, Hungry, Uplifted, Sweet, Berry, Earthy
+insomnia, pain, Relaxed, Happy, Sleepy, Euphoric, Tingly, Sweet, Earthy, Spicy/Herbal
+appetite, Relaxed, Happy, Euphoric, Uplifted, Hungry, Earthy, Woody, Berry
+Relaxed, Happy, Hungry, Talkative, Euphoric, Diesel, Pungent, Earthy
+Relaxed, Euphoric, Happy, Sleepy, Uplifted, Pepper, Pine, Woody
+Relaxed, Euphoric, Happy, Uplifted, Focused, Earthy, Pine, Flowery
+insomnia, pain, Relaxed, Sleepy, Happy, Hungry, Tingly, Earthy, Citrus, Sweet
+Relaxed, Happy, Euphoric, Uplifted, Talkative, Earthy, Sweet, Pine
+pain, Euphoric, Relaxed, Sleepy, Uplifted, Focused, Woody, Berry, Earthy
+insomnia, anxiety, appetite, Tingly, Uplifted, Creative, Euphoric, Focused, None
+Relaxed, Happy, Euphoric, Tingly, Sleepy, Lime, Pepper, Citrus
+Happy, Relaxed, Uplifted, Euphoric, Earthy
+Happy, Relaxed, Sleepy, Hungry, Talkative, Earthy, Berry, Woody
+Happy, Relaxed, Euphoric, Uplifted, Talkative, Sweet, Grape, Woody
+Relaxed, Sleepy, Uplifted, Euphoric, Focused, None
+Relaxed, Sleepy, Uplifted, Happy, Hungry, Citrus, Berry, Earthy
+ms, pain, Relaxed, Happy, Sleepy, Euphoric, Hungry, Earthy, Woody, Skunk
+Sleepy, Happy, Hungry, Relaxed, Euphoric, Sweet, Flowery, Citrus
+Happy, Relaxed, Euphoric, Sleepy, Uplifted, Earthy, Sweet, Pungent
+Relaxed, Euphoric, Happy, Uplifted, Sleepy, Berry, Sweet, Earthy
+pain, Relaxed, Happy, Euphoric, Uplifted, Creative, Berry, Blueberry, Skunk
+Talkative, Creative, Focused, Relaxed, Euphoric, Berry, Chemical
+Relaxed, Happy, Uplifted, Sleepy, Euphoric, Berry, Sweet, Vanilla
+Happy, Energetic, Relaxed, Euphoric, Talkative, Diesel, Spicy/Herbal, Pungent
+Happy, Energetic, Uplifted, Relaxed, Talkative, Spicy/Herbal, Sweet, Grapefruit
+Creative, Happy, Sweet, Berry, Blueberry
+Euphoric, Sleepy, Uplifted, Energetic, Happy, Berry, Sweet, Earthy
+Happy, Relaxed, Uplifted, Hungry, Focused, Berry, Sweet, Spicy/Herbal
+pain, Relaxed, Sleepy, Happy, Euphoric, Hungry, Berry, Sweet, Earthy
+spinal cord, headache, ms, multiple sclerosis, depression, pain, Happy, Uplifted, Euphoric, Talkative, Focused, Berry, Sweet, Lime
+Euphoric, Creative, Hungry, Relaxed, Happy, Sweet, Blueberry, Berry
+appetite loss, insomnia, nausea, appetite, pain, Relaxed, Happy, Creative, Hungry, Sleepy, Berry, Sweet, Spicy/Herbal
+Relaxed, Euphoric, Happy, Uplifted, Energetic, Berry, Sweet, Pungent
+pain, Relaxed, Happy, Uplifted, Euphoric, Creative, Berry, Earthy, Blueberry
+appetite loss, anxiety, multiple sclerosis, appetite, pain, Relaxed, Sleepy, Euphoric, Happy, Hungry, Earthy, Berry, Grape
+Euphoric, Energetic, Talkative, Creative, Aroused, Blueberry, Sweet, Berry
+appetite loss, nausea, appetite, pain, Happy, Talkative, Euphoric, Relaxed, Uplifted, Earthy, Vanilla, Pungent
+depression, None, None
+Euphoric, Talkative, Uplifted, Creative, Happy, Diesel, Lemon, Chemical
+pain, Relaxed, Happy, Hungry, Uplifted, Euphoric, Pungent, Woody, Flowery
+pain, Creative, Relaxed, Happy, Euphoric, Focused, Flowery, Earthy, Berry
+pain, Sleepy, Uplifted, Euphoric, Happy, Creative, Diesel, Citrus, Orange
+Happy, Relaxed, Focused, Talkative, Euphoric, Earthy, Sage, Spicy/Herbal
+Relaxed, Uplifted, Happy, Euphoric, Tingly, Spicy/Herbal, Pepper, Sage
+Happy, Uplifted, Relaxed, Talkative, Focused, Blueberry, Spicy/Herbal, Berry
+anxiety, pain, Relaxed, Happy, Euphoric, Uplifted, Sleepy, Blueberry, Woody, Pungent
+Relaxed, Happy, Euphoric, Uplifted, Hungry, Blueberry, Berry, Citrus
+Euphoric, Happy, Sleepy, Uplifted, Creative, Berry, Pine
+Giggly, Uplifted, Creative, Happy, Sleepy, Sweet
+Relaxed, Sleepy, Hungry, Talkative, Focused, Sweet, Blueberry, Earthy
+Happy, Relaxed, Giggly, Euphoric, Aroused, Earthy, Pungent, Flowery
+ms, Relaxed, Euphoric, Sleepy, Uplifted, Happy, Blueberry, Citrus, Cheese
+Uplifted, Happy, Relaxed, Creative, Euphoric, Sweet, Blueberry, Berry
+ms, pain, Relaxed, Happy, Euphoric, Sleepy, Hungry, Blue, Cheese, Cheese, Blueberry
+Focused, Uplifted, Happy, Energetic, Sleepy, Blueberry, Earthy
+Relaxed, Euphoric, Happy, Uplifted, Creative, Berry, Blueberry, Sweet
+Happy, Relaxed, Uplifted, Energetic, Focused, Blueberry, Sweet, Berry
+Euphoric, Relaxed, Happy, Sleepy, Talkative, Sweet, Tree, Fruit, Pineapple
+appetite, Relaxed, Euphoric, Uplifted, Happy, Creative, Blueberry, Diesel, Berry
+Energetic, Happy, Relaxed, Focused, Uplifted, Earthy, Pungent, Berry
+Euphoric, Uplifted, Relaxed, Happy, Giggly, Blueberry, Berry, Sweet
+nausea, depression, pain, Relaxed, Happy, Uplifted, Euphoric, Creative, Blueberry, Berry, Sweet
+nausea, pain, Relaxed, Euphoric, Focused, Creative, Sleepy, Berry, Spicy/Herbal, Pine
+Uplifted, Happy, Relaxed, Euphoric, Creative, Blueberry, Cheese, Menthol
+insomnia, nausea, pain, Relaxed, Happy, Talkative, Creative, Energetic, Berry, Earthy, Blueberry
+pain, Relaxed, Happy, Sleepy, Euphoric, Hungry, Berry, Sweet, Blueberry
+nausea, depression, Happy, Uplifted, Creative, Energetic, Talkative, Berry, Skunk, Pine
+insomnia, Relaxed, Happy, Euphoric, Sleepy, Uplifted, Sweet, Blueberry, Earthy
+Happy, Uplifted, Relaxed, Euphoric, Energetic, Citrus, Earthy, Sweet
+Uplifted, Euphoric, Relaxed, Happy, Energetic, Blueberry, Sweet, Flowery
+Relaxed, Sleepy, Talkative, Happy, Uplifted, Woody, Spicy/Herbal, Pine
+ms, Relaxed, Focused, Hungry, Happy, Talkative, Earthy, Pepper, Blueberry
+nausea, pain, Relaxed, Uplifted, Focused, Sleepy, Euphoric, Sweet, Citrus, Blueberry
+anxiety, Relaxed, Talkative, Creative, Euphoric, Focused, Sweet, Berry, Blueberry
+ms, appetite, pain, Relaxed, Uplifted, Hungry, Happy, Focused, Berry, Blueberry, Sweet
+insomnia, pain, Sleepy, Euphoric, Hungry, Relaxed, Tingly, Earthy, Grape
+Relaxed, Uplifted, Euphoric, Creative, Hungry, Blueberry, Pine, Lemon
+pain, Relaxed, Euphoric, Happy, Tingly, Uplifted, Blueberry, Earthy, Berry
+Relaxed, Focused, Aroused, Sleepy, Euphoric, Citrus, Lemon, Tropical
+appetite loss, insomnia, anxiety, nausea, ms, appetite, pain, Relaxed, Happy, Uplifted, Euphoric, Giggly, Earthy, Sweet, Pungent
+pain, Relaxed, Hungry, Talkative, Sleepy, Happy, Berry, Sweet, Diesel
+Relaxed, Happy, Uplifted, Euphoric, Focused, Berry, Strawberry, Lavender
+Happy, Relaxed, Euphoric, Sleepy, Focused, Earthy, Berry, Woody
+anxiety, Euphoric, Relaxed, Tingly, Uplifted, Happy, Flowery, Earthy, Tar
+Happy, Relaxed, Giggly, Energetic, Sleepy, Blueberry, Earthy, Sweet
+Euphoric, Relaxed, Happy, Giggly, Creative, Berry, Earthy, Blueberry
+Happy, Talkative, Giggly, Tingly, Euphoric, Blueberry, Flowery
+nausea, pain, Relaxed, Happy, Euphoric, Hungry, Uplifted, Blueberry, Berry, Earthy
+appetite loss, nausea, ms, appetite, Sleepy, Relaxed, Hungry, Talkative, Uplifted, Berry, Flowery, Blueberry
+Relaxed, Tingly, Euphoric, Happy, Hungry, Sweet, Blueberry, Berry
+Relaxed, Tingly, Happy, Uplifted, Euphoric, Berry, Earthy, Sweet
+Sleepy, Relaxed, Focused, Uplifted, Hungry, Blueberry, Sweet, Berry
+appetite loss, nausea, glaucoma, appetite, pain, Uplifted, Happy, Euphoric, Talkative, Relaxed, Sweet, Blueberry, Citrus
+Happy, Relaxed, Uplifted, Euphoric, Creative, Earthy, Sweet, Pine
+appetite, Uplifted, Relaxed, Euphoric, Happy, Creative, Blueberry, Pungent, Earthy
+ms, Relaxed, Happy, Talkative, Uplifted, Focused, Earthy, Pungent, Woody
+Happy, Uplifted, Energetic, Focused, Relaxed, Blueberry, Berry, Sweet
+None, None
+pain, Relaxed, Focused, Happy, Uplifted, Creative, Earthy, Berry, Blueberry
+Happy, Relaxed, Euphoric, Uplifted, Focused, Sweet, Earthy, Diesel
+pain, Relaxed, Euphoric, Happy, Uplifted, Hungry, Pine, Blueberry, Berry
+Relaxed, Happy, Uplifted, Euphoric, Sleepy, Sweet, Berry, Earthy
+nausea, depression, pain, Uplifted, Happy, Euphoric, Focused, Relaxed, Blueberry
+Sleepy, Happy, Euphoric, Relaxed, Uplifted, Blueberry, Earthy, Honey
+appetite, pain, Aroused, Creative, Happy, Relaxed, Euphoric, Berry, Sweet, Flowery
+pain, Relaxed, Euphoric, Hungry, Sleepy, Happy, Pungent, Earthy, Pepper
+pain, Relaxed, Happy, Euphoric, Sleepy, Uplifted, Blueberry, Berry, Sweet
+anxiety, depression, pain, Energetic, Relaxed, Euphoric, Happy, Sleepy, Blueberry, Sweet, Pungent
+Happy, Uplifted, Euphoric, Energetic, Talkative, Blueberry, Berry, Sweet
+anxiety, Relaxed, Berry, Citrus
+Happy, Relaxed, Uplifted, Euphoric, Tingly, Blueberry, Sweet, Cheese
+ms, Uplifted, Happy, Euphoric, Relaxed, Focused, Blueberry, Diesel, Sweet
+Uplifted, Sleepy, Happy, Relaxed, Focused, Sweet, Flowery, Pine
+ms, pain, Relaxed, Happy, Uplifted, Euphoric, Sleepy, Blueberry, Sweet, Mango
+Happy, Euphoric, Creative, Uplifted, Energetic, Blueberry, Berry, Sweet
+Relaxed, Happy, Uplifted, Talkative, Euphoric, Blueberry, Berry, Earthy
+Relaxed, Happy, Creative, Giggly, Hungry, Blueberry, Pine, Berry
+pain, Relaxed, Happy, Euphoric, Sleepy, Uplifted, Blueberry, Berry, Sweet
+Relaxed, Happy, Sleepy, Uplifted, Euphoric, Blueberry, Sweet, Earthy
+anxiety, nausea, pain, Relaxed, Euphoric, Uplifted, Happy, Creative, Blueberry, Earthy, Berry
+anxiety, Happy, Hungry, Giggly, Euphoric, Talkative, Blueberry, Berry, Flowery
+insomnia, nausea, pain, Relaxed, Sleepy, Hungry, Happy, Euphoric, Blueberry, Berry, Sweet
+Relaxed, Happy, Uplifted, Euphoric, Sleepy, Blueberry, Earthy, Berry
+migraines, anxiety, pain, Happy, Uplifted, Giggly, Relaxed, Euphoric, Blueberry, Berry, Flowery
+Euphoric, Relaxed, Uplifted, Creative, Happy, Blueberry, Skunk, Berry
+pain, Euphoric, Relaxed, Tingly, Happy, Giggly, Tropical, Berry, Blueberry
+Happy, Uplifted, Energetic, Focused, Relaxed, Blueberry, Berry, Sweet
+None, None
+Talkative, Uplifted, Euphoric, Happy, Giggly, Sweet, Blueberry, Tropical
+Happy, Uplifted, Euphoric, Relaxed, Giggly, Blueberry, Sweet, Berry
+Happy, Relaxed, Uplifted, Creative, Sleepy, Sweet, Earthy, Berry
+pain, Creative, None
+ms, Euphoric, Uplifted, Happy, Tingly, Creative, Blueberry, Berry, Vanilla
+ms, Happy, Euphoric, Energetic, Hungry, Focused, Grape, Sweet, Flowery
+ms, depression, Talkative, Creative, Happy, Hungry, Relaxed, Pepper, Honey, Earthy
+Uplifted, Happy, Relaxed, Creative, Talkative, Sage, Chemical, Diesel
+None, None
+nausea, ptsd, pain, Happy, Talkative, Uplifted, Euphoric, Giggly, Sweet, Citrus, Tropical
+Happy, Relaxed, Hungry, Sleepy, Giggly, Sweet, Earthy, Grape
+Happy, Focused, Uplifted, Creative, Giggly, Earthy, Skunk, Diesel
+None, nan
+Sleepy, Giggly, Hungry, Tingly, Happy, Sweet, Earthy, Pungent
+migraines, glaucoma, pain, Relaxed, Euphoric, Uplifted, Happy, Creative, Sweet, Citrus, Pine
+Relaxed, Happy, Euphoric, Sleepy, Uplifted, Earthy, Sweet, Pungent
+Giggly, Relaxed, Talkative, Energetic, Euphoric, Berry, Sweet, Earthy
+depression, Creative, Sweet
+Euphoric, Focused, Relaxed, Sleepy, Hungry, Earthy, Woody, Sweet
+Talkative, Happy, Uplifted, Focused, Energetic, Sweet, Minty, Earthy
+Creative, Focused, Uplifted, Happy, Euphoric, Citrus, Earthy, Sweet
+Sleepy, Relaxed, Hungry, Happy, Euphoric, Earthy, Pine, Tar
+appetite, Relaxed, Happy, Uplifted, Tingly, Euphoric, Grape, Rose, Honey
+appetite, Uplifted, Euphoric, Focused, Happy, Relaxed, Spicy/Herbal, Berry, Earthy
+ms, Happy, Uplifted, Relaxed, Energetic, Hungry, Berry, Tropical, Sweet
+appetite, Hungry, Relaxed, Uplifted, Creative, Euphoric, Pungent, Earthy, Citrus
+None, None
+headache, nausea, pain, Uplifted, Euphoric, Creative, Energetic, Happy, nan
+pain, Hungry, Relaxed, None
+Euphoric, Aroused, Uplifted, Happy, Talkative, Mango, Tropical, Citrus
+pain, Happy, Euphoric, Relaxed, Uplifted, Creative, Earthy, Diesel, Pungent
+Euphoric, Relaxed, Happy, Uplifted, Energetic, Sweet, Earthy, Flowery
+Sleepy, Happy, Relaxed, None
+insomnia, anxiety, eating disorder, appetite, None, None
+depression, Aroused, Sleepy, Tingly, Uplifted, Creative, Citrus, Earthy, Pine
+anxiety, pain, None, None
+Relaxed, Happy, Sleepy, Euphoric, Hungry, Earthy, Sweet, Woody
+insomnia, nausea, ms, pain, Happy, Relaxed, Sleepy, Euphoric, Uplifted, Earthy, Sweet, Pungent
+Euphoric, Happy, Uplifted, Creative, Talkative, Earthy, Pungent, Ammonia
+Creative, Euphoric, Relaxed, Happy, Tingly, Diesel, Skunk, Pine
+migraines, appetite, pain, Sleepy, Tingly, Uplifted, Hungry, Relaxed, Flowery, Rose, Earthy
+Relaxed, Euphoric, Happy, Uplifted, Focused, Sweet, Flowery, Berry
+Relaxed, Hungry, Sleepy, Tingly, Talkative, Blue, Cheese, Cheese, Pungent
+Happy, Relaxed, Euphoric, Uplifted, Hungry, Sweet, Flowery, Berry
+Happy, Relaxed, Focused, Uplifted, Hungry, Sweet, Berry, Blueberry
+Relaxed, Happy, Sleepy, Uplifted, Talkative, Sweet, Earthy, Flowery
+insomnia, appetite, pain, Happy, Focused, Aroused, Talkative, Uplifted, Pepper, Mint, Blueberry
+Happy, Relaxed, Talkative, Giggly, Uplifted, Sweet, Blueberry, Berry
+Sleepy, Relaxed, Euphoric, Focused, Happy, Tropical, Diesel, Grape
+Giggly, Happy, Uplifted, Euphoric, Talkative, Sweet, Earthy, Nutty
+Relaxed, Happy, Euphoric, Uplifted, Hungry, Earthy, Pungent, Sweet
+Focused, Euphoric, Energetic, Aroused, Uplifted, Citrus, Lemon, Pungent
+Relaxed, Sleepy, Uplifted, Happy, Euphoric, Earthy, Flowery, Sweet
+ms, Relaxed, Uplifted, Tingly, Euphoric, Happy, Earthy, Woody, Pine
+pain, Relaxed, Happy, Uplifted, Hungry, Sleepy, Berry, Earthy, Pine
+appetite, pain, Relaxed, Sleepy, Happy, Euphoric, Uplifted, Berry, Flowery, Pungent
+Uplifted, Relaxed, Happy, Euphoric, Creative, Earthy, Pine, Pungent
+None, None
+insomnia, anxiety, depression, pain, Relaxed, Sleepy, Happy, Euphoric, Giggly, Butter, Sweet, Pungent
+insomnia, Relaxed, Euphoric, Focused, Creative, Sleepy, Pine, Citrus, Nutty
+anxiety, ms, pain, Euphoric, Creative, Uplifted, Energetic, Giggly, Earthy, Pungent, Lemon
+None, None
+inflammation, anxiety, ms, pain, Relaxed, Hungry, Sleepy, Focused, Uplifted, Sweet, Pine, Lemon
+anxiety, depression, Relaxed, Happy, Euphoric, Creative, Uplifted, Earthy, Flowery, Lime
+inflammation, Relaxed, Happy, Uplifted, Focused, Euphoric, Blueberry, Flowery, Earthy
+inflammation, pain, Relaxed, Sleepy, Happy, Focused, Euphoric, Sweet, Earthy, Berry
+insomnia, anorexia, depression, pain, Relaxed, Happy, Sleepy, Hungry, Uplifted, Earthy, Pungent, Menthol
+inflammation, anxiety, pain, Relaxed, Happy, Focused, Uplifted, Euphoric, Earthy, Woody, Spicy/Herbal
+inflammation, Focused, Happy, Sleepy, Energetic, Euphoric, Citrus
+ms, Focused, Relaxed, Uplifted, Energetic, Euphoric, Mango, Tropical, Flowery
+anxiety, Aroused, Sleepy, Happy, Euphoric, Hungry, Sweet, Berry, Flowery
+inflammation, None, None
+inflammation, anxiety, ms, pain, Relaxed, Tingly, Happy, Sleepy, Euphoric, Pungent, Nutty, Earthy
+insomnia, pain, Relaxed, Giggly, Sleepy, Happy, Talkative, Skunk, Diesel, Sweet
+pain, Relaxed, Happy, Uplifted, Giggly, Energetic, Menthol, Grapefruit, Nutty
+None, None
+anxiety, ms, pain, Euphoric, Happy, Uplifted, Relaxed, Hungry, Citrus, Earthy, Pungent
+Creative, Euphoric, Focused, Happy, Energetic, Citrus, Earthy, Sweet
+pain, Relaxed, Sleepy, Tingly, Happy, Hungry, Berry, Earthy, Grape
+Uplifted, Relaxed, Happy, Sleepy, Euphoric, Earthy, Pine, Skunk
+migraines, anxiety, nausea, ms, Creative, Happy, Talkative, Uplifted, Euphoric, Diesel, Sweet, Skunk
+Relaxed, Happy, Hungry, Euphoric, Uplifted, Earthy, Woody, Sweet
+insomnia, pain, Euphoric, Relaxed, Tingly, Talkative, Uplifted, Citrus, Grapefruit, Pepper
+anxiety, Uplifted, Creative, Energetic, Giggly, Happy, Citrus
+Happy, Relaxed, Uplifted, Euphoric, Giggly, Citrus, Orange, Sweet
+Focused, Relaxed, Euphoric, Energetic, Uplifted, Lemon, Diesel, Citrus
+None, None
+Energetic, Talkative, Happy, Relaxed, Uplifted, Earthy, Tropical, Flowery
+Euphoric, Happy, Aroused, Creative, Relaxed, Sweet, Citrus, Lemon
+Relaxed, Sleepy, Euphoric, Hungry, Happy, Sweet, Tropical, Pine
+appetite loss, appetite, depression, Happy, Energetic, Euphoric, Creative, Focused, Skunk, Citrus, Pungent
+pain, Happy, Uplifted, Energetic, Euphoric, Creative, Sweet, Earthy, Flowery
+inflammation, anxiety, pain, Relaxed, Happy, Focused, Uplifted, Creative, Woody, Earthy, Grapefruit
+Relaxed, Euphoric, Sleepy, Happy, Aroused, Earthy, Sweet, Berry
+Euphoric, Happy, Relaxed, Uplifted, Energetic, Earthy, Pungent, Diesel
+appetite loss, appetite, Happy, Relaxed, Energetic, Uplifted, Creative, Sweet, Tropical, Flowery
+Uplifted, Happy, Relaxed, Euphoric, Focused, Sweet, Earthy, Woody
+migraines, anxiety, ms, pain, Relaxed, Happy, Uplifted, Focused, Euphoric, Earthy, Woody, Sweet
+insomnia, pain, Sleepy, Happy, Hungry, Relaxed, Uplifted, Pungent, Skunk, Earthy
+Sleepy, Tingly, Euphoric, Giggly, Happy, Flowery, Lavender, Rose
+anxiety, nausea, ms, pain, Relaxed, Uplifted, Euphoric, Creative, Happy, Diesel, Berry, Orange
+Euphoric, Relaxed, Energetic, Happy, Focused, Earthy, Citrus, Sweet
+ms, pain, Relaxed, Happy, Focused, Creative, Talkative, Vanilla, Coffee, Sweet
+None, None
+hiv, Relaxed, Uplifted, Tingly, Hungry, Happy, Coffee, Vanilla, Woody
+Focused, Happy, Relaxed, Euphoric, Creative, Vanilla, Sweet, Coffee
+Aroused, Euphoric, Relaxed, Menthol, Spicy/Herbal, Sweet
+Energetic, Happy, Uplifted, Relaxed, Talkative, Sweet, Coffee, Vanilla
+Happy, Relaxed, Uplifted, Focused, Aroused, Sweet, Earthy, Pine
+Talkative, Uplifted, Happy, Energetic, Relaxed, Earthy, Pine
+pain, Relaxed, Tingly, Sleepy, Aroused, Uplifted, Sweet, Earthy, Flowery
+Uplifted, Happy, Energetic, Creative, Hungry, Earthy, Sweet, Citrus
+Uplifted, Euphoric, Happy, Talkative, Energetic, Earthy, Pungent, Butter
+Relaxed, Sleepy, Euphoric, Hungry, Uplifted, Earthy, Sweet, Pungent
+Happy, Uplifted, Euphoric, Relaxed, Talkative, Earthy, Woody, Blue, Cheese
+pain, Relaxed, Happy, Hungry, Euphoric, Uplifted, Pungent, Citrus, Sweet
+Uplifted, Creative, Energetic, Euphoric, Happy, Earthy, Ammonia, Chemical
+Sleepy, Relaxed, Uplifted, Creative, Euphoric, Sweet, Spicy/Herbal, Pineapple
+Relaxed, Euphoric, Happy, Hungry, Earthy, Diesel, Sweet
+headache, pain, Uplifted, Happy, Relaxed, Creative, Energetic, Pepper, Citrus, Vanilla
+ms, appetite, Energetic, Happy, Uplifted, Creative, Euphoric, Diesel, Pepper, Citrus
+Happy, Uplifted, Relaxed, Euphoric, Talkative, Citrus, Sweet, Earthy
+insomnia, pain, Happy, Euphoric, Relaxed, Sleepy, Focused, Pine, Sweet, Lemon
+Relaxed, Uplifted, Focused, Happy, Energetic, Earthy, Flowery, Sweet
+Relaxed, Happy, Euphoric, Uplifted, Hungry, Cheese, Earthy, Pungent
+Relaxed, Uplifted, Happy, Sleepy, Creative, Cheese, Sweet, Pungent
+Euphoric, Uplifted, Relaxed, Tingly, Happy, Ammonia, Citrus, Rose
+ms, Tingly, Uplifted, Relaxed, Aroused, Creative, Cheese, Pepper, Tea
+Happy, Relaxed, Uplifted, Creative, Euphoric, Cheese, Woody, Pungent
+Talkative, Energetic, Happy, Creative, Uplifted, Sweet, Earthy, Pungent
+Relaxed, Happy, Sleepy, Euphoric, Hungry, Lavender, Sweet, Citrus
+ms, Talkative, Uplifted, Creative, Happy, Aroused, Earthy, Sweet, Flowery
+Uplifted, Creative, Happy, Talkative, Energetic, nan
+Relaxed, Euphoric, Focused, Happy, Creative, Earthy, Skunk, Tea
+Relaxed, Euphoric, Happy, Tingly, Sleepy, Diesel, Earthy, Pine
+Creative, Euphoric, Happy, Focused, Relaxed, Chemical, Pungent, Citrus
+Uplifted, Talkative, Happy, Relaxed, Energetic, Diesel, Chemical, Pungent
+Relaxed, Happy, Euphoric, Uplifted, Creative, Diesel, Earthy, Pungent
+Relaxed, Energetic, Happy, Euphoric, Creative, Nutty, Mint, Flowery
+Relaxed, Euphoric, Happy, Hungry, Uplifted, Pine, Diesel, Lemon
+Euphoric, Uplifted, Relaxed, Happy, Tingly, Earthy, Diesel, Pungent
+anxiety, Uplifted, Happy, Euphoric, Relaxed, Energetic, Diesel, Pine, Pungent
+Happy, Relaxed, Euphoric, Creative, Uplifted, Earthy, Flowery, Pine
+inflammation, depression, Uplifted, Euphoric, Relaxed, Happy, Energetic, Diesel, Sweet, Citrus
+appetite loss, nausea, appetite, pain, Relaxed, Euphoric, Sleepy, Happy, Hungry, Earthy, Woody, Pine
+Creative, Energetic, Happy, Relaxed, Focused, Sweet, Strawberry, Citrus
+Happy, Euphoric, Relaxed, Energetic, Uplifted, Citrus, Lime, Lemon
+Euphoric, Uplifted, Relaxed, Happy, Creative, Berry, Woody, Sage
+Relaxed, Happy, Euphoric, Uplifted, Focused, Sweet, Berry, Earthy
+ms, Focused, Talkative, Happy, Uplifted, Relaxed, Berry, Pungent, Skunk
+Happy, Uplifted, Euphoric, Relaxed, Focused, Sweet, Berry, Pungent
+appetite, pain, Relaxed, Euphoric, Creative, Energetic, Uplifted, Sweet, Chemical, Pungent
+Relaxed, Euphoric, Energetic, Happy, Uplifted, Berry, Sweet, Citrus
+Uplifted, Giggly, Sleepy, Aroused, Euphoric, Flowery, Citrus, Sweet
+appetite loss, appetite, pain, None, None
+ms, Creative, Happy, Relaxed, Tingly, Uplifted, Berry, Sweet, Flowery
+Relaxed, Euphoric, Happy, Giggly, Tingly, Berry, Sweet, Pungent
+Relaxed, Uplifted, Euphoric, Happy, Creative, Sweet, Berry, Earthy
+Relaxed, Euphoric, Happy, Tingly, Uplifted, Sweet, Lime, Citrus
+Euphoric, Relaxed, Happy, Uplifted, Hungry, Berry, Diesel, Sweet
+Happy, Relaxed, Euphoric, Uplifted, Focused, Sweet, Berry, Earthy
+Happy, Relaxed, Euphoric, Giggly, Sleepy, Lavender, Berry, Sweet
+nausea, Talkative, Tingly, Uplifted, Creative, Energetic, Spicy/Herbal, Sweet, Flowery
+anxiety, depression, Sleepy, Giggly, Aroused, Talkative, Tingly, Berry, Sweet, Diesel
+Relaxed, Happy, Uplifted, Aroused, Hungry, Earthy, Sweet, Skunk
+anxiety, appetite, Focused, Uplifted, Happy, Relaxed, Sweet, Earthy, Pine
+appetite, pain, Uplifted, Happy, Energetic, Euphoric, Focused, Berry, Pungent, Earthy
+pain, Aroused, Euphoric, Focused, Happy, Hungry, Ammonia, Diesel, Mint
+Happy, Euphoric, Relaxed, Uplifted, Focused, Diesel, Pungent, Cheese
+anxiety, pain, Uplifted, Happy, Relaxed, Euphoric, Sleepy, Sweet, Earthy, Cheese
+nausea, ms, pain, Happy, Euphoric, Uplifted, Relaxed, Creative, Sweet, Orange, Lemon
+appetite, pain, Creative, Euphoric, Uplifted, Talkative, Focused, Earthy, Spicy/Herbal, Sweet
+None, None
+Relaxed, Sleepy, Happy, Euphoric, Hungry, Sweet, Woody, Earthy
+Euphoric, Energetic, Happy, Creative, Uplifted, Diesel, Woody, Nutty
+anxiety, Uplifted, Euphoric, Giggly, Happy, Relaxed, Earthy, Vanilla
+Uplifted, Relaxed, Happy, Euphoric, Focused, Sweet, Cheese, Earthy
+anxiety, pain, Relaxed, Happy, Euphoric, Uplifted, Sleepy, Berry, Earthy, Sweet
+Relaxed, Sleepy, Euphoric, Happy, Hungry, Earthy, Sweet, Woody
+None, None
+Relaxed, Uplifted, Euphoric, Aroused, Tingly, Sweet, Earthy, Pungent
+Creative, Happy, Talkative, Uplifted, Energetic, Sweet, Vanilla, Coffee
+Talkative, Uplifted, Energetic, Happy, Euphoric, Citrus, Skunk, Chemical
+Uplifted, Happy, Energetic, Focused, Creative, Spicy/Herbal, Coffee, Woody
+ms, Uplifted, Creative, Happy, Energetic, Focused, Honey, Nutty, Spicy/Herbal
+inflammation, anxiety, nausea, None, None
+depression, Happy, Uplifted, Energetic, Focused, Euphoric, Coffee, Earthy, Sweet
+Happy, Creative, Focused, Uplifted, Euphoric, Earthy, Sweet, Vanilla
+Relaxed, Happy, Uplifted, Creative, Euphoric, Honey, Earthy, Skunk
+ms, Relaxed, Happy, Giggly, Euphoric, Energetic, Woody, Spicy/Herbal, Sweet
+insomnia, pain, Relaxed, Happy, Euphoric, Sleepy, Tingly, Pungent, Sweet, Diesel
+appetite, depression, Giggly, Happy, Energetic, Euphoric, Talkative, Pungent, Lemon, Flowery
+nausea, depression, Energetic, Relaxed, Euphoric, Uplifted, Happy, Diesel, Pungent, Earthy
+Focused, Relaxed, Happy, Uplifted, Energetic, Earthy, Vanilla, Sweet
+Relaxed, Happy, Euphoric, Sleepy, Uplifted, Pine, Sweet, Lemon
+ms, Euphoric, Uplifted, Happy, Energetic, Relaxed, Citrus, Earthy, Sweet
+Euphoric, Uplifted, Energetic, Focused, Creative, Pepper, Sweet, Citrus
+Happy, Euphoric, Uplifted, Relaxed, Talkative, Earthy, Citrus, Lemon
+depression, pain, Energetic, Uplifted, Happy, Focused, Euphoric, Earthy, Citrus, Sweet
+pain, Uplifted, Happy, Talkative, Euphoric, Creative, Diesel, Menthol, Grape
+Happy, Euphoric, Uplifted, Relaxed, Energetic, Citrus, Lemon, Grapefruit
+Relaxed, Happy, Euphoric, Tingly, Uplifted, Citrus, Orange, Sweet
+Uplifted, Happy, Relaxed, Euphoric, Giggly, Citrus, Orange, Tropical
+ms, Happy, Euphoric, Relaxed, Uplifted, Energetic, Citrus, Orange, Pungent
+depression, pain, Happy, Uplifted, Focused, Creative, Energetic, Citrus, Orange, Lemon
+ms, Happy, Energetic, Focused, Uplifted, Euphoric, Citrus, Orange, Sweet
+Happy, Euphoric, Relaxed, Giggly, Tingly, Citrus, Orange, Flowery
+Aroused, Uplifted, Creative, Focused, Happy, Sweet, Earthy, Pine
+Relaxed, Happy, Uplifted, Hungry, Aroused, Spicy/Herbal, Sweet, Citrus
+Euphoric, Energetic, Happy, Giggly, Relaxed, Tropical, Flowery, Rose
+Sleepy, Relaxed, Diesel, Flowery, Earthy
+Euphoric, Focused, Relaxed, Sleepy, Uplifted, Sweet
+Aroused, Happy, Relaxed, Uplifted, Creative, Tropical, Flowery, Pungent
+Relaxed, Happy, Hungry, Euphoric, Uplifted, Earthy, Pine, Woody
+anxiety, ms, depression, pain, Happy, Euphoric, Energetic, Uplifted, Talkative, Earthy, Pungent, Spicy/Herbal
+Aroused, Talkative, Tingly, Uplifted, Creative, Minty, Sweet, Citrus
+ms, Relaxed, Happy, Sleepy, Uplifted, Creative, Pineapple, Mango, Pine
+Relaxed, Uplifted, Euphoric, Happy, Tingly, Earthy, Sweet, Skunk
+Relaxed, Happy, Sleepy, Euphoric, Hungry, Citrus, Earthy, Orange
+migraines, nausea, depression, Relaxed, Sleepy, Euphoric, Happy, Talkative, Diesel, Sweet, Flowery
+pain, Creative, Euphoric, Giggly, Happy, Relaxed, Sweet, Grape
+insomnia, appetite, pain, Sleepy, Uplifted, Relaxed, Tingly, Happy, Cheese, Pine, Woody
+headache, pain, Hungry, Relaxed, Tingly, Uplifted, Creative, nan
+depression, Uplifted, Energetic, Euphoric, Happy, Talkative, Ammonia, Diesel, Sweet
+ms, Uplifted, Relaxed, Happy, Sleepy, Creative, Sweet, Earthy, Pine
+Relaxed, Happy, Sleepy, Uplifted, Giggly, Spicy/Herbal, Berry, Earthy
+Happy, Relaxed, Uplifted, Giggly, Euphoric, Sweet, Pungent, Earthy
+appetite, pain, Relaxed, Happy, Euphoric, Giggly, Hungry, Sweet, Earthy, Vanilla
+headache, insomnia, anxiety, Relaxed, Sleepy, Euphoric, Hungry, Uplifted, Pungent, Sweet, Flowery
+Relaxed, Happy, Hungry, Sleepy, Euphoric, Sweet, Earthy, Flowery
+Happy, Relaxed, Euphoric, Uplifted, Focused, Sweet, Earthy, Pungent
+ms, Relaxed, Happy, Euphoric, Hungry, Sleepy, Sweet, Earthy, Pungent
+ms, Relaxed, Happy, Euphoric, Uplifted, Sleepy, Sweet, Vanilla, Earthy
+Uplifted, Relaxed, Happy, Euphoric, Giggly, Sweet, Berry, Citrus
+Relaxed, Euphoric, Happy, Uplifted, Tingly, Earthy, Pungent, Woody
+insomnia, pain, Relaxed, Euphoric, Happy, Hungry, Sleepy, Earthy, Spicy/Herbal, Flowery
+appetite, Relaxed, Euphoric, Hungry, Happy, Sleepy, Lemon, Citrus, Woody
+depression, Uplifted, Energetic, Talkative, Euphoric, Relaxed, Sweet, Earthy, Minty
+pain, Relaxed, Happy, Euphoric, Uplifted, Energetic, Sweet, Berry, Flowery
+Relaxed, Uplifted, Euphoric, Happy, Tingly, Sweet, Earthy, Berry
+inflammation, insomnia, Happy, Uplifted, Euphoric, Relaxed, Creative, Earthy, Pine, Diesel
+Energetic, Creative, Focused, Happy, Euphoric, Sweet, Woody, Citrus
+Happy, Uplifted, Talkative, Relaxed, Creative, Citrus, Pine, Pungent
+anxiety, Uplifted, Happy, Euphoric, Relaxed, Creative, Sweet, Vanilla, Butter
+pain, Relaxed, Happy, Sleepy, Tingly, Focused, Butter, Sweet, Honey
+Happy, Uplifted, Euphoric, Sleepy, Creative, Berry, Tea, Blueberry
+Relaxed, Sleepy, Happy, Giggly, Talkative, Honey, Skunk, Sweet
+pain, Relaxed, Happy, Hungry, Sleepy, Euphoric, Tobacco, Sweet, Earthy
+Euphoric, Focused, Happy, Relaxed, Energetic, Cheese, Earthy, Pungent
+appetite loss, multiple sclerosis, appetite, Relaxed, Happy, Uplifted, Hungry, Giggly, Citrus, Earthy, Pine
+Relaxed, Happy, Uplifted, Euphoric, Sleepy, Earthy, Woody, Flowery
+appetite loss, headache, appetite, depression, Energetic, Creative, Happy, Focused, Uplifted, Pine, Citrus, Woody
+Creative, Focused, Uplifted, Happy, Euphoric, Pine, Sweet, Earthy
+insomnia, ms, pain, Relaxed, Happy, Sleepy, Euphoric, Uplifted, Earthy, Pungent, Sweet
+Relaxed, Happy, Sleepy, Euphoric, Hungry, Earthy, Pungent, Sweet
+migraines, anxiety, ptsd, depression, Relaxed, Happy, Hungry, Sleepy, Creative, Woody, Spicy/Herbal, Pungent
+Happy, Relaxed, Uplifted, Euphoric, Aroused, Lemon, Earthy, Pine
+insomnia, ms, Relaxed, Sleepy, Happy, Uplifted, Euphoric, Citrus, Sweet, Lemon
+Happy, Relaxed, Creative, Hungry, Aroused, Earthy, Skunk
+Relaxed, Euphoric, Uplifted, Focused, Sleepy, Citrus, Pungent, Sweet
+pain, Uplifted, Tingly, Relaxed, Euphoric, Aroused, Lemon, Earthy, Pungent
+None, None
+Relaxed, Happy, Euphoric, Uplifted, Creative, Sweet, Blueberry, Pine
+Relaxed, Happy, Euphoric, Tingly, Uplifted, Pine, Spicy/Herbal, Earthy
+insomnia, pain, Relaxed, Happy, Sleepy, Uplifted, Euphoric, Diesel, Earthy, Pepper
+nausea, pain, Relaxed, Happy, Euphoric, Sleepy, Aroused, Sweet, Flowery, Berry
+Relaxed, Happy, Euphoric, Sleepy, Uplifted, Sweet, Berry, Honey
+Relaxed, Euphoric, Focused, Happy, Uplifted, Sweet, Cheese, Pungent
+anxiety, ptsd, pain, Happy, Uplifted, Euphoric, Focused, Creative, Flowery, Earthy, Citrus
+appetite, Focused, Creative, Euphoric, Happy, Hungry, Diesel, Earthy, Skunk
+pain, Aroused, Relaxed, Uplifted, Giggly, Happy, Berry, Blueberry, Grape
+Euphoric, Happy, Relaxed, Giggly, Tingly, Earthy, Grape, Berry
+ms, depression, Creative, Energetic, None
+Relaxed, Euphoric, Happy, Uplifted, Sleepy, Blueberry, Sweet, Berry
+appetite, Euphoric, Relaxed, Aroused, Talkative, Uplifted, Sweet, Citrus, Lavender
+ms, Happy, Relaxed, Euphoric, Uplifted, Creative, Cheese, Sweet, Earthy
+pain, Relaxed, Sleepy, Happy, Euphoric, Giggly, Earthy, Coffee, Spicy/Herbal
+appetite loss, appetite, Hungry, Happy, Tingly, Uplifted, Creative, Sweet, Earthy, Ammonia
+ms, appetite, pain, Relaxed, Happy, Euphoric, Uplifted, Energetic, Spicy/Herbal, Pepper, Earthy
+ms, pain, Happy, Relaxed, Uplifted, Euphoric, Talkative, Earthy, Citrus, Spicy/Herbal
+Happy, Relaxed, Uplifted, Energetic, Creative, Earthy, Citrus, Flowery
+Relaxed, Happy, Uplifted, Euphoric, Hungry, Tropical, Pine, Earthy
+depression, Happy, Uplifted, Relaxed, Sleepy, Euphoric, Diesel, Berry, Tropical
+Euphoric, Happy, Uplifted, Aroused, Energetic, Sweet, Pungent, Skunk
+Happy, Euphoric, Relaxed, Uplifted, Giggly, Sweet, Berry, Blueberry
+Relaxed, Sleepy, Euphoric, Happy, Uplifted, Berry, Earthy, Spicy/Herbal
+anxiety, pain, Relaxed, Sleepy, Happy, Hungry, Euphoric, Earthy, Pungent, Skunk
+Sleepy, Relaxed, Euphoric, Hungry, Happy, Lemon, Citrus, Earthy
+insomnia, Relaxed, Sleepy, Euphoric, Hungry, Tingly, Earthy, Pine, Grape
+insomnia, pain, Euphoric, Relaxed, Uplifted, Happy, Sleepy, Earthy, Skunk, Sweet
+insomnia, anxiety, pain, Sleepy, Relaxed, Spicy/Herbal, Pepper, Pungent
+Uplifted, Euphoric, Happy, Relaxed, Sleepy, Blueberry, Strawberry, Pineapple
+Uplifted, Relaxed, Happy, Euphoric, Creative, Earthy, Pine, Diesel
+insomnia, anxiety, pain, Happy, Talkative, Uplifted, Giggly, Relaxed, Berry, Lavender, Earthy
+Relaxed, Sleepy, Happy, Euphoric, Uplifted, Earthy, Pungent, Sweet
+Relaxed, Happy, Euphoric, Sleepy, Uplifted, Earthy, Diesel, Pungent
+Relaxed, Happy, Sleepy, Euphoric, Tingly, Diesel, Earthy, Skunk
+Relaxed, Uplifted, Creative, Hungry, Talkative, Cheese, Pungent, Skunk
+insomnia, pain, Happy, Relaxed, Sleepy, Uplifted, Creative, Plum, Earthy, Ammonia
+Relaxed, Happy, Euphoric, Sleepy, Tingly, Grape, Earthy, Sweet
+Relaxed, Euphoric, Sleepy, Tingly, Happy, Pungent, Earthy, Sweet
+ms, Uplifted, Happy, Energetic, Focused, Talkative, Citrus, Mango, Sweet
+Relaxed, Sleepy, Giggly, Tingly, Uplifted, Sweet, Earthy, Pine
+Hungry, Sleepy, Tingly, Uplifted, Creative, Earthy
+Energetic, Uplifted, Euphoric, Giggly, Happy, Lavender, Ammonia, Sweet
+Relaxed, Happy, Euphoric, Focused, Hungry, Spicy/Herbal, Pepper, Sweet
+anxiety, Energetic, Focused, Relaxed, Talkative, Tingly, Spicy/Herbal, Pepper, Earthy
+Happy, Tingly, Euphoric, Creative, Uplifted, Sweet, Earthy, Spicy/Herbal
+ms, pain, Relaxed, Sleepy, Happy, Uplifted, Euphoric, Earthy, Spicy/Herbal, Pine
+Happy, Relaxed, None
+anxiety, depression, Happy, Relaxed, Sleepy, Creative, Energetic, Earthy, Spicy/Herbal, Pungent
+Euphoric, Happy, Talkative, Giggly, Uplifted, Sweet, Flowery, Honey
+inflammation, ms, pain, Relaxed, Sleepy, Giggly, Focused, Uplifted, Diesel, Earthy, Woody
+ms, pain, Happy, Uplifted, Relaxed, Sleepy, Giggly, Earthy, Skunk, Spicy/Herbal
+Talkative, Relaxed, Happy, Energetic, Giggly, Tropical, Pungent, Earthy
+headache, anxiety, depression, Uplifted, Happy, Focused, Euphoric, Energetic, Citrus, Sweet, Lemon
+depression, pain, None, Spicy/Herbal, Flowery
+Uplifted, Energetic, Talkative, Tingly, Euphoric, Sweet, Earthy, Pungent
+Happy, Creative, Energetic, Focused, Giggly, Sweet, Lime, Apple
+Giggly, Relaxed, Uplifted, Happy, Hungry, Sweet, Pungent, Spicy/Herbal
+pain, Energetic, Uplifted, Happy, Talkative, Euphoric, Sweet, Flowery, Earthy
+ms, Talkative, Uplifted, Creative, Euphoric, Happy, nan
+Relaxed, Euphoric, Sleepy, Happy, Hungry, Earthy, Sweet, Pungent
+inflammation, anxiety, nausea, Relaxed, Uplifted, Focused, Happy, Aroused, Sweet, Strawberry, Citrus
+Creative, Euphoric, Relaxed, Uplifted, Happy, Pungent, Earthy, Berry
+appetite loss, appetite, pain, Relaxed, Happy, Euphoric, Sleepy, Uplifted, Earthy, Skunk, Pungent
+Creative, Sleepy, Uplifted, Energetic, Hungry, Sweet, Flowery, Pungent
+Sleepy, Happy, Tingly, Uplifted, Euphoric, nan
+Uplifted, Euphoric, Relaxed, Talkative, Happy, Citrus, Tropical, Diesel
+Euphoric, Relaxed, Sleepy, Talkative, Energetic, Earthy, Woody, Pungent
+ms, Creative, Euphoric, Relaxed, Happy, Hungry, Citrus, Pungent, Sweet
+Euphoric, Tingly, Happy, Talkative, Relaxed, Blueberry, Earthy, Sweet
+Uplifted, Energetic, Happy, Focused, Tingly, Sweet, Citrus, Lime
+Relaxed, Euphoric, Focused, Energetic, Uplifted, Earthy, Pine, Pungent
+appetite loss, inflammation, nausea, appetite, pain, Relaxed, Euphoric, Uplifted, Tingly, Sleepy, Ammonia, Spicy/Herbal, Minty
+Relaxed, Euphoric, Hungry, Sleepy, Uplifted, Earthy, Citrus
+Creative, Happy, Focused, Energetic, Euphoric, Diesel, Lime, Citrus
+headache, inflammation, anxiety, nausea, ptsd, pain, Uplifted, Relaxed, Happy, Focused, Euphoric, Sweet, Earthy, Berry
+ms, Hungry, Uplifted, Talkative, Creative, Energetic, Tar, Earthy, Sweet
+Uplifted, Euphoric, Sleepy, Talkative, Tingly, Minty, Mint, Lemon
+anxiety, ms, pain, Sleepy, Happy, Euphoric, Relaxed, Focused, Earthy, Diesel, Skunk
+Relaxed, Creative, Sleepy, Happy, Euphoric, Earthy, Grape, Pungent
+ms, Happy, Uplifted, Relaxed, Energetic, Euphoric, Citrus, Sweet, Orange
+Talkative, Happy, Relaxed, None
+appetite loss, panic, anorexia, appetite, Uplifted, Creative, Energetic, Focused, Talkative, None
+None, None
+anxiety, pain, Happy, Relaxed, Tingly, Euphoric, Sleepy, Earthy, Woody, Nutty
+Relaxed, Happy, Tingly, Sleepy, Aroused, Earthy, Berry, Blueberry
+ms, pain, Happy, Energetic, Uplifted, Creative, Talkative, Earthy, Citrus, Pungent
+ms, None, None
+appetite loss, nausea, multiple sclerosis, appetite, pain, Relaxed, Happy, Euphoric, Uplifted, Creative, Sweet, Earthy, Berry
+pain, Uplifted, Happy, Relaxed, Euphoric, Focused, Diesel, Berry, Tropical
+anxiety, depression, pain, Happy, Uplifted, Talkative, Relaxed, Creative, Spicy/Herbal, Earthy, Skunk
+Focused, Relaxed, Talkative, Tingly, Uplifted, Earthy, Diesel, Sage
+Happy, Uplifted, Energetic, Talkative, Creative, Pineapple, Woody, Spicy/Herbal
+Relaxed, Sleepy, Euphoric, Happy, Giggly, Berry, Citrus, Diesel
+Happy, Uplifted, Relaxed, Euphoric, Energetic, Spicy/Herbal, Woody, Tea
+pain, Uplifted, Talkative, Energetic, Euphoric, Creative, Pepper, Blueberry, Citrus
+Happy, Uplifted, Euphoric, Relaxed, Energetic, Citrus, Sweet, Earthy
+headache, ms, multiple sclerosis, depression, pain, Euphoric, Creative, Uplifted, Talkative, Relaxed, Earthy, Woody, Sweet
+nausea, pain, Uplifted, Euphoric, Creative, Relaxed, Giggly, Earthy, Skunk, Sweet
+Uplifted, Energetic, Happy, Euphoric, Giggly, Sweet, Earthy, Pungent
+Creative, Happy, Energetic, Focused, Euphoric, Sweet, Pungent, Earthy
+Focused, Relaxed, Happy, Creative, Uplifted, Pine, Citrus, Lemon
+pain, Hungry, Euphoric, Uplifted, Giggly, Relaxed, Blue, Cheese, Cheese, Earthy
+pain, Happy, Uplifted, Euphoric, Relaxed, Hungry, Sweet, Earthy, Woody
+Energetic, Happy, Uplifted, Euphoric, Focused, Earthy, Sweet, Pine
+Relaxed, Happy, Giggly, Uplifted, Creative, Minty, Earthy, Citrus
+migraines, Tingly, Focused, Hungry, Relaxed, Aroused, Spicy/Herbal, Pepper, Citrus
+Euphoric, Relaxed, Happy, Creative, Focused, Citrus, Sweet, Mint
+Happy, Relaxed, Uplifted, Euphoric, Energetic, Citrus, Sweet, Tropical
+Relaxed, Energetic, Creative, Happy, Aroused, Citrus, Earthy
+ms, Hungry, Relaxed, Sleepy, Giggly, Creative, Coffee, Berry, Flowery
+ms, Happy, Relaxed, Tingly, Talkative, Euphoric, Sweet, Earthy, Pungent
+Uplifted, Euphoric, Talkative, Relaxed, Creative, Earthy, Citrus, Lemon
+ms, Relaxed, Happy, Euphoric, Uplifted, Focused, Sweet, Pine, Earthy
+appetite, Happy, Uplifted, Relaxed, Euphoric, Energetic, Earthy, Citrus, Berry
+Happy, Uplifted, Energetic, Relaxed, Creative, Berry, Sweet, Orange
+Relaxed, Euphoric, Happy, Hungry, Sleepy, Citrus, Grapefruit, Earthy
+Relaxed, Happy, Hungry, Uplifted, Talkative, Citrus, Earthy, Pine
+appetite, pain, Creative, Euphoric, Relaxed, Aroused, Talkative, Pepper, Ammonia, Spicy/Herbal
+Relaxed, Hungry, Euphoric, Focused, Talkative, Sweet, Earthy, Tea
+Relaxed, Uplifted, Hungry, Happy, Energetic, Flowery, Skunk, Earthy
+appetite loss, anxiety, nausea, appetite, depression, Relaxed, Sleepy, Hungry, Happy, Creative, Earthy, Spicy/Herbal, Pine
+Creative, Euphoric, Uplifted, Happy, Energetic, Woody, Pine, Earthy
+ms, Happy, Euphoric, Aroused, Creative, Energetic, Earthy
+Happy, Euphoric, Hungry, Relaxed, Focused, Diesel, Earthy, Spicy/Herbal
+anxiety, Happy, Euphoric, Relaxed, Energetic, Uplifted, Diesel, Pungent, Lemon
+Sleepy, Happy, Relaxed, Earthy, Woody, Pine
+Euphoric, Relaxed, Uplifted, Creative, Happy, Lemon, Skunk, Spicy/Herbal
+insomnia, depression, pain, Relaxed, Sleepy, Uplifted, Creative, Euphoric, Lemon, Spicy/Herbal, Earthy
+ms, Talkative, Creative, Relaxed, Uplifted, Energetic, Sweet, Spicy/Herbal, Pine
+Happy, Euphoric, Uplifted, Creative, Focused, Citrus, Earthy, Chemical
+Uplifted, Relaxed, Focused, Creative, Euphoric, Earthy, Pine, Citrus
+Happy, Relaxed, Hungry, Sleepy, Creative, Sweet, Lime, Earthy
+Relaxed, Happy, Uplifted, Sleepy, Euphoric, Earthy, Flowery, Pungent
+Euphoric, Relaxed, Happy, Tingly, Uplifted, Earthy, Pungent, Pine
+Happy, Sleepy, Relaxed, Uplifted, Talkative, Earthy, Woody, Spicy/Herbal
+ms, Happy, Relaxed, Uplifted, Euphoric, Sleepy, Pine, Earthy, Pungent
+nausea, pain, Aroused, Tingly, Happy, Relaxed, Earthy, Pungent, Pine
+ms, pain, Relaxed, Happy, Hungry, Sleepy, Euphoric, Berry, Woody, Earthy
+insomnia, pain, Relaxed, Uplifted, Creative, Sleepy, Euphoric, Earthy, Pine
+Happy, Uplifted, Talkative, Euphoric, Giggly, Berry, Grape, Diesel
+Euphoric, Happy, Focused, Uplifted, Energetic, Lemon, Citrus, Lime
+anxiety, nausea, Creative, Happy, Tingly, Uplifted, Energetic, Berry, Orange, Lemon
+appetite, Sleepy, Happy, Euphoric, Focused, Aroused, Sweet, Earthy, Tropical
+Hungry, Relaxed, Uplifted, Euphoric, Focused, Sage, Pepper, Sweet
+Happy, Uplifted, Focused, Talkative, Energetic, Sweet, Skunk, Tropical
+ms, Relaxed, Uplifted, Euphoric, Talkative, Sleepy, Sweet, Earthy, Flowery
+ms, Happy, Uplifted, Euphoric, Energetic, Creative, Earthy, Grape, Pine
+migraines, Relaxed, Sleepy, Happy, Euphoric, Uplifted, Earthy, Citrus, Woody
+Uplifted, Relaxed, Euphoric, Giggly, Happy, Sweet, Citrus, Diesel
+Euphoric, Relaxed, Happy, Sleepy, Hungry, Berry, Sweet, Butter
+pain, Euphoric, Aroused, Focused, Tingly, Giggly, Spicy/Herbal, Tree, Fruit, Earthy
+cachexia, appetite loss, appetite, Relaxed, Happy, Sleepy, Giggly, Euphoric, Citrus, Pungent, Flowery
+inflammation, nausea, pain, Relaxed, Euphoric, Happy, Sleepy, Uplifted, Earthy, Citrus, Woody
+None, None
+inflammation, nausea, pain, Relaxed, Happy, Sleepy, Euphoric, Tingly, Flowery, Berry, Blueberry
+Sleepy, Uplifted, Euphoric, Happy, Hungry, nan
+Hungry, Coffee
+anxiety, ms, Euphoric, Happy, Energetic, Creative, Relaxed, Earthy, Skunk, Sweet
+Relaxed, Sleepy, Tingly, Creative, Euphoric, Sweet, Earthy, Butter
+appetite, depression, pain, Euphoric, Creative, Uplifted, Happy, Relaxed, Sweet, Citrus, Tropical
+pain, Relaxed, Sleepy, Happy, Tingly, Euphoric, Earthy, Skunk, Flowery
+insomnia, ms, pain, Relaxed, Happy, Euphoric, Creative, Uplifted, Earthy, Woody, Pungent
+ms, Uplifted, Relaxed, Euphoric, Happy, Focused, Cheese, Citrus, Blueberry
+anxiety, appetite, Relaxed, Sleepy, Happy, Uplifted, Euphoric, Butter, Sweet, Earthy
+appetite, Relaxed, Sleepy, Hungry, Happy, Aroused, Lime, Earthy, Pungent
+Sleepy, Relaxed, Aroused, Tingly, Focused, Diesel, Earthy, Pungent
+hiv, pain, Relaxed, Sleepy, Euphoric, Tingly, Happy, Pungent, Sweet, Earthy
+Hungry, Relaxed, Sleepy, Uplifted, Euphoric, Earthy, Sage, Sweet
+Uplifted, Relaxed, Creative, Happy, Tingly, Earthy, Diesel, Grape
+pain, Sleepy, Happy, Relaxed, Creative, Euphoric, Citrus, Pungent, Skunk
+appetite, Talkative, Uplifted, Creative, Happy, Energetic, Diesel, Earthy, Skunk
+Euphoric, Happy, Uplifted, Creative, Energetic, Citrus, Pungent, Sage
+depression, pain, Aroused, Euphoric, Relaxed, Giggly, Happy, Berry, Grape, Sweet
+ms, Relaxed, Happy, Creative, Euphoric, Giggly, Strawberry, Spicy/Herbal, Sage
+None, None
+Uplifted, Happy, Euphoric, Aroused, Giggly, Earthy, Woody, Spicy/Herbal
+Talkative, Happy, Hungry, Relaxed, Energetic, Spicy/Herbal, Strawberry, Earthy
+headache, anxiety, pain, Euphoric, Focused, Happy, Relaxed, Uplifted, Sweet, Berry, Earthy
+Relaxed, Happy, Euphoric, Uplifted, Energetic, Earthy, Citrus, Lemon
+anorexia, ms, depression, Uplifted, Happy, Relaxed, Euphoric, Creative, Pine, Woody, Citrus
+Uplifted, Focused, Hungry, Relaxed, None
+ms, Happy, Relaxed, Euphoric, Tingly, Sleepy, Spicy/Herbal, Sweet, Diesel
+Happy, Uplifted, Relaxed, Creative, Focused, Sweet, Earthy, Flowery
+Euphoric, Relaxed, Uplifted, Happy, Tingly, Lemon, Sweet, Tropical
+depression, Happy, Relaxed, Euphoric, Uplifted, Creative, Flowery, Earthy, Pungent
+pain, Happy, Relaxed, Creative, Energetic, Euphoric, Citrus, Lemon, Earthy
+ms, appetite, Happy, Relaxed, Creative, Hungry, Euphoric, Sweet, Earthy, Citrus
+Uplifted, Creative, Aroused, Talkative, Energetic, Diesel, Citrus, Minty
+Relaxed, Happy, Euphoric, Sleepy, Creative, Citrus, Grapefruit, Tropical
+Relaxed, Happy, Focused, Euphoric, Creative, Earthy, Honey, Sweet
+Aroused, Talkative, Tingly, Uplifted, Energetic, Earthy, Diesel, Spicy/Herbal
+Euphoric, Hungry, Sleepy, Relaxed, Happy, Diesel, Flowery, Earthy
+Sleepy, Euphoric, Relaxed, Focused, Pepper, Sweet, Honey
+inflammation, anxiety, Relaxed, Happy, Focused, Giggly, Uplifted, Skunk, Woody, Tobacco
+Relaxed, Sleepy, Euphoric, Happy, Tingly, Lavender, Tobacco, Earthy
+Happy, Relaxed, Sleepy, Tingly, Euphoric, Spicy/Herbal, Sage, Tree, Fruit
+insomnia, ms, pain, Relaxed, Sleepy, Focused, Talkative, Happy, Pine, Woody, Earthy
+anxiety, appetite, depression, pain, Relaxed, Happy, Creative, Sleepy, Aroused, Lemon, Earthy, Pine
+Euphoric, Relaxed, Happy, Uplifted, Tingly, Sweet, Citrus, Pungent
+Euphoric, Hungry, Relaxed, Sleepy, Happy, Sweet, Citrus, Woody
+Sleepy, Tingly, Happy, Relaxed, Uplifted, Earthy, Skunk, Berry
+appetite, Happy, Relaxed, Focused, Euphoric, Uplifted, Flowery, Lime, Vanilla
+Sleepy, Relaxed, Creative, Hungry, Happy, Earthy, Sweet, Skunk
+None, None
+Relaxed, Happy, Uplifted, Euphoric, Focused, Sweet, Berry, Lemon
+Happy, Energetic, Creative, Focused, Uplifted, Sweet, Berry, Skunk
+anxiety, depression, Focused, Happy, Relaxed, Euphoric, Sleepy, Earthy, Blueberry, Sweet
+Relaxed, Euphoric, Happy, Uplifted, Creative, Citrus, Grapefruit, Tropical
+insomnia, Happy, Relaxed, Uplifted, Euphoric, Giggly, Sweet, Tropical, Berry
+depression, Relaxed, Sleepy, Happy, Hungry, Talkative, Sweet, Blueberry
+Relaxed, Happy, Euphoric, Uplifted, Aroused, Sweet, Blueberry, Minty
+Relaxed, Happy, Euphoric, Hungry, Giggly, Earthy, Pungent, Woody
+Aroused, Creative, Euphoric, Happy, Uplifted, Spicy/Herbal, Citrus, Earthy
+Happy, Relaxed, Euphoric, Energetic, Uplifted, Berry, Woody, Earthy
+Relaxed, Tingly, Happy, Giggly, Uplifted, Grape, Earthy, Berry
+anxiety, nausea, depression, Relaxed, Euphoric, Uplifted, Sleepy, Happy, Diesel, Earthy, Citrus
+pain, None, nan
+ms, multiple sclerosis, cancer, pain, Euphoric, Relaxed, Sleepy, Energetic, Happy, Earthy, Sage, Lemon
+Relaxed, Happy, Euphoric, Uplifted, Hungry, Earthy, Sweet, Woody
+ms, appetite, Euphoric, Happy, Creative, Relaxed, Focused, Sweet, Diesel, Skunk
+Happy, Relaxed, Euphoric, Creative, Focused, Pine, Sweet, Earthy
+appetite, pain, Creative, Euphoric, Focused, Tingly, Sleepy, Flowery, Earthy, Lime
+pain, Relaxed, Euphoric, Happy, Sleepy, Uplifted, Earthy, Pungent, Pine
+Relaxed, Happy, Euphoric, Uplifted, Hungry, Earthy, Pungent, Pine
+pain, Relaxed, Happy, Sleepy, Euphoric, Uplifted, Earthy, Pungent, Woody
+Creative, Focused, Energetic, Uplifted, Euphoric, Citrus, Lime, Lemon
+ms, appetite, Happy, Euphoric, Creative, Uplifted, Energetic, Pungent, Skunk, Lemon
+appetite loss, nausea, ms, appetite, pain, Relaxed, Happy, Euphoric, Uplifted, Creative, Earthy, Sweet, Pungent
+depression, Energetic, Focused, Uplifted, Creative, Euphoric, Blueberry
+anxiety, nausea, pain, Euphoric, Relaxed, Uplifted, Happy, Focused, Berry, Minty, Sweet
+Energetic, Uplifted, Focused, Euphoric, Relaxed, Citrus, Sweet, Flowery
+insomnia, Euphoric, Focused, Relaxed, Spicy/Herbal, Earthy, Pungent
+pain, Relaxed, Happy, Uplifted, Euphoric, Sleepy, Earthy, Grape, Apple
+pain, Sleepy, Relaxed, Happy, Euphoric, Tingly, Pine, Sweet, Grape
+Euphoric, Relaxed, Uplifted, Creative, Focused, Flowery, Sweet, Berry
+insomnia, pain, Relaxed, Happy, Creative, Uplifted, Tingly, Earthy, Woody, Pepper
+Sleepy, Tingly, Euphoric, Relaxed, Diesel, Pungent, Chemical
+appetite, Euphoric, Relaxed, Sleepy, Uplifted, Focused, Earthy, Sweet, Flowery
+ms, Relaxed, Happy, Euphoric, Uplifted, Creative, Sweet, Pungent, Flowery
+anxiety, ms, pain, Happy, Relaxed, Focused, Euphoric, Uplifted, Citrus, Flowery, Earthy
+Euphoric, Uplifted, Energetic, Happy, Relaxed, Sweet, Flowery, Pine
+Happy, Energetic, Uplifted, Relaxed, Giggly, Sweet, Pungent, Grape
+Sleepy, Happy, Relaxed, Uplifted, Giggly, Berry, Earthy, Blueberry
+insomnia, anxiety, depression, pain, Relaxed, Happy, Uplifted, Euphoric, Hungry, Sweet, Citrus, Earthy
+anxiety, eating disorder, nausea, anorexia, appetite, Happy, Uplifted, Euphoric, Hungry, Relaxed, Pungent, Skunk, Pine
+pain, Relaxed, Happy, Sleepy, Euphoric, Tingly, Earthy, Pungent, Skunk
+appetite loss, anxiety, appetite, depression, pain, Uplifted, Happy, Energetic, Euphoric, Focused, Earthy, Citrus, Pine
+Relaxed, Uplifted, Happy, Tingly, Energetic, Sweet, Spicy/Herbal, Tropical
+nausea, Euphoric, Happy, Relaxed, Creative, Giggly, Berry, Earthy, Diesel
+Euphoric, Relaxed, Uplifted, Happy, Creative, Earthy, Sweet, Flowery
+Uplifted, Energetic, Focused, Euphoric, Happy, Apple, Sweet, Minty
+Happy, Uplifted, Relaxed, Euphoric, Creative, Sweet, Earthy, Flowery
+eating disorder, ms, appetite, pain, Happy, Relaxed, Hungry, Uplifted, Euphoric, Earthy, Sweet, Berry
+Focused, Uplifted, Energetic, Euphoric, Relaxed, Earthy, Woody, Tea
+Hungry, Euphoric, Relaxed, Happy, Sleepy, Berry, Grape, Lavender
+Happy, Relaxed, Sleepy, Creative, Euphoric, Spicy/Herbal, Sweet, Berry
+Relaxed, Happy, Euphoric, Uplifted, Sleepy, Pungent, Earthy, Sweet
+Relaxed, Happy, Euphoric, Sleepy, Hungry, Grape, Earthy, Sweet
+Relaxed, Happy, Euphoric, Uplifted, Energetic, Earthy, Woody, Sweet
+pain, Relaxed, Happy, Hungry, Sleepy, Euphoric, Earthy, Berry, Blueberry
+insomnia, pain, Relaxed, Sleepy, Happy, Euphoric, Hungry, Earthy, Pine, Spicy/Herbal
+Euphoric, Relaxed, Happy, Sleepy, Tingly, Berry, Spicy/Herbal, Pungent
+anxiety, ms, depression, pain, Relaxed, Euphoric, Happy, Hungry, Tingly, Earthy, Flowery, Woody
+None, None
+Uplifted, Focused, Happy, Relaxed, Euphoric, Tropical, Spicy/Herbal, Sweet
+insomnia, pain, Relaxed, Happy, Sleepy, Tingly, Uplifted, Earthy, Pungent, Woody
+Uplifted, Euphoric, Happy, Focused, Energetic, Blueberry, Berry, Flowery
+inflammation, nausea, glaucoma, pain, Sleepy, Hungry, Uplifted, Euphoric, Happy, Earthy, Pungent, Spicy/Herbal
+Euphoric, Focused, Uplifted, Creative, Happy, Diesel
+Happy, Relaxed, Uplifted, Euphoric, Creative, Sweet, Berry, Citrus
+Energetic, Happy, Aroused, Uplifted, Creative, Earthy, Citrus, Lime
+pain, Euphoric, Tingly, Creative, Happy, Focused, Mint, Earthy, Woody
+nausea, Relaxed, Uplifted, Energetic, Happy, Aroused, Sweet, Citrus, Tropical
+Happy, Energetic, Talkative, Giggly, Uplifted, Pepper, Spicy/Herbal, Citrus
+Uplifted, Happy, Euphoric, Relaxed, Energetic, Sweet, Citrus, Tropical
+Uplifted, Relaxed, Euphoric, Tingly, Happy, Lemon, Citrus, Sweet
+Uplifted, Creative, Focused, Happy, Aroused, Sweet, Lime, Skunk
+Relaxed, Happy, Euphoric, Uplifted, Hungry, Pungent, Sweet, Citrus
+anxiety, depression, Happy, Euphoric, Uplifted, Relaxed, Creative, Pineapple, Tropical, Citrus
+pain, None, None
+Euphoric, Relaxed, Sleepy, Creative, Happy, Citrus, Sweet, Tropical
+Focused, Happy, Aroused, Energetic, Tingly, Citrus, Orange, Earthy
+hiv, Happy, Euphoric, Uplifted, Relaxed, Creative, Citrus, Earthy, Lemon
+Talkative, Uplifted, Energetic, Euphoric, Happy, Minty, Lemon, Apricot
+Uplifted, Happy, Euphoric, Creative, Energetic, nan
+insomnia, ms, appetite, pain, Relaxed, Sleepy, Hungry, Euphoric, Happy, Berry, Blueberry, Sweet
+insomnia, pain, Sleepy, Aroused, Hungry, Relaxed, Happy, Blueberry, Berry, Sweet
+Uplifted, Energetic, Happy, Focused, Talkative, Earthy, Spicy/Herbal, Citrus
+Relaxed, Euphoric, Creative, Sleepy, Happy, Coffee, Pine, Cheese
+nausea, pain, Relaxed, Happy, Euphoric, Uplifted, Sleepy, Sweet, Earthy, Minty
+Sleepy, Uplifted, Euphoric, Happy, Relaxed, Blueberry, Grape, Berry
+Relaxed, Happy, Creative, Focused, Aroused, Sweet
+Euphoric, Relaxed, Sweet, Lemon, Flowery
+Relaxed, Happy, Euphoric, Uplifted, Tingly, Sweet, Grape, Earthy
+pain, Relaxed, Happy, Euphoric, Focused, Uplifted, Grape, Berry, Sweet
+Uplifted, Relaxed, Euphoric, Focused, Giggly, Honey, Earthy, Citrus
+appetite loss, insomnia, ms, appetite, pain, Relaxed, Sleepy, Happy, Euphoric, Hungry, Grape, Berry, Sweet
+Euphoric, Happy, Tingly, Uplifted, Creative, Butter, Lemon, Flowery
+Relaxed, Happy, Energetic, Focused, Creative, Pungent, Sweet, Cheese
+pain, Euphoric, Happy, Relaxed, Sleepy, Focused, Grape, Pungent, Earthy
+Relaxed, Euphoric, Sleepy, Uplifted, Creative, Earthy, Flowery, Lavender
+anxiety, pain, Relaxed, Sleepy, Happy, Euphoric, Uplifted, Grape, Sweet, Berry
+appetite, Uplifted, Creative, Euphoric, Happy, Hungry, Sweet, Grape, Flowery
+Relaxed, Creative, Uplifted, Sleepy, Euphoric, Grape, Berry, Diesel
+Happy, Uplifted, Talkative, Hungry, Energetic, Grape, Sweet, Berry
+nausea, appetite, None, None
+ms, Tingly, Creative, Euphoric, Giggly, Happy, Grape, Sweet, Flowery
+Relaxed, Happy, Euphoric, Uplifted, Sleepy, Grape, Berry, Sweet
+Relaxed, Happy, Sleepy, Euphoric, Tingly, Grape, Sweet, Diesel
+Happy, Uplifted, Talkative, Hungry, Energetic, Grape, Sweet, Berry
+Relaxed, Happy, Giggly, Sleepy, Euphoric, Grape, Sweet, Earthy
+Sleepy, Relaxed, Hungry, Tingly, Uplifted, Grape, Cheese, Sweet
+Happy, Relaxed, Giggly, Tingly, Euphoric, Grape, Sweet, Skunk
+inflammation, insomnia, anxiety, depression, pain, Relaxed, Happy, Euphoric, Uplifted, Creative, Grape, Citrus, Sweet
+pain, Happy, Relaxed, Uplifted, Euphoric, Hungry, Grape, Sweet, Berry
+Relaxed, Sleepy, Euphoric, Happy, Aroused, Berry, Grape, Pine
+headache, Uplifted, Energetic, Happy, Euphoric, Focused, Grapefruit, Citrus, Sweet
+Focused, Energetic, Relaxed, Euphoric, Happy, Grapefruit, Citrus, Diesel
+Uplifted, Happy, Energetic, Euphoric, Relaxed, Diesel, Earthy, Grapefruit
+Happy, Uplifted, Relaxed, Focused, Creative, Grapefruit, Sweet, Citrus
+pain, Sleepy, Hungry, Relaxed, Aroused, Euphoric, Sweet, Citrus, Rose
+nausea, pain, Relaxed, Euphoric, Sleepy, Happy, Hungry, Earthy, Pungent, Diesel
+ms, pain, Happy, Uplifted, Relaxed, Focused, Euphoric, Sweet, Citrus, Earthy
+Energetic, Happy, Uplifted, Creative, Euphoric, Sweet, Minty, Honey
+Uplifted, Happy, Relaxed, Focused, Giggly, Earthy, Sweet, Tobacco
+ms, Euphoric, Relaxed, Energetic, Focused, Creative, Pungent, Cheese, Earthy
+depression, Energetic, Happy, Uplifted, Focused, Euphoric, Earthy, Citrus, Sweet
+Energetic, Creative, Focused, Euphoric, Uplifted, Sweet, Earthy, Spicy/Herbal
+nausea, pain, Happy, Relaxed, Euphoric, Creative, Hungry, Spicy/Herbal, Citrus, Woody
+pain, Uplifted, Happy, Focused, Energetic, Relaxed, Sweet, Earthy, Pungent
+Happy, Uplifted, Creative, Euphoric, Hungry, Earthy, Citrus, Flowery
+Uplifted, Euphoric, Happy, Focused, Creative, Sweet, Pine, Diesel
+Euphoric, Relaxed, Aroused, Happy, Uplifted, Citrus, Earthy, Flowery
+pain, Happy, Talkative, Creative, Focused, Hungry, Woody, Flowery, Earthy
+Euphoric, Uplifted, Relaxed, Giggly, Happy, Sweet, Woody, Pine
+Euphoric, Hungry, Energetic, Relaxed, Focused, Citrus, Sweet, Earthy
+inflammation, Uplifted, Energetic, Talkative, Focused, Hungry, Earthy, Pine, Citrus
+pain, Happy, Relaxed, Sleepy, Hungry, Uplifted, Sweet, Lime, Skunk
+pain, Creative, Hungry, Relaxed, Uplifted, Happy, Spicy/Herbal, Lavender, Sweet
+ms, Euphoric, Uplifted, Happy, Creative, Relaxed, Citrus, Earthy, Woody
+Happy, Relaxed, Uplifted, Hungry, Giggly, Earthy, Chemical, Tar
+appetite loss, insomnia, ms, appetite, pain, Relaxed, Happy, Euphoric, Sleepy, Hungry, Sweet, Flowery, Earthy
+Sleepy, Euphoric, Happy, Relaxed, Tingly, Woody, Sweet, Earthy
+Happy, Hungry, Energetic, Euphoric, Creative, Sweet, Citrus, Pine
+Energetic, Happy, Focused, Creative, Talkative, Sweet, Earthy, Flowery
+insomnia, appetite, pain, Euphoric, Relaxed, Uplifted, Aroused, Sleepy, Sweet, Pungent, Citrus
+Uplifted, Creative, Energetic, Euphoric, Focused, Cheese, Pepper, Pungent
+Relaxed, Happy, Sleepy, Euphoric, Hungry, Earthy, Sweet, Pungent
+hiv, Sleepy, Euphoric, Relaxed, Aroused, Happy, Pungent, Diesel, Spicy/Herbal
+Euphoric, Relaxed, nan
+Happy, Relaxed, Sleepy, Euphoric, Diesel, Sweet, Earthy
+Relaxed, Creative, Happy, Focused, Euphoric, Tropical, Sweet, Chemical
+nausea, pain, Sleepy, Euphoric, Happy, Relaxed, Uplifted, Mint, Grapefruit, Tropical
+Relaxed, Sleepy, Happy, Uplifted, Euphoric, Sweet, Tropical, Peach
+Euphoric, Happy, Uplifted, Relaxed, Energetic, Pine, Lemon, Sweet
+Euphoric, Uplifted, Creative, Relaxed, Sleepy, nan
+ms, appetite, pain, Relaxed, Euphoric, Happy, Sleepy, Hungry, Earthy, Sweet, Flowery
+pain, Euphoric, Uplifted, Happy, Relaxed, Aroused, Citrus, Sweet, Orange
+Relaxed, Uplifted, Happy, Euphoric, Sleepy, Sweet, Berry, Strawberry
+Relaxed, Happy, Sleepy, Euphoric, Giggly, Earthy, Citrus, Lemon
+pain, Relaxed, Sleepy, Hungry, Aroused, Happy, Sweet, Earthy, Woody
+Happy, Relaxed, Euphoric, Focused, Sleepy, Grape, Pepper, Orange
+Relaxed, Sleepy, Giggly, Tingly, Happy, Blueberry, Woody, Berry
+insomnia, anxiety, pain, Relaxed, Sleepy, Talkative, Euphoric, Giggly, Citrus, Minty, Earthy
+epilepsy, Relaxed, Happy, Uplifted, Talkative, Euphoric, Earthy, Pine, Pungent
+Sleepy, Aroused, Tingly, Relaxed, Uplifted, Diesel, Berry, Earthy
+Uplifted, Euphoric, Happy, Sleepy, Creative, Strawberry, Earthy, Vanilla
+pain, Euphoric, Relaxed, Happy, Uplifted, Creative, Sweet, Pungent, Earthy
+inflammation, anxiety, ms, pain, Relaxed, Happy, Sleepy, Hungry, Uplifted, Citrus, Flowery, Earthy
+Tingly, Happy, Relaxed, Uplifted, Euphoric, Sweet, Flowery, Citrus
+pain, Relaxed, Happy, Uplifted, Sleepy, Tingly, Earthy, Sweet, Berry
+inflammation, pain, Relaxed, Happy, Uplifted, Focused, Euphoric, Earthy, Woody, Spicy/Herbal
+anxiety, pain, Relaxed, Focused, Happy, Uplifted, Energetic, Earthy, Sweet, Woody
+anxiety, pain, Relaxed, Talkative, Tingly, Energetic, Euphoric, Mint, Earthy
+inflammation, pain, Relaxed, Uplifted, Creative, Euphoric, Happy, Spicy/Herbal, Sweet, Tropical
+nausea, pain, Uplifted, Creative, Energetic, Euphoric, Relaxed, Sweet
+inflammation, anxiety, pain, Relaxed, Happy, Uplifted, Focused, Sleepy, Earthy, Sweet, Tropical
+Relaxed, Euphoric, Focused, Creative, Happy, Woody, Citrus, Lemon
+anxiety, pain, Relaxed, Happy, Uplifted, Creative, Giggly, Sweet, Citrus, Lemon
+Relaxed, Sleepy, Happy, Euphoric, Hungry, Earthy, Spicy/Herbal, Diesel
+hiv, Euphoric, Happy, Relaxed, Creative, Focused, Skunk, Sweet, Earthy
+ms, Relaxed, Euphoric, Hungry, Happy, Focused, Berry, Sweet, Mint
+Happy, Uplifted, Relaxed, Euphoric, Sleepy, Blueberry, Sweet, Orange
+Uplifted, Relaxed, Euphoric, Talkative, Giggly, Sweet, Tropical, Citrus
+appetite loss, insomnia, appetite, depression, pain, Happy, Relaxed, Creative, Energetic, Aroused, Sweet, Citrus, Pineapple
+Happy, Relaxed, Aroused, Uplifted, Euphoric, Pungent, Sweet, Diesel
+Uplifted, Creative, Euphoric, Happy, Relaxed, Diesel, Citrus, Tropical
+inflammation, anxiety, pain, Uplifted, Relaxed, Happy, Focused, Euphoric, Sweet, Tropical, Pineapple
+appetite, Energetic, Focused, Talkative, Euphoric, Uplifted, Tropical, Sweet, Strawberry
+Uplifted, Happy, Energetic, Talkative, Relaxed, Sweet, Tropical, Pineapple
+Uplifted, Creative, Energetic, Euphoric, Happy, Minty, Sweet, Lime
+Uplifted, Happy, Relaxed, Euphoric, Tingly, Sweet, Citrus, Berry
+insomnia, pain, Relaxed, Happy, Giggly, Creative, Talkative, Tropical, Sweet, Flowery
+glaucoma, Uplifted, Euphoric, Happy, Relaxed, Creative, Citrus, Sweet, Tropical
+Sleepy, Happy, Euphoric, Uplifted, Energetic, Sweet, Earthy, Skunk
+Happy, Creative, Euphoric, Uplifted, Energetic, Tropical, Earthy, Woody
+Uplifted, Happy, Relaxed, Tingly, Energetic, Citrus, Lemon, Spicy/Herbal
+Uplifted, Creative, Euphoric, Energetic, Hungry, Earthy, Sweet, Citrus
+Talkative, Uplifted, Creative, Euphoric, Focused, Sweet, Tropical, Flowery
+Creative, Euphoric, Happy, Relaxed, Sleepy, Pineapple, Sweet, Tropical
+Sleepy, Uplifted, Focused, Apple
+Uplifted, Happy, Creative, Tingly, Relaxed, Earthy, Pungent, Sweet
+Talkative, Aroused, Giggly, Happy, Energetic, Sweet, Berry, Blueberry
+Happy, Talkative, Uplifted, Energetic, Creative, Pungent, Spicy/Herbal, Sweet
+Energetic, Focused, Happy, Hungry, None
+ms, depression, Uplifted, Happy, Euphoric, Talkative, Creative, Citrus, Pine, Woody
+migraines, appetite loss, inflammation, ms, appetite, pain, Euphoric, Happy, Uplifted, Creative, Relaxed, Cheese, Pungent, Earthy
+anxiety, depression, Relaxed, Focused, Happy, Uplifted, Euphoric, Earthy, Pine, Coffee
+pain, Happy, Relaxed, Uplifted, Euphoric, Creative, Earthy, Diesel, Citrus
+ms, depression, Happy, Uplifted, Euphoric, Relaxed, Hungry, Citrus, Skunk, Sweet
+ms, Creative, Energetic, Euphoric, Focused, Happy, Minty, Sweet, Tropical
+ms, Relaxed, Happy, Sleepy, Hungry, Giggly, Sweet, Citrus, Earthy
+Talkative, Relaxed, Focused, Hungry, Happy, Berry, Sweet, Strawberry
+hiv, Relaxed, Euphoric, Uplifted, Talkative, Happy, Pine, Citrus, Spicy/Herbal
+inflammation, insomnia, ms, ptsd, pain, Relaxed, Euphoric, Sleepy, Happy, Hungry, Earthy, Pungent, Woody
+Euphoric, Relaxed, Happy, Energetic, Sleepy, Earthy, Citrus, Diesel
+migraines, anxiety, ptsd, Happy, Uplifted, Relaxed, Giggly, Talkative, Sweet, Citrus, Pine
+Happy, Euphoric, Creative, Uplifted, Energetic, Woody, Pungent, Earthy
+Happy, Uplifted, Energetic, Giggly, Creative, Earthy, Sweet, Tropical
+Relaxed, Sleepy, Happy, Hungry, Euphoric, Earthy, Spicy/Herbal, Woody
+Euphoric, Uplifted, Relaxed, Energetic, Happy, Flowery, Lavender, Sweet
+Creative, Uplifted, Energetic, Focused, Happy, Grape, Flowery, Tree, Fruit
+anxiety, depression, pain, Focused, Happy, Relaxed, Sleepy, Euphoric, Spicy/Herbal, Flowery, Earthy
+pain, Sleepy, Relaxed, Euphoric, Happy, Uplifted, Earthy, Berry, Pine
+Happy, Euphoric, Creative, Aroused, Sleepy, Spicy/Herbal, Earthy, Citrus
+nausea, pain, Relaxed, Sleepy, Happy, Euphoric, Uplifted, Earthy, Woody, Sweet
+Relaxed, Euphoric, Happy, Aroused, Uplifted, Earthy, Woody, Sweet
+Euphoric, Happy, Uplifted, Relaxed, Talkative, Sweet, Tree, Fruit, Berry
+Happy, Uplifted, Relaxed, Euphoric, Energetic, Pungent, Earthy, Sweet
+Creative, Euphoric, Focused, Happy, Hungry, Spicy/Herbal, Woody, Vanilla
+Tingly, Uplifted, Happy, Focused, Hungry, Flowery, Tea, Vanilla
+Relaxed, Happy, Sleepy, Hungry, Tingly, Earthy, Pungent, Cheese
+ms, Relaxed, Euphoric, Happy, Sleepy, Uplifted, Sweet, Earthy, Pungent
+pain, Relaxed, Happy, Hungry, Tingly, Uplifted, Earthy, Sweet, Ammonia
+depression, Relaxed, Euphoric, Hungry, Giggly, Happy, Earthy, Citrus, Grapefruit
+Relaxed, Happy, Uplifted, Euphoric, Creative, Earthy, Pungent, Woody
+anxiety, None, None
+Happy, Relaxed, Uplifted, Euphoric, Creative, Honey, Sweet, Flowery
+Euphoric, Happy, Aroused, Creative, Giggly, Sweet, Pungent, Butter
+pain, Hungry, Relaxed, Tingly, Sleepy, Euphoric, Honey
+appetite, Hungry, Relaxed, Happy, Uplifted, Energetic, Diesel, Citrus, Earthy
+Euphoric, Happy, Creative, Energetic, Focused, Sweet, Minty, Tropical
+Happy, Relaxed, Talkative, Uplifted, Euphoric, Berry, Earthy, Sweet
+Creative, Euphoric, Happy, Relaxed, Blueberry, Skunk, Chemical
+ms, Aroused, Tingly, Uplifted, Euphoric, Happy, Sweet, Berry, Flowery
+Relaxed, Sleepy, Euphoric, Happy, Uplifted, Flowery, Sweet, Citrus
+appetite, Relaxed, Creative, Euphoric, Uplifted, Happy, Sweet, Berry, Earthy
+pain, Euphoric, Sleepy, Happy, Relaxed, Focused, Sweet, Grape, Diesel
+anxiety, pain, Relaxed, Happy, Hungry, Focused, Sleepy, Sweet, Earthy, Berry
+pain, Uplifted, Relaxed, Energetic, Happy, Focused, Spicy/Herbal, Grape, Berry
+pain, Happy, Energetic, Euphoric, Uplifted, Talkative, Earthy, Woody, Sweet
+Creative, Energetic, Euphoric, Focused, Happy, nan
+Happy, Euphoric, Relaxed, Focused, Creative, Citrus, Grape, Grapefruit
+None, None
+Sleepy, Happy, Relaxed, Tingly, Hungry, Sweet, Orange, Earthy
+hiv, Euphoric, Uplifted, Relaxed, Happy, Tingly, Diesel, Flowery, Earthy
+Happy, Relaxed, Uplifted, Focused, Euphoric, Sweet, Vanilla, Woody
+Happy, Relaxed, Sleepy, Uplifted, Euphoric, Tropical
+Euphoric, Relaxed, Happy, Creative, Talkative, Sweet, Earthy, Flowery
+Relaxed, Euphoric, Creative, Uplifted, Tingly, Earthy, Woody, Sweet
+pain, Relaxed, Happy, Euphoric, Uplifted, Giggly, Strawberry, Sweet, Pungent
+depression, Euphoric, Giggly, Happy, Relaxed, Uplifted, Earthy, Pungent, Pine
+Relaxed, Sleepy, Focused, Talkative, Euphoric, Earthy, Sweet, Pungent
+Happy, Uplifted, Focused, Relaxed, Euphoric, Pine, Sweet, Pineapple
+Relaxed, Happy, Hungry, Sleepy, Euphoric, Earthy, Skunk, Spicy/Herbal
+pain, Happy, Euphoric, Focused, Relaxed, Uplifted, Sweet, Earthy, Citrus
+Energetic, Uplifted, Euphoric, Happy, Relaxed, Citrus, Spicy/Herbal, Sweet
+Relaxed, Euphoric, Creative, Sleepy, Happy, Cheese, Pungent, Skunk
+anxiety, appetite, Creative, Giggly, Happy, Relaxed, None
+Relaxed, Happy, Creative, Euphoric, Focused, Earthy, Citrus, Pine
+Uplifted, Euphoric, Relaxed, Sleepy, Giggly, None
+Happy, Giggly, Tingly, Uplifted, Focused, Diesel, Spicy/Herbal, Sweet
+ms, depression, Creative, Uplifted, Relaxed, Sleepy, Talkative, Sweet, Berry, Blueberry
+ms, pain, Euphoric, Tingly, Creative, Happy, Relaxed, Tropical, Mango, Ammonia
+inflammation, anxiety, ms, Happy, Relaxed, Uplifted, Energetic, Focused, Skunk, Sweet, Tropical
+Focused, Hungry, Relaxed, Pepper, Earthy, Skunk
+anxiety, depression, Euphoric, Energetic, Focused, Uplifted, Creative, Diesel, Earthy, Woody
+Euphoric, Happy, Creative, Uplifted, Energetic, Citrus, Pine, Sweet
+insomnia, pain, Relaxed, Sleepy, Happy, Hungry, Uplifted, nan
+pain, Happy, Euphoric, Relaxed, Giggly, Energetic, Earthy, Lemon, Spicy/Herbal
+Aroused, Sleepy, Uplifted, Creative, Euphoric, Sweet, Flowery, Rose
+appetite, Euphoric, Happy, Energetic, Giggly, Creative, Diesel, Earthy, Sweet
+Uplifted, Euphoric, Happy, Relaxed, Energetic, Citrus, Sweet, Earthy
+Happy, Euphoric, Relaxed, Energetic, Uplifted, Pine, Citrus, Earthy
+depression, Happy, Energetic, Euphoric, Uplifted, Giggly, Earthy, Woody, Spicy/Herbal
+hiv, ms, Happy, Uplifted, Energetic, Focused, Euphoric, Earthy, Pine, Woody
+Happy, Energetic, Giggly, Euphoric, Relaxed, Sweet, Citrus, Pungent
+Euphoric, Relaxed, Happy, Creative, Focused, Diesel, Pungent, Earthy
+depression, Focused, Happy, Creative, Aroused, Energetic, Earthy, Tree, Fruit, Flowery
+Happy, Uplifted, Euphoric, Creative, Hungry, Sweet, Mango, Earthy
+appetite loss, inflammation, appetite, pain, Energetic, Happy, Uplifted, Euphoric, Creative, Citrus, Pine, Sweet
+Happy, Energetic, Uplifted, Euphoric, Creative, Citrus, Earthy, Pine
+Happy, Focused, Energetic, Euphoric, Uplifted, Sweet, Citrus, Lemon
+Uplifted, Creative, Energetic, Focused, Happy, Berry, Blueberry, Grape
+Happy, Relaxed, Aroused, Sleepy, Talkative, Citrus, Earthy, Flowery
+Energetic, Uplifted, Hungry, Aroused, Creative, Berry, Citrus, Lemon
+None, None
+Focused, Energetic, Creative, Happy, Euphoric, Sweet, Grapefruit, Citrus
+Happy, Euphoric, Aroused, Giggly, Uplifted, Earthy, Citrus, Sweet
+depression, Aroused, Creative, Energetic, Euphoric, Happy, Sweet, Tropical, Earthy
+Uplifted, Happy, Creative, Energetic, Talkative, Earthy, Pungent, Woody
+depression, Happy, Euphoric, Uplifted, Relaxed, Energetic, Lime, Sweet, Pineapple
+inflammation, anxiety, pain, Uplifted, Relaxed, Happy, Energetic, Talkative, Earthy, Lime, Tropical
+Euphoric, Happy, Uplifted, Creative, Energetic, Tropical, Earthy, Sweet
+Tingly, Giggly, Happy, Talkative, Energetic, Earthy, Sweet, Berry
+Euphoric, Happy, Relaxed, Tingly, Sleepy, Sweet, Berry, Citrus
+inflammation, nausea, pain, Euphoric, Relaxed, Happy, Sleepy, Hungry, Sweet, Lavender, Rose
+anxiety, pain, Relaxed, Happy, Sleepy, Uplifted, Euphoric, Lime, Mint, Sweet
+Uplifted, Relaxed, Euphoric, Energetic, Happy, Sweet, Flowery, Pepper
+anxiety, ms, cancer, Euphoric, Uplifted, Happy, Energetic, Creative, Lemon, Sweet, Woody
+appetite loss, headache, appetite, ptsd, depression, pain, Euphoric, Relaxed, Happy, Uplifted, Sleepy, Earthy, Pungent, Sweet
+Relaxed, Happy, Tingly, Sweet, Pungent
+anxiety, ms, pain, Euphoric, Happy, Relaxed, Uplifted, Creative, Sweet, Berry, Tree, Fruit
+Happy, Energetic, Talkative, Euphoric, Hungry, Citrus, Earthy, Lemon
+appetite, Tingly, Uplifted, Creative, Energetic, Focused, Strawberry, Apple, Earthy
+Euphoric, Aroused, Uplifted, Relaxed, Happy, Earthy, Spicy/Herbal, Woody
+Happy, Relaxed, Euphoric, Giggly, Tingly, Earthy, Citrus, Lemon
+Uplifted, Happy, Euphoric, Energetic, Relaxed, Lemon, Citrus, Earthy
+Happy, Uplifted, Relaxed, Euphoric, Focused, Diesel, Pungent, Earthy
+Uplifted, Euphoric, Giggly, Happy, Citrus, Mango, Pungent
+Happy, Uplifted, Euphoric, Relaxed, Creative, Sweet, Citrus, Orange
+Uplifted, Hungry, Creative, Euphoric, Happy, Citrus, Sweet, Earthy
+Euphoric, Happy, Hungry, Energetic, Creative, Sweet, Berry, Earthy
+Happy, Giggly, Relaxed, Focused, Talkative, Flowery, Earthy, Skunk
+pain, Relaxed, Sleepy, Euphoric, Berry, Sweet, Menthol
+Euphoric, Happy, Giggly, Tingly, Creative, Sweet, Pungent, Berry
+Aroused, Tingly, Uplifted, Creative, Euphoric, Berry, Blueberry, Blue, Cheese
+Relaxed, Happy, Euphoric, Hungry, Sleepy, Pungent, Earthy, Sweet
+ms, Happy, Euphoric, Relaxed, Uplifted, Energetic, Citrus, Earthy, Sweet
+Uplifted, Happy, Euphoric, Creative, Talkative, Earthy, Sweet, Citrus
+anxiety, depression, Happy, Uplifted, Energetic, Euphoric, Relaxed, Pine, Sweet, Earthy
+anxiety, Happy, Euphoric, Uplifted, Relaxed, Focused, Earthy, Pine, Sweet
+pain, Relaxed, Happy, Creative, Sleepy, Energetic, Flowery, Citrus, Tree, Fruit
+insomnia, pain, Relaxed, Sleepy, Euphoric, Happy, Hungry, Pungent, Diesel, Sweet
+depression, pain, Euphoric, Happy, Uplifted, Relaxed, Creative, Citrus, Tree, Fruit, Lemon
+Happy, Focused, Energetic, Euphoric, Relaxed, Pine, Chemical, Ammonia
+insomnia, anxiety, ms, Relaxed, Happy, Giggly, Hungry, Sleepy, Earthy, Citrus, Sweet
+Relaxed, Tingly, Euphoric, Happy, Hungry, Citrus, Lemon, Sweet
+Sleepy, Relaxed, Uplifted, Euphoric, Hungry, Sweet, Blueberry, Grape
+appetite, pain, Uplifted, Happy, Relaxed, Giggly, Euphoric, Sweet, Flowery, Earthy
+pain, Energetic, Happy, Uplifted, Creative, Euphoric, Lemon, Pine, Earthy
+Uplifted, Euphoric, Relaxed, Creative, Focused, Sweet, Orange, Tropical
+appetite loss, ms, appetite, depression, pain, Relaxed, Happy, Euphoric, Tingly, Uplifted, Lemon, Sweet, Pungent
+depression, Tingly, Uplifted, Euphoric, Happy, Creative, Sweet, Tropical, Pineapple
+Relaxed, Happy, Energetic, Hungry, Sleepy, Sweet, Citrus, Earthy
+None, None
+ms, depression, pain, Uplifted, Creative, Energetic, Euphoric, Happy, Sweet, Vanilla
+Creative, Relaxed, Euphoric, Sleepy, Talkative, Spicy/Herbal, Minty, Pepper
+Relaxed, Uplifted, Happy, Focused, Energetic, Citrus, Lemon, Diesel
+Energetic, Focused, Uplifted, Euphoric, Creative, Woody, Earthy, Citrus
+Relaxed, Sleepy, Euphoric, Uplifted, Giggly, Apricot, Earthy, Spicy/Herbal
+pain, Happy, Relaxed, Uplifted, Euphoric, Hungry, Sweet, Citrus, Lemon
+Uplifted, Euphoric, Giggly, Happy, Relaxed, Ammonia, Blueberry, Grape
+Uplifted, Creative, Happy, Focused, Relaxed, Earthy, Coffee, Tea
+insomnia, nausea, appetite, pain, Relaxed, Uplifted, Happy, Euphoric, Giggly, Lime, Sweet, Minty
+inflammation, anxiety, pain, Relaxed, Sleepy, Euphoric, Happy, Uplifted, Earthy, Sweet, Woody
+Creative, Energetic, Happy, Focused, Uplifted, Orange, Tree, Fruit, Sweet
+anxiety, Happy, Energetic, Euphoric, Talkative, Aroused, Pepper, Earthy, Coffee
+Relaxed, Happy, Euphoric, Uplifted, Hungry, Earthy, Skunk, Spicy/Herbal
+nausea, Energetic, Happy, Hungry, Focused, Relaxed, Mango, Sweet, Orange
+insomnia, pain, Happy, Relaxed, Uplifted, Sleepy, Creative, Lime, Sweet, Citrus
+ms, Happy, Relaxed, Uplifted, Euphoric, Creative, Earthy, Pine, Lemon
+Giggly, Hungry, Aroused, Euphoric, Uplifted, nan
+insomnia, anxiety, nausea, pain, Relaxed, Euphoric, Happy, Focused, Sleepy, Pungent, Sweet, Woody
+migraines, insomnia, nausea, pain, Happy, Relaxed, Tingly, Giggly, Hungry, Earthy, Pine, Skunk
+Happy, Focused, Uplifted, Creative, Energetic, Lemon, Earthy, Spicy/Herbal
+appetite loss, appetite, pain, Relaxed, Sleepy, Euphoric, Hungry, Tingly, Pine, Diesel, Sage
+Euphoric, Uplifted, Happy, Sleepy, Tingly, Sweet, Grape, Tropical
+Happy, Energetic, Creative, Uplifted, Talkative, Citrus, Sweet, Tropical
+Energetic, Happy, Focused, Euphoric, Uplifted, Lemon, Citrus, Pungent
+Relaxed, Sleepy, Happy, Focused, Uplifted, Earthy, Sweet, Pungent
+ms, Relaxed, Euphoric, Uplifted, Happy, Aroused, Sweet, Vanilla, Skunk
+anxiety, nausea, ms, appetite, pain, Happy, Focused, Giggly, Relaxed, Uplifted, Earthy, Flowery, Pungent
+insomnia, Relaxed, Sleepy, Happy, Euphoric, Hungry, Earthy, Woody, Pine
+appetite, pain, Focused, Relaxed, Creative, Uplifted, Euphoric, Earthy, Citrus, Lemon
+Relaxed, Happy, Hungry, Euphoric, Sleepy, Diesel, Sweet, Earthy
+insomnia, anxiety, pain, None, None
+Happy, Hungry, Sleepy, Aroused, Tingly, Spicy/Herbal, Pungent, Woody
+Hungry, Aroused, Relaxed, Happy, Euphoric, Earthy, Ammonia, Chestnut
+Happy, Uplifted, Energetic, Euphoric, Giggly, Tropical, Pineapple, Orange
+Relaxed, Happy, Sleepy, Euphoric, Hungry, Earthy, Woody, Skunk
+nausea, ms, appetite, pain, Relaxed, Happy, Talkative, Uplifted, Creative, Sage, Berry, Grape
+pain, Relaxed, Sleepy, Happy, Euphoric, Hungry, Earthy, Pungent, Woody
+Happy, Relaxed, Uplifted, Creative, Euphoric, Citrus, Pine, Orange
+Energetic, Euphoric, Sleepy, Uplifted, Happy, nan
+Euphoric, Happy, Creative, Energetic, Relaxed, Butter, Citrus, Cheese
+Relaxed, Happy, Giggly, Aroused, Sleepy, Sweet, Berry, Lavender
+pain, Relaxed, Happy, Euphoric, Creative, Giggly, Flowery, Tropical, Sweet
+Talkative, Euphoric, Aroused, Tingly, Uplifted, Sweet, Orange, Pungent
+Relaxed, Sleepy, Euphoric, Happy, Berry, Blueberry, Flowery
+pain, Aroused, Creative, Energetic, Euphoric, Focused, Sweet, Earthy, Lemon
+Relaxed, Uplifted, Happy, Euphoric, Tingly, Earthy, Grape, Flowery
+pain, Relaxed, Euphoric, Aroused, Creative, Energetic, Woody, Pine, Diesel
+Relaxed, Creative, Euphoric, None
+Relaxed, Focused, Uplifted, Sleepy, Happy, Sweet, Lemon, Cheese
+Relaxed, Sleepy, Euphoric, Uplifted, Focused, Pungent, Pine, Earthy
+Relaxed, Happy, Euphoric, Hungry, Tingly, Earthy, Sage, Spicy/Herbal
+Relaxed, Sleepy, Uplifted, Creative, Energetic, Pungent, Pine, Sweet
+appetite loss, appetite, pain, Relaxed, Sleepy, Happy, Uplifted, Creative, Berry, Earthy, Lemon
+Energetic, Creative, Talkative, Focused, Uplifted, Sweet, Diesel, Skunk
+Uplifted, Energetic, Happy, Euphoric, Creative, Citrus, Earthy, Spicy/Herbal
+anxiety, pain, Relaxed, Tingly, Hungry, Uplifted, Creative, Lemon, Earthy, Sweet
+appetite, Relaxed, Happy, Euphoric, Sleepy, Hungry, Earthy, Coffee, Sweet
+pain, Relaxed, Happy, Sleepy, Euphoric, Uplifted, Sweet, Earthy, Pine
+Euphoric, Creative, Relaxed, Sleepy, Tingly, Berry, Apple, Blueberry
+pain, Hungry, Relaxed, Happy, Creative, Talkative, Earthy, Coffee, Berry
+Relaxed, Happy, Creative, Uplifted, Euphoric, Menthol, Pungent, Pine
+Relaxed, Euphoric, Sleepy, Happy, Tingly, Earthy, Berry, Flowery
+Relaxed, Euphoric, Happy, Sleepy, Tingly, Lemon, Chemical, Diesel
+Relaxed, Euphoric, Tingly, Happy, Sleepy, Earthy, Pungent, Pine
+ms, pain, Uplifted, Energetic, Happy, Relaxed, Creative, Diesel, Pepper, Pungent
+ms, Happy, Relaxed, Euphoric, Uplifted, Creative, Earthy, Pungent, Citrus
+Happy, Relaxed, Hungry, Sleepy, Uplifted, Sweet, Earthy, Berry
+Uplifted, Creative, Energetic, Talkative, Euphoric, Sweet, Earthy
+Sleepy, Hungry, Relaxed, Sweet
+pain, Relaxed, Sleepy, Creative, Giggly, Hungry, Earthy, Pepper, Ammonia
+Euphoric, Uplifted, Happy, Relaxed, Aroused, Diesel, Pine, Earthy
+ms, depression, Euphoric, Creative, Happy, Uplifted, Energetic, Earthy, Woody, Pungent
+Happy, Euphoric, Sleepy, Hungry, Relaxed, Tropical, Sweet, Ammonia
+Relaxed, Sleepy, Euphoric, Happy, Uplifted, Diesel, Pine, Lime
+Relaxed, Euphoric, Energetic, Happy, Uplifted, Sweet, Orange, Earthy
+Relaxed, Happy, Uplifted, Euphoric, Sleepy, Lemon, Pine, Citrus
+pain, Sleepy, Happy, Relaxed, Aroused, Creative, None
+insomnia, anxiety, ms, pain, Relaxed, Euphoric, Sleepy, Hungry, Happy, Earthy, Pungent, Sweet
+depression, Happy, Euphoric, Uplifted, Energetic, Giggly, Tropical, Sweet, Spicy/Herbal
+depression, Energetic, Giggly, Happy, Talkative, Tingly, None
+Relaxed, Happy, Sleepy, Uplifted, Euphoric, Lavender, Flowery, Sweet
+ms, pain, Euphoric, Uplifted, Energetic, Happy, Relaxed, Lavender, Flowery, Earthy
+Happy, Relaxed, Euphoric, Uplifted, Creative, Lavender, Earthy, Sweet
+None, None
+Uplifted, Talkative, Euphoric, Happy, Energetic, Skunk, Cheese, Woody
+Tingly, Focused, Hungry, None
+nausea, depression, Relaxed, Euphoric, Sleepy, Uplifted, Tingly, Lime, Lemon, Citrus
+nausea, pain, Hungry, Sleepy, Relaxed, Happy, Focused, Pungent, Chemical, Spicy/Herbal
+pain, Relaxed, Sleepy, Happy, Creative, Focused, Pungent, Earthy, Pine
+None, None
+ms, depression, Aroused, Euphoric, Relaxed, Creative, Sleepy, Apricot, Chemical, Blueberry
+Energetic, Focused, Hungry, nan
+Relaxed, Creative, Focused, Aroused, Sleepy, Pungent, Pine, Earthy
+Talkative, Tingly, Uplifted, Creative, Energetic, Spicy/Herbal, Lime, Lemon
+Happy, Energetic, Talkative, Euphoric, Uplifted, Lemon, Citrus, Sweet
+appetite, Relaxed, Uplifted, Happy, Energetic, Euphoric, Lemon, Cheese, Sweet
+None, None
+Energetic, Happy, Focused, Giggly, Relaxed, Lemon, Citrus, Earthy
+Euphoric, Happy, Relaxed, Creative, Energetic, Lemon, Diesel, Citrus
+Happy, Euphoric, Focused, Uplifted, Relaxed, Lemon, Citrus, Pine
+Happy, Uplifted, Energetic, Euphoric, Focused, Citrus, Lemon, Earthy
+Relaxed, Euphoric, Happy, Uplifted, Creative, Lemon, Sweet, Pungent
+Happy, Uplifted, Euphoric, Energetic, Relaxed, Lemon, Citrus, Sweet
+anxiety, Energetic, Euphoric, Happy, Creative, Focused, Lemon, Citrus, Diesel
+headache, anxiety, Focused, Energetic, Happy, Uplifted, Creative, Lemon, Citrus, Sweet
+None, Sweet, Citrus, Lemon
+Relaxed, Happy, Euphoric, Uplifted, Energetic, Lemon, Citrus, Earthy
+depression, pain, Relaxed, Focused, Giggly, Uplifted, Creative, Citrus, Lemon, Lavender
+Uplifted, Happy, Euphoric, Relaxed, Tingly, Lemon, Diesel, Sweet
+headache, depression, Uplifted, Happy, Energetic, Creative, Relaxed, Lemon, Citrus, Sweet
+anxiety, depression, Energetic, Happy, Focused, Euphoric, Creative, Lemon, Citrus, Lime
+appetite, Relaxed, Euphoric, Happy, Sleepy, Uplifted, Lemon, Citrus, Earthy
+Energetic, Euphoric, Uplifted, Talkative, Happy, Lemon, Citrus, Diesel
+Happy, Euphoric, Energetic, Creative, Focused, Lemon, Citrus, Earthy
+depression, Happy, Uplifted, Relaxed, Euphoric, Focused, Lemon, Skunk, Citrus
+Focused, Happy, Creative, Talkative, Energetic, Lemon, Citrus, Earthy
+Relaxed, Uplifted, Happy, Focused, Energetic, Citrus, Lemon, Pungent
+insomnia, Relaxed, Creative, Euphoric, Tingly, Focused, Lemon, Citrus, Diesel
+Euphoric, Energetic, Giggly, Happy, Creative, Lemon, Sweet, Blueberry
+Happy, Uplifted, Giggly, Energetic, Euphoric, Citrus, Lemon, Earthy
+ms, Relaxed, Uplifted, Happy, Euphoric, Creative, Lemon, Citrus, Sweet
+None, None
+depression, Focused, Aroused, Uplifted, Creative, Energetic, Grape, Lavender, Violet
+Talkative, Creative, Euphoric, Happy, Hungry, Sweet, Grape, Flowery
+anxiety, depression, Happy, Uplifted, Relaxed, Euphoric, Energetic, Citrus, Lime, Sweet
+pain, Relaxed, Euphoric, Energetic, Uplifted, Tingly, Citrus, Sweet, Berry
+Happy, Uplifted, Energetic, Euphoric, Relaxed, Spicy/Herbal, Tropical, Pungent
+Happy, Euphoric, Uplifted, Relaxed, Focused, Lime, Citrus, Tropical
+Happy, Uplifted, Euphoric, Energetic, Relaxed, Lime, Citrus, Sweet
+appetite, Happy, Relaxed, Tingly, Sleepy, Uplifted, Berry, Lime, Sweet
+Uplifted, Creative, Happy, Euphoric, Energetic, Lime, Citrus, Pungent
+anxiety, Relaxed, Euphoric, Sleepy, Happy, Giggly, Lime, Citrus, Sweet
+Happy, Creative, Euphoric, Energetic, Giggly, Lemon, Citrus, Diesel
+Happy, Uplifted, Energetic, Focused, Creative, Menthol, Sage, Citrus
+anxiety, appetite, pain, Relaxed, Sleepy, Happy, Talkative, Giggly, Butter, Earthy, Woody
+ms, Uplifted, Energetic, Happy, Relaxed, Aroused, None
+pain, Uplifted, Euphoric, Happy, Relaxed, Talkative, Diesel, Minty, Woody
+Relaxed, Happy, Uplifted, Tingly, Euphoric, Diesel, Citrus, Woody
+Euphoric, Happy, Relaxed, Uplifted, Aroused, Earthy, Sweet, Pungent
+Happy, Giggly, Energetic, Euphoric, Uplifted, Sweet, Flowery, Tropical
+Talkative, Energetic, Happy, Uplifted, Euphoric, Diesel, Skunk, Minty
+Euphoric, Happy, Uplifted, Energetic, Hungry, Pepper, Sweet, Spicy/Herbal
+anxiety, Relaxed, Euphoric, Uplifted, Happy, Creative, Earthy, Lemon, Citrus
+anxiety, depression, None, None
+Happy, Focused, Euphoric, Creative, Uplifted, Pine, Earthy, Spicy/Herbal
+ms, Relaxed, Happy, Focused, Uplifted, Energetic, Grape, Sweet, Tropical
+Happy, Talkative, Euphoric, Relaxed, Energetic, Skunk, Citrus, Grapefruit
+Euphoric, Happy, Talkative, Focused, Energetic, Sweet, Flowery, Honey
+Relaxed, Uplifted, Happy, Creative, Sleepy, Sweet, Pine, Citrus
+migraines, ms, pain, Tingly, Relaxed, Focused, Uplifted, Creative, Pungent, Citrus, Earthy
+nausea, pain, None, None
+pain, Focused, Energetic, Uplifted, Happy, Relaxed, Earthy, Lemon, Pungent
+Giggly, Hungry, Relaxed, Sleepy, Talkative, Blueberry, Berry, Earthy
+migraines, nausea, Energetic, Euphoric, Uplifted, Focused, Relaxed, Berry, Blueberry, Sweet
+ms, Euphoric, Happy, Relaxed, Uplifted, Tingly, Berry, Sweet, Citrus
+headache, pain, Relaxed, Sleepy, Uplifted, Happy, Hungry, Earthy, Woody, Sweet
+Relaxed, Sleepy, Happy, Hungry, Euphoric, Woody, Earthy, Lemon
+Hungry, Aroused, Tingly, Uplifted, Creative, Diesel, Spicy/Herbal, Sweet
+Happy, Euphoric, Uplifted, Giggly, Relaxed, Earthy, Sweet, Sage
+Relaxed, Euphoric, Sleepy, Happy, Hungry, Earthy, Pungent, Woody
+Happy, Uplifted, Hungry, Talkative, Energetic, Sweet, Earthy, Citrus
+Relaxed, Uplifted, Focused, Euphoric, Happy, Woody, Pungent, Pine
+insomnia, Sleepy, Relaxed, Hungry, Happy, Euphoric, Earthy, Sweet, Skunk
+Sleepy, Uplifted, Energetic, Relaxed, Talkative, Sweet, Earthy, Ammonia
+Relaxed, Sleepy, Hungry, Uplifted, Euphoric, Earthy, Pine, Woody
+pain, Tingly, Uplifted, Euphoric, Happy, Relaxed, Earthy, Woody, Pine
+pain, Relaxed, Happy, Sleepy, Euphoric, Uplifted, Earthy, Sweet, Pungent
+insomnia, appetite, pain, Happy, Sleepy, Euphoric, Relaxed, Tingly, Lemon, Woody, Pine
+Euphoric, Focused, Tingly, Uplifted, Creative, Minty, Orange, Lemon
+Energetic, Happy, Creative, Uplifted, Euphoric, Earthy, Citrus, Lemon
+Uplifted, Focused, Energetic, Euphoric, Creative, Tropical, Citrus, Orange
+anxiety, pain, Happy, Relaxed, Euphoric, Creative, Uplifted, Orange, Tree, Fruit, Spicy/Herbal
+anxiety, pain, Relaxed, Tingly, Happy, Euphoric, Creative, Earthy, Sweet, Berry
+ms, Euphoric, Happy, Relaxed, Hungry, Uplifted, Pine, Citrus, Earthy
+anxiety, depression, Focused, Talkative, Creative, Energetic, Happy, Sweet, Earthy, Woody
+Energetic, Uplifted, Focused, Happy, Creative, Earthy, Flowery, Grape
+Happy, Relaxed, Focused, Uplifted, Creative, Honey, Earthy, Woody
+Euphoric, Creative, Energetic, Uplifted, Focused, Apple, Minty, Berry
+Relaxed, Sleepy, Happy, Euphoric, Focused, Mango, Earthy, Sweet
+pain, Talkative, Happy, Euphoric, Relaxed, Creative, Mango, Tropical, Earthy
+inflammation, nausea, depression, Focused, Uplifted, Creative, Energetic, Euphoric, Pepper, Spicy/Herbal, Sweet
+Happy, Relaxed, Euphoric, Focused, Uplifted, Mango, Sweet, Tropical
+Happy, Relaxed, Uplifted, Euphoric, Giggly, Mango, Sweet, Citrus
+Relaxed, Happy, Euphoric, Giggly, Sleepy, Mango, Tropical, Citrus
+Uplifted, Focused, Relaxed, Giggly, Happy, Sweet, Tropical, Pineapple
+Relaxed, Happy, Sleepy, Focused, Uplifted, Spicy/Herbal, Earthy, Cheese
+Relaxed, Sleepy, Tingly, Euphoric, Happy, Sweet, Butter, Woody
+appetite, Talkative, Energetic, Giggly, Relaxed, Sweet, Berry, Earthy
+appetite, Euphoric, Uplifted, Happy, Creative, Energetic, Minty, Sweet, Berry
+Euphoric, Focused, Relaxed, Talkative, Uplifted, Sweet, Grapefruit, Honey
+Happy, Relaxed, Uplifted, Euphoric, Creative, Berry, Earthy, Sweet
+Focused, Aroused, Hungry, Tingly, Relaxed, Sweet
+pain, Relaxed, Sleepy, Hungry, Euphoric, Focused, Pine, Woody, Citrus
+anxiety, nausea, ptsd, Relaxed, Happy, Uplifted, Euphoric, Talkative, Sweet, Woody, Earthy
+Euphoric, Happy, Hungry, Uplifted, Focused, Sweet, Citrus, Grapefruit
+anxiety, None, None
+insomnia, pain, Relaxed, Euphoric, Happy, Uplifted, Sleepy, Earthy, Pungent, Skunk
+Relaxed, Euphoric, Creative, Focused, Uplifted, Skunk, Spicy/Herbal, Diesel
+ms, Relaxed, Happy, Euphoric, Sleepy, Uplifted, Earthy, Pungent, Woody
+nausea, pain, Relaxed, Sleepy, Happy, Hungry, Uplifted, Earthy, Pine, Pungent
+pain, Relaxed, Uplifted, Euphoric, Happy, Creative, Skunk, Lemon, Honey
+Relaxed, Happy, Euphoric, Uplifted, Focused, Pungent, Sweet, Earthy
+Happy, Euphoric, Energetic, Hungry, Relaxed, Earthy, Woody, Pungent
+insomnia, pain, Relaxed, Sleepy, Euphoric, Hungry, Tingly, Berry, Sweet, Earthy
+Euphoric, Tingly, Happy, Sleepy, Hungry, nan
+ms, Uplifted, Happy, Creative, Energetic, Euphoric, nan
+Relaxed, Uplifted, Tingly, Happy, Talkative, Citrus, Sweet, Tropical
+Happy, Creative, Uplifted, Hungry, Energetic, Berry, Citrus, Pungent
+inflammation, anxiety, pain, Relaxed, Uplifted, Happy, Tingly, Euphoric, Sweet, Citrus, Pungent
+Relaxed, Energetic, Uplifted, Creative, Euphoric, Citrus, Tropical, Skunk
+ms, Happy, Creative, Euphoric, Aroused, Sleepy, Pungent, Tropical, Earthy
+Euphoric, Relaxed, Uplifted, Happy, Creative, Mango, Sweet, Diesel
+Creative, Euphoric, Uplifted, Aroused, Energetic, Tropical, Flowery, Menthol
+Happy, Uplifted, Energetic, Relaxed, Creative, Tropical, Pineapple, Citrus
+Relaxed, Sleepy, Euphoric, Happy, Hungry, Earthy, Spicy/Herbal, Pine
+Relaxed, Sleepy, Happy, Giggly, Hungry, Pungent, Earthy, Spicy/Herbal
+Relaxed, Uplifted, Talkative, Tingly, Energetic, Flowery, Sweet
+inflammation, anxiety, ms, pain, Relaxed, Happy, Focused, Uplifted, Energetic, Earthy, Sweet, Spicy/Herbal
+Uplifted, Relaxed, Euphoric, Happy, Focused, Sweet, Earthy, Skunk
+migraines, headache, pain, Relaxed, Uplifted, Sleepy, Happy, Euphoric, Berry, Woody, Earthy
+ms, pain, Uplifted, Happy, Relaxed, Euphoric, Creative, Earthy, Citrus, Diesel
+pain, Relaxed, Happy, Euphoric, Creative, Uplifted, Earthy, Blueberry, Pungent
+Relaxed, Happy, Uplifted, Euphoric, Hungry, Berry, Strawberry, Grape
+depression, Uplifted, Happy, Hungry, Creative, Euphoric, Skunk, Pungent, Earthy
+ms, Uplifted, Creative, Energetic, Euphoric, Focused, Pineapple, Mango, Flowery
+Happy, Relaxed, Creative, Euphoric, Focused, Sweet, Lavender, Flowery
+hiv, Creative, Uplifted, Happy, Euphoric, Talkative, Earthy, Sweet, Woody
+Sleepy, Hungry, Relaxed, Uplifted, Euphoric, Earthy, Pungent, Skunk
+pain, Relaxed, Euphoric, Sleepy, Happy, Uplifted, Earthy, Pungent, Sweet
+Dry, Mouth, Earthy, Chestnut
+Relaxed, Happy, Euphoric, Tingly, Hungry, Earthy, Grape, Flowery
+Relaxed, Sleepy, Euphoric, Happy, Hungry, Pungent, Earthy, Woody
+Relaxed, Happy, Uplifted, Euphoric, Tingly, Butter, Flowery, Earthy
+Uplifted, Euphoric, Giggly, Energetic, Talkative, Earthy, Woody, Diesel
+Happy, Uplifted, Energetic, Hungry, Focused, Woody, Earthy, Nutty
+Relaxed, Hungry, Sleepy, Creative, Talkative, Pine, Pear, Earthy
+nausea, depression, pain, Uplifted, Happy, Focused, Relaxed, Euphoric, Earthy, Sweet, Tree, Fruit
+anxiety, nausea, ms, pain, Creative, Happy, Uplifted, Focused, Euphoric, Earthy, Blueberry, Tar
+Happy, Euphoric, Giggly, Uplifted, Relaxed, Pineapple, Sweet, Grape
+inflammation, nausea, pain, Happy, Uplifted, Euphoric, Relaxed, Creative, Earthy, Pungent, Lavender
+Relaxed, Happy, Euphoric, Energetic, Focused, Sweet, Menthol, Pepper
+hiv, Creative, Relaxed, Uplifted, Happy, Energetic, Blueberry, Earthy, Diesel
+Relaxed, Happy, Tingly, Uplifted, Talkative, Minty, Earthy, Mint
+ms, depression, Creative, Uplifted, Energetic, Euphoric, Happy, Pine
+hiv, ms, Happy, Euphoric, Relaxed, Uplifted, Talkative, Sweet, Mango, Lemon
+pain, Sleepy, Euphoric, Relaxed, Spicy/Herbal, Pine
+appetite, Energetic, Happy, Euphoric, Uplifted, Relaxed, Earthy, Pine, Citrus
+ms, Uplifted, Euphoric, Happy, Relaxed, Energetic, Sweet, Citrus, Earthy
+pain, Sleepy, Happy, Hungry, Relaxed, Tingly, Pungent, Minty, Flowery
+Relaxed, Euphoric, Happy, Creative, Uplifted, Pungent, Woody, Chestnut
+insomnia, Aroused, Creative, Euphoric, Relaxed, Sleepy, Berry, Grape, Sweet
+insomnia, appetite, Relaxed, Sleepy, Happy, Euphoric, Uplifted, Earthy, Berry, Skunk
+pain, Relaxed, Happy, Hungry, Uplifted, Euphoric, Grape, Berry, Spicy/Herbal
+anxiety, appetite, pain, Relaxed, Sleepy, Tingly, Euphoric, Focused, Pungent, Earthy, Pine
+Relaxed, Happy, Sleepy, Euphoric, Hungry, Earthy, Grape, Pine
+appetite, pain, Hungry, Relaxed, Happy, Tingly, Sleepy, Woody, Spicy/Herbal, Earthy
+migraines, anxiety, Relaxed, Happy, Euphoric, Uplifted, Giggly, Earthy, Spicy/Herbal, Sweet
+nausea, Hungry, Focused, Euphoric, Happy, Relaxed, Spicy/Herbal, Minty, Flowery
+inflammation, pain, Creative, Euphoric, Happy, Relaxed, Lavender, Pine
+Uplifted, Euphoric, Happy, Relaxed, Creative, Earthy, Citrus, Pine
+Relaxed, Euphoric, Happy, Focused, Giggly, Earthy, Pine, Minty
+anxiety, appetite, depression, pain, Happy, Uplifted, Euphoric, Energetic, Talkative, Citrus, Diesel, Pungent
+Creative, Energetic, Happy, Aroused, Uplifted, Citrus, Pepper, Lime
+Uplifted, Euphoric, Creative, Happy, Energetic, Orange, Berry, Blueberry
+Euphoric, Focused, Relaxed, Sweet, Lemon, Earthy
+Euphoric, Focused, Relaxed, Sleepy, Uplifted, Honey, Lemon, Pungent
+insomnia, anxiety, ms, pain, Relaxed, Creative, Sleepy, Giggly, Euphoric, Pungent, Sweet, Flowery
+Happy, Creative, Euphoric, Giggly, Energetic, Earthy, Lemon, Sweet
+Relaxed, Happy, Creative, Sleepy, Tingly, Berry, Blueberry, Sweet
+ms, depression, pain, Relaxed, Happy, Sleepy, Euphoric, Uplifted, Earthy, Vanilla, Sweet
+ms, Aroused, Happy, Uplifted, Creative, Energetic, Lemon, Sweet, Pine
+migraines, anxiety, nausea, pain, Energetic, Uplifted, Happy, Focused, Creative, Earthy, Sweet, Citrus
+appetite, Happy, Uplifted, Relaxed, Talkative, Creative, Earthy, Spicy/Herbal, Sage
+Relaxed, Happy, Hungry, Sleepy, Uplifted, Earthy, Sweet, Woody
+Happy, Talkative, Tingly, Euphoric, Relaxed, Citrus, Sweet, Berry
+ms, pain, Euphoric, Happy, Talkative, Uplifted, Giggly, Sweet, Berry, Pineapple
+Euphoric, Focused, Happy, Relaxed, Aroused, Ammonia, Diesel, Spicy/Herbal
+Euphoric, Happy, Creative, Focused, Uplifted, Earthy, Sweet, Citrus
+Happy, Uplifted, Relaxed, Aroused, Tingly, Earthy, Woody, Sweet
+Euphoric, Relaxed, Sleepy, Uplifted, Giggly, nan
+Giggly, None
+Happy, Euphoric, Relaxed, Uplifted, Creative, Earthy, Sweet, Tropical
+appetite, Hungry, Happy, Creative, Uplifted, Energetic, Earthy, Woody, Cheese
+Hungry, Euphoric, Uplifted, Energetic, Relaxed, Diesel, Citrus, Grapefruit
+anxiety, Happy, Uplifted, Relaxed, Energetic, Euphoric, Diesel, Earthy, Pungent
+Uplifted, Happy, Relaxed, Giggly, Focused, Flowery, Pine, Earthy
+Happy, Creative, Euphoric, Uplifted, Energetic, Sweet, Citrus, Spicy/Herbal
+pain, Uplifted, Happy, Euphoric, Energetic, Creative, Earthy, Honey, Pungent
+pain, Focused, Uplifted, Talkative, Creative, Euphoric, Earthy, Spicy/Herbal, Woody
+pain, Creative, Energetic, Relaxed, Hungry, Talkative, Sweet, Earthy, Citrus
+Happy, Uplifted, Hungry, Euphoric, Creative, Earthy, Grapefruit, Sweet
+None, None
+anxiety, Relaxed, Uplifted, Happy, Hungry, Sleepy, Citrus, Pine, Honey
+Sleepy, Focused, Happy, Hungry, Relaxed, Pungent, Tree, Fruit, Earthy
+appetite, depression, Uplifted, Creative, Euphoric, Happy, Aroused, Earthy, Sage, Pine
+Uplifted, Giggly, Euphoric, Talkative, Relaxed, Sweet, Earthy, Diesel
+Relaxed, Euphoric, Happy, Aroused, Sleepy, Sweet, Berry, Earthy
+appetite, Happy, Talkative, Uplifted, Relaxed, Hungry, Sweet, Berry, Pungent
+Relaxed, Euphoric, Uplifted, Happy, Tingly, Pungent, Sweet, Woody
+insomnia, anxiety, pain, Relaxed, Sleepy, Happy, Hungry, Euphoric, Sweet, Earthy, Diesel
+Relaxed, Sleepy, Happy, Tingly, Euphoric, Earthy, Berry, Grape
+Relaxed, Sleepy, Tingly, Euphoric, Uplifted, Pepper, Pungent, Chemical
+Euphoric, Uplifted, Tingly, Talkative, Energetic, Citrus, Pine, Earthy
+appetite, Relaxed, Euphoric, Happy, Creative, Uplifted, Sweet, Pine, Woody
+Euphoric, Happy, Energetic, Talkative, Uplifted, Lemon, Sweet, Citrus
+appetite, Happy, Relaxed, Sleepy, Uplifted, Aroused, Grape, Citrus, Sweet
+ms, pain, Relaxed, Happy, Creative, Uplifted, Focused, Sweet, Citrus, Pungent
+Relaxed, Focused, Sleepy, Uplifted, Giggly, Earthy, Woody, Spicy/Herbal
+Uplifted, Euphoric, Focused, Happy, Relaxed, Earthy, Pungent, Skunk
+Uplifted, Happy, Hungry, Aroused, Sleepy, Tropical, Earthy, Woody
+insomnia, ms, pain, Relaxed, Sleepy, Happy, Euphoric, Uplifted, Earthy, Berry, Sweet
+Uplifted, Creative, Energetic, Euphoric, Focused, Sweet, Flowery, Tea
+hiv, ms, depression, pain, Relaxed, Sleepy, Happy, Euphoric, Uplifted, Earthy, Sweet, Pine
+Happy, Uplifted, Relaxed, Euphoric, Focused, Pine, Sweet, Citrus
+ms, Happy, Talkative, Relaxed, Uplifted, Energetic, Earthy, Flowery, Sweet
+Happy, Relaxed, Euphoric, Uplifted, Hungry, Skunk, Earthy, Pungent
+Relaxed, Euphoric, Happy, Tingly, Creative, Earthy, Woody, Citrus
+Uplifted, Euphoric, Happy, Relaxed, Sweet, Pineapple
+inflammation, anxiety, ms, pain, Happy, Creative, Euphoric, Relaxed, Uplifted, Berry, Earthy, Woody
+nausea, pain, None, None
+Creative, Euphoric, Sleepy, Giggly, Happy, Earthy, Pungent
+ms, Relaxed, Happy, Uplifted, Sleepy, Euphoric, Sweet, Earthy, Woody
+anxiety, Euphoric, Relaxed, Uplifted, Happy, Energetic, Lemon, Pine, Menthol
+insomnia, Sleepy, Relaxed, Tingly, Euphoric, Happy, Spicy/Herbal, Sweet, Flowery
+anxiety, depression, pain, Energetic, Happy, Uplifted, Euphoric, Talkative, Citrus, Flowery, Tea
+anxiety, Energetic, Creative, Aroused, Uplifted, Euphoric, Tar
+Relaxed, Sleepy, Happy, Hungry, Euphoric, Earthy, Pine, Diesel
+anxiety, nausea, pain, None, None
+Relaxed, Creative, Happy, Sleepy, Uplifted, Cheese, Citrus, Earthy
+Happy, Euphoric, Relaxed, Uplifted, Energetic, Pine, Pungent, Earthy
+Happy, Relaxed, Creative, Euphoric, Hungry, Skunk, Pine, Pungent
+Happy, Sleepy, Hungry, Talkative, Tingly, Tropical
+Sleepy, Uplifted, Relaxed, Pungent
+migraines, Relaxed, Happy, Euphoric, Uplifted, Sleepy, Earthy, Pine, Woody
+insomnia, pain, Relaxed, Happy, Uplifted, Focused, Creative, Earthy, Pepper, Woody
+insomnia, pain, Sleepy, Relaxed, Hungry, Euphoric, Focused, Earthy, Citrus
+insomnia, Relaxed, Sleepy, Euphoric, Hungry, Focused, Earthy, Diesel, Sweet
+ms, pain, Happy, Relaxed, Uplifted, Hungry, Euphoric, Lemon, Sweet, Pine
+nausea, ms, pain, Relaxed, Uplifted, Happy, Euphoric, Tingly, Earthy, Chemical, Woody
+Happy, Euphoric, Creative, Relaxed, Uplifted, Skunk, Woody, Pine
+Happy, Relaxed, Energetic, Giggly, Talkative, Diesel, Citrus, Lemon
+ms, Happy, Creative, Uplifted, Euphoric, Relaxed, Strawberry, Sweet, Earthy
+Aroused, Energetic, Euphoric, Happy, Earthy, Pungent, Woody
+appetite loss, headache, nausea, appetite, depression, pain, Focused, Euphoric, Uplifted, Happy, Tingly, Sweet, Earthy, Pungent
+Relaxed, Happy, Sleepy, Euphoric, Hungry, Earthy, Pungent, Sweet
+Euphoric, Energetic, Creative, Relaxed, Happy, Earthy, Pine, Diesel
+appetite, Relaxed, Happy, Euphoric, Uplifted, Creative, Earthy, Sweet, Pungent
+Focused, Relaxed, Happy, Uplifted, Tingly, Sweet, Skunk, Flowery
+Relaxed, Happy, Euphoric, Uplifted, Aroused, Skunk, Pungent, Earthy
+ms, pain, Happy, Relaxed, Focused, Sleepy, Giggly, Blueberry, Berry, Earthy
+Energetic, Happy, Talkative, Uplifted, Euphoric, Tree, Fruit, Pungent, Pine
+None, nan
+Sleepy, Relaxed, Tingly, Happy, Euphoric, Pungent, Skunk, Earthy
+Creative, Energetic, Happy, Euphoric, Relaxed, Lime, Pine, Spicy/Herbal
+Tingly, Uplifted, Energetic, Citrus, Pine
+Euphoric, Happy, Tingly, Relaxed, Uplifted, Menthol, Spicy/Herbal, Sweet
+multiple sclerosis, pain, Uplifted, Euphoric, Relaxed, Happy, Tingly, Diesel, Sweet, Earthy
+Focused, Hungry, Relaxed, Creative, Energetic, Earthy, Woody, Pepper
+Relaxed, Euphoric, Aroused, Sleepy, Tingly, Strawberry, Earthy, Lavender
+Happy, Relaxed, Euphoric, Uplifted, Giggly, Earthy, Citrus, Flowery
+appetite loss, inflammation, nausea, ms, appetite, pain, Hungry, Happy, Relaxed, Euphoric, Sleepy, Earthy, Flowery, Woody
+Hungry, Relaxed, Sleepy, Creative, Uplifted, Orange, Citrus, Earthy
+appetite, Uplifted, Euphoric, Happy, Talkative, Creative, Orange, Citrus, Pine
+Happy, Euphoric, Energetic, Relaxed, Uplifted, Orange, Citrus, Pungent
+Relaxed, Happy, Uplifted, Euphoric, Creative, Citrus, Orange, Sweet
+anxiety, nausea, ms, Relaxed, Happy, Euphoric, Uplifted, Focused, Citrus, Orange, Sweet
+Uplifted, Happy, Relaxed, Energetic, Creative, Citrus, Orange, Sweet
+Relaxed, Focused, Talkative, Energetic, Euphoric, Citrus, Orange, Diesel
+ms, depression, Happy, Euphoric, Creative, Uplifted, Relaxed, Tropical, Orange, Citrus
+Energetic, Talkative, Uplifted, Focused, Creative, Orange, Sweet, Citrus
+Happy, Uplifted, Euphoric, Relaxed, Energetic, Orange, Sweet, Citrus
+Happy, Relaxed, Sleepy, Euphoric, Focused, Orange, Citrus, Sweet
+Relaxed, Euphoric, Uplifted, Happy, Creative, Citrus, Orange, Sweet
+Relaxed, Happy, Euphoric, Sleepy, Hungry, Orange, Citrus, Sweet
+None, None
+ms, pain, Euphoric, Relaxed, Tingly, Giggly, Happy, Citrus, Orange, Lime
+headache, inflammation, anxiety, Happy, Relaxed, Uplifted, Hungry, Tingly, Citrus, Orange, Earthy
+ms, Happy, Creative, Relaxed, Sleepy, Hungry, Citrus, Orange, Sweet
+ms, pain, Uplifted, Relaxed, Happy, Euphoric, Focused, Orange, Citrus, Sweet
+appetite, pain, Uplifted, Creative, Energetic, Euphoric, Focused, Orange, Citrus, Pine
+pain, Relaxed, Happy, Sleepy, Tingly, Euphoric, Diesel, Earthy, Pine
+Happy, Giggly, Uplifted, Relaxed, Creative, Pineapple, Sweet, Cheese
+Relaxed, Euphoric, Sleepy, Focused, Tingly, Grape, Sweet, Diesel
+Uplifted, Happy, Talkative, Energetic, Focused, Diesel, Pungent, Tobacco
+anxiety, Uplifted, Euphoric, Happy, Hungry, Relaxed, nan
+Relaxed, Giggly, Uplifted, Euphoric, Sleepy, Spicy/Herbal, Pepper, Earthy
+insomnia, pain, Happy, Hungry, Relaxed, Focused, Creative, Earthy, Pungent, Woody
+Uplifted, Creative, Euphoric, Energetic, Happy, Sweet, Citrus, Berry
+migraines, inflammation, glaucoma, depression, Euphoric, Uplifted, Creative, Energetic, Focused, Earthy, Woody, Spicy/Herbal
+pain, Relaxed, Euphoric, Happy, Creative, Energetic, Sweet, Citrus, Lemon
+Happy, Giggly, Tingly, Uplifted, Relaxed, Earthy, Spicy/Herbal, Sweet
+Euphoric, Happy, Relaxed, Creative, Energetic, Sweet, Chemical, Citrus
+Tingly, Focused, Talkative, Uplifted, Energetic, nan
+headache, anxiety, nausea, Tingly, Relaxed, Sleepy, Uplifted, Creative, Flowery, Earthy, Sweet
+Uplifted, Happy, Relaxed, Talkative, Energetic, Citrus, Grapefruit, Tropical
+headache, nausea, pain, Relaxed, Happy, Sleepy, Euphoric, Uplifted, Pine, Sweet, Earthy
+pain, Relaxed, Happy, Sleepy, Euphoric, Hungry, Earthy, Sweet, Berry
+Euphoric, Relaxed, Happy, Sleepy, Uplifted, Chemical, Sage, Flowery
+Happy, Energetic, Uplifted, Focused, Tingly, Orange, Tropical, Berry
+Happy, Hungry, Uplifted, Energetic, Focused, Earthy, Spicy/Herbal, Skunk
+appetite loss, insomnia, anxiety, ms, appetite, Relaxed, Euphoric, Happy, Focused, Uplifted, Earthy, Berry, Chemical
+Euphoric, Energetic, Uplifted, Happy, Focused, Spicy/Herbal, Citrus, Flowery
+insomnia, pain, Relaxed, Focused, Happy, Giggly, Sleepy, Earthy, Pungent, Sweet
+Relaxed, Sleepy, Happy, Euphoric, Hungry, Tropical, Sweet, Tree, Fruit
+Relaxed, Happy, Sleepy, Euphoric, Uplifted, Earthy, Lemon, Pine
+appetite, Creative, Aroused, Uplifted, Energetic, Euphoric, Sweet, Pungent, Nutty
+None, None
+Euphoric, Relaxed, Focused, Creative, Hungry, Peach, Sweet, Vanilla
+Uplifted, Happy, Giggly, Relaxed, Focused, Sweet, Citrus, Lemon
+Aroused, Uplifted, Energetic, Sleepy, Tingly, Diesel, Earthy, Pungent
+ms, cancer, ptsd, epilepsy, arthritis, Relaxed, Happy, Uplifted, Sleepy, Focused, Earthy, Woody, Sweet
+Relaxed, Euphoric, Uplifted, Focused, Creative, Sweet, Mint, Pine
+anxiety, ms, multiple sclerosis, arthritis, Focused, Happy, Relaxed, Talkative, Euphoric, Woody, Earthy, Pine
+eating disorder, appetite, None, None
+ms, pain, Relaxed, Euphoric, Uplifted, Happy, Aroused, Pungent, Violet, Woody
+Happy, Euphoric, Creative, Relaxed, Hungry, Sweet, Nutty, Coffee
+None, nan
+pain, Euphoric, Sleepy, Giggly, Relaxed, Energetic, Pine, Sweet, Earthy
+migraines, anxiety, pain, Happy, Relaxed, Tingly, Euphoric, Focused, Tree, Fruit, Menthol, Flowery
+nausea, appetite, pain, Happy, Relaxed, Uplifted, Creative, Energetic, Berry, Grape, Mango
+appetite loss, insomnia, appetite, arthritis, pain, Relaxed, Sleepy, Euphoric, Happy, Focused, Pungent, Earthy, Sweet
+Uplifted, Happy, Relaxed, Talkative, Creative, Lemon, Spicy/Herbal, Lime
+Giggly, Happy, Talkative, Tingly, Uplifted, Sweet, Berry
+hiv, appetite, Relaxed, Euphoric, Giggly, Happy, Tingly, Earthy, Sweet, Tropical
+Creative, Uplifted, Energetic, Euphoric, Focused, Pine, Earthy, Woody
+Aroused, Uplifted, Euphoric, Focused, Happy, Earthy, Woody, Pine
+ms, Relaxed, Happy, Uplifted, Euphoric, Hungry, Pine, Woody, Earthy
+Happy, Uplifted, Euphoric, Relaxed, Energetic, Pineapple, Tropical, Sweet
+depression, None, None
+anxiety, pain, Relaxed, Happy, Hungry, Euphoric, Uplifted, Pineapple, Tropical, Skunk
+depression, Talkative, Energetic, Euphoric, Happy, Uplifted, Pineapple, Sweet, Flowery
+Uplifted, Talkative, Happy, Euphoric, Giggly, Diesel, Pungent, Pineapple
+Uplifted, Euphoric, Energetic, Focused, Happy, Pineapple, Sweet, Earthy
+Happy, Uplifted, Euphoric, Energetic, Relaxed, Pineapple, Sweet, Tropical
+ms, depression, Creative, Uplifted, Happy, Relaxed, Euphoric, Sweet, Pineapple, Tropical
+Relaxed, Euphoric, Happy, Uplifted, Energetic, Pineapple, Citrus, Tropical
+depression, Happy, Euphoric, Talkative, Tingly, Giggly, Pineapple, Sweet, Tropical
+Happy, Uplifted, Euphoric, Giggly, Relaxed, Pineapple, Sweet, Tropical
+Happy, Uplifted, Focused, Creative, Energetic, Pineapple, Citrus, Tropical
+Creative, Aroused, Happy, Euphoric, Uplifted, Tropical, Pineapple, Sweet
+ms, Relaxed, Happy, Uplifted, Euphoric, Aroused, Sweet, Citrus, Pineapple
+panic, appetite, Creative, Uplifted, Relaxed, Euphoric, Energetic, Earthy, Pineapple, Berry
+Uplifted, Creative, Energetic, Euphoric, Focused, Sage, Sweet, Lemon
+insomnia, pain, Uplifted, Happy, Relaxed, Euphoric, Talkative, Pineapple, Skunk, Sweet
+Happy, Euphoric, Energetic, Focused, Tingly, Pineapple, Sweet, Earthy
+pain, Relaxed, Creative, Sleepy, Happy, Focused, Pineapple, Citrus, Sweet
+pain, Relaxed, Euphoric, Uplifted, Happy, Giggly, Pineapple, Pine, Woody
+Euphoric, Happy, Relaxed, Tingly, Uplifted, Sweet, Pineapple, Pine
+pain, Sleepy, Uplifted, Aroused, Tingly, Euphoric, Sweet, Flowery, Butter
+Relaxed, Euphoric, Sleepy, Hungry, Happy, Sweet, Earthy, Pungent
+migraines, insomnia, Relaxed, Happy, Euphoric, Uplifted, Sleepy, Berry, Sweet, Rose
+ms, Relaxed, Aroused, Creative, Giggly, Happy, Sweet, Earthy, Pungent
+Relaxed, Sleepy, Euphoric, Happy, Tingly, Earthy, Spicy/Herbal, Flowery
+Uplifted, Creative, Happy, Aroused, Energetic, Sweet, Tropical, Strawberry
+appetite loss, insomnia, appetite, pain, Relaxed, Happy, Sleepy, Euphoric, Hungry, Sweet, Earthy, Flowery
+ms, depression, Happy, Uplifted, Energetic, Relaxed, Focused, Lemon, Sweet, Citrus
+nausea, depression, pain, Relaxed, Happy, Euphoric, Creative, Focused, Mango, Berry, Grapefruit
+migraines, headache, depression, pain, Happy, Euphoric, Energetic, Uplifted, Relaxed, Flowery, Sweet, Pungent
+Happy, Sleepy, Creative, Relaxed, Hungry, Citrus, Sweet, Grapefruit
+Euphoric, Happy, Talkative, Uplifted, Creative, Sweet, Diesel, Berry
+insomnia, nausea, pain, Relaxed, Euphoric, Tingly, Sleepy, Happy, Sweet, Berry, Vanilla
+Talkative, Euphoric, Focused, Sleepy, Uplifted, Woody, Coffee, Pine
+Relaxed, Sleepy, Happy, Euphoric, Focused, Sweet, Earthy, Tropical
+None, None
+appetite, pain, Euphoric, Relaxed, Happy, Sleepy, Uplifted, Earthy, Flowery, Woody
+headache, inflammation, ms, Euphoric, Uplifted, Creative, Hungry, Relaxed, Berry, Grape, Lavender
+migraines, nausea, ms, pain, Relaxed, Happy, Euphoric, Uplifted, Hungry, Sweet, Earthy, Pungent
+Euphoric, Relaxed, Happy, Tingly, Creative, Pine, Spicy/Herbal, Minty
+Relaxed, Happy, Euphoric, Sleepy, Uplifted, Sweet, Earthy, Pungent
+anxiety, pain, Relaxed, Sleepy, Euphoric, Happy, Hungry, Earthy, Pine, Pungent
+insomnia, Relaxed, Sleepy, Happy, Euphoric, Hungry, Chemical, Tea, Earthy
+Giggly, Relaxed, Uplifted, Euphoric, Happy, Sweet, Lemon, Flowery
+Happy, Uplifted, Euphoric, Relaxed, Creative, Earthy, Pine, Sweet
+Relaxed, Happy, Euphoric, Sleepy, Uplifted, Berry, Sweet, Earthy
+Euphoric, Sleepy, Relaxed, Creative, Hungry, Blueberry, Sweet, Skunk
+Energetic, Happy, Relaxed, Uplifted, Giggly, Citrus, Orange, Spicy/Herbal
+Relaxed, Sleepy, Euphoric, Happy, Focused, Butter, Citrus, Cheese
+hiv, Euphoric, Focused, Creative, Happy, Energetic, Earthy, Pungent, Skunk
+Euphoric, Creative, Uplifted, Happy, Aroused, Sweet, Grape, Citrus
+Relaxed, Sleepy, Happy, Hungry, Giggly, Butter, Sweet, Earthy
+Relaxed, Happy, Creative, Focused, Sleepy, Skunk, Sweet, Earthy
+ms, Relaxed, Uplifted, Euphoric, Sleepy, Creative, Tropical, Earthy, Sweet
+Happy, Uplifted, Euphoric, Energetic, Talkative, Earthy, Pungent, Woody
+pain, Relaxed, Happy, Euphoric, Sleepy, Hungry, Earthy, Woody, Pungent
+ms, Relaxed, Happy, Euphoric, Tingly, Uplifted, Earthy, Sweet, Tropical
+insomnia, Relaxed, Sleepy, Happy, Giggly, Tingly, Earthy, Citrus, Woody
+appetite loss, anxiety, appetite, depression, pain, Relaxed, Happy, Euphoric, Hungry, Uplifted, Earthy, Skunk, Pungent
+Talkative, Energetic, Happy, Uplifted, Giggly, Sweet, Earthy
+pain, Uplifted, Happy, Energetic, Relaxed, Euphoric, Citrus, Pine, Earthy
+Happy, Uplifted, Creative, Focused, Talkative, Sweet, Earthy, Flowery
+None, None
+None, None
+None, None
+Uplifted, Happy, Sleepy, Talkative, Creative, Tropical, Sweet, Pungent
+Uplifted, Giggly, Happy, Relaxed, Talkative, Sweet, Pine, Skunk
+ms, Relaxed, Euphoric, Tingly, Happy, Sleepy, Earthy, Sweet, Flowery
+Relaxed, Sleepy, Happy, Euphoric, Uplifted, Earthy, Woody, Flowery
+pain, Relaxed, Happy, Sleepy, Euphoric, Hungry, Earthy, Pungent, Skunk
+appetite, Relaxed, Sleepy, Happy, Focused, Euphoric, Mango, Sweet, Berry
+Happy, Tingly, Uplifted, Creative, Relaxed, Earthy, Pine, Flowery
+Energetic, Happy, Relaxed, Creative, Uplifted, Citrus, Earthy, Pine
+pain, Relaxed, Euphoric, Focused, Aroused, Sleepy, Sweet, Pine, Flowery
+Relaxed, Uplifted, Sleepy, Happy, Euphoric, Earthy, Sweet, Berry
+insomnia, nausea, ms, pain, Relaxed, Happy, Uplifted, Sleepy, Focused, Earthy, Spicy/Herbal, Grape
+Euphoric, Giggly, Happy, Relaxed, Grape
+pain, Happy, Uplifted, Focused, Energetic, Relaxed, Sweet, Citrus, Earthy
+Focused, Relaxed, Berry, Blueberry, Grape
+Relaxed, Happy, Euphoric, Creative, Sleepy, Berry, Sweet, Blueberry
+insomnia, anxiety, appetite, pain, Relaxed, Euphoric, Uplifted, Sleepy, Happy, Berry, Grape, Earthy
+Relaxed, Happy, Sleepy, Euphoric, Creative, Lavender, Sweet, Pine
+Euphoric, Relaxed, Happy, Focused, Sleepy, Lavender, Berry, Sweet
+Relaxed, Creative, Focused, Euphoric, Sleepy, Sweet, Berry, Grape
+Relaxed, Happy, Sleepy, Euphoric, Uplifted, Grape, Earthy, Sweet
+Uplifted, Focused, Euphoric, Happy, Creative, Sweet, Grape, Earthy
+pain, Euphoric, Happy, Relaxed, Sleepy, Hungry, Cheese, Sweet, Grape
+pain, Happy, Relaxed, Uplifted, Sleepy, Euphoric, Cheese, Grape, Earthy
+anxiety, ms, pain, Relaxed, Euphoric, Happy, Uplifted, Sleepy, Grape, Chemical, Earthy
+Relaxed, Happy, Talkative, Uplifted, Aroused, Sweet, Earthy, Berry
+Focused, Relaxed, Uplifted, Euphoric, Flowery, Sweet, Berry
+ms, Happy, Relaxed, Euphoric, Uplifted, Energetic, Earthy, Sweet, Pungent
+anxiety, Happy, Relaxed, Sleepy, Hungry, Giggly, Sweet, Pine, Earthy
+ms, pain, Relaxed, Uplifted, Happy, Energetic, Focused, Sweet, Berry, Diesel
+inflammation, anxiety, pain, Euphoric, Relaxed, Happy, Creative, Uplifted, Earthy, Berry, Grape
+pain, Relaxed, Uplifted, Giggly, Euphoric, Happy, Grape, Sweet, Earthy
+pain, Relaxed, Happy, Euphoric, Sleepy, Uplifted, Grape, Earthy, Tobacco
+Relaxed, Sleepy, Giggly, Happy, Euphoric, Grape, Earthy, Woody
+anxiety, ms, None, None
+Uplifted, Happy, Talkative, Creative, Energetic, Sweet, Berry, Earthy
+depression, pain, Relaxed, Euphoric, Happy, Talkative, Uplifted, Flowery, Sweet, Grape
+migraines, insomnia, ms, pain, Relaxed, Sleepy, Happy, Euphoric, Uplifted, Earthy, Grape, Sweet
+Euphoric, Relaxed, Sleepy, Hungry, Happy, Flowery, Earthy, Sweet
+Uplifted, Happy, Euphoric, Relaxed, Energetic, Sweet, Flowery, Earthy
+Happy, Relaxed, Uplifted, Creative, Focused, Woody, Grape, Berry
+pain, Relaxed, Sleepy, Happy, Euphoric, Uplifted, Berry, Earthy, Sweet
+Happy, Relaxed, Euphoric, Uplifted, Creative, Flowery, Earthy, Lavender
+Uplifted, Euphoric, Focused, Relaxed, Creative, Sweet, Citrus, Pine
+Focused, Relaxed, Euphoric, Happy, Uplifted, Grape, Flowery, Tropical
+pain, Relaxed, Sleepy, Happy, Euphoric, Hungry, Earthy, Sweet, Grape
+Relaxed, None
+Relaxed, Happy, Tingly, Euphoric, Uplifted, Sweet, Grape, Berry
+Happy, Energetic, Uplifted, Relaxed, Focused, Grape, Pine, Earthy
+pain, Happy, Relaxed, Euphoric, Sleepy, Giggly, Grape, Earthy, Sweet
+Relaxed, Sleepy, Euphoric, Happy, Uplifted, Pine, Earthy, Grape
+Relaxed, Happy, Euphoric, Tingly, Sleepy, Berry, Flowery, Spicy/Herbal
+ms, Sleepy, Relaxed, Happy, Euphoric, Hungry, Earthy, Sweet, Pungent
+Sleepy, Euphoric, Relaxed, nan
+Relaxed, Euphoric, Happy, Sleepy, Giggly, Grape, Earthy, Spicy/Herbal
+Sleepy, Relaxed, Euphoric, Happy, Hungry, Earthy, Lemon, Lavender
+anxiety, Relaxed, Sleepy, Happy, Creative, Euphoric, Earthy, Flowery, Spicy/Herbal
+Uplifted, Creative, Euphoric, Focused, Relaxed, Grape
+insomnia, pain, Focused, Happy, Euphoric, Relaxed, Sleepy, nan
+Relaxed, Happy, Uplifted, Energetic, Creative, Skunk, Pungent, Earthy
+Relaxed, Aroused, Euphoric, Uplifted, Happy, Sweet, Pungent, Earthy
+nausea, Relaxed, Sleepy, Happy, Euphoric, Uplifted, Berry, Sweet, Grape
+ms, Uplifted, Happy, Creative, Energetic, Euphoric, Pine
+insomnia, appetite, pain, Happy, Relaxed, Euphoric, Hungry, Tingly, Sweet, Berry, Skunk
+pain, Euphoric, Uplifted, Creative, Happy, Aroused, Sage, Sweet, Earthy
+Happy, Relaxed, Sleepy, Focused, Giggly, Earthy, Pungent, Skunk
+Happy, Euphoric, Tingly, Uplifted, Relaxed, Diesel, Earthy, Pungent
+Relaxed, Uplifted, Tingly, Sleepy, Euphoric, Berry, Spicy/Herbal, Grape
+migraines, Happy, Energetic, Sleepy, Giggly, Hungry, Berry, Sweet, Grape
+Happy, Euphoric, Energetic, Relaxed, Creative, Citrus, Orange, Tropical
+Sleepy, Tingly, Happy, Hungry, Relaxed, Diesel, Sweet, Berry
+Relaxed, Happy, Uplifted, Focused, Creative, Earthy, Citrus, Sweet
+ms, None, Nutty
+Happy, Uplifted, Energetic, Euphoric, Sleepy, Blueberry, Nutty, Tree, Fruit
+Relaxed, Happy, Uplifted, Euphoric, Giggly, Earthy, Grape, Sweet
+insomnia, pain, Relaxed, Sleepy, Happy, Euphoric, Uplifted, Grape, Sweet, Berry
+Euphoric, Focused, Relaxed, Giggly, Happy, Earthy, Sweet, Woody
+Relaxed, Euphoric, Hungry, Happy, Creative, Sweet, Earthy, Woody
+ms, Relaxed, Sleepy, Happy, Euphoric, Creative, Grape, Sweet, Berry
+Happy, Tingly, Uplifted, Giggly, Energetic, Tree, Fruit, Citrus, Orange
+Uplifted, Energetic, Happy, Euphoric, Creative, Citrus, Tropical, Chemical
+Relaxed, Creative, Giggly, Uplifted, Hungry, Lemon, Citrus, Earthy
+appetite loss, nausea, appetite, depression, Euphoric, Happy, Energetic, Creative, Uplifted, Earthy, Sweet, Pungent
+ms, depression, Relaxed, Talkative, Euphoric, Happy, Hungry, Pungent, Skunk, Citrus
+Talkative, Happy, Energetic, Tingly, Uplifted, Sweet, Lemon, Citrus
+ms, Relaxed, Happy, Sleepy, Euphoric, Uplifted, Sweet, Earthy, Grape
+insomnia, anxiety, pain, Sleepy, Tingly, Hungry, Creative, Euphoric, Cheese, Earthy, Skunk
+inflammation, pain, Relaxed, Happy, Focused, Hungry, Sleepy, Sweet, Blueberry, Pungent
+Relaxed, Sleepy, Uplifted, Happy, Euphoric, Flowery, Citrus, Pungent
+nausea, ms, pain, Uplifted, Happy, Relaxed, Creative, Focused, Earthy, Nutty, Spicy/Herbal
+hiv, anxiety, appetite, pain, Relaxed, Hungry, Focused, Euphoric, Tingly, Pungent, Diesel, Pine
+None, Peach
+pain, Euphoric, Relaxed, Happy, Talkative, Uplifted, Sweet, Citrus, Orange
+depression, pain, Relaxed, Talkative, Uplifted, Happy, Aroused, Diesel, Sweet, Grape
+anxiety, depression, pain, Happy, Uplifted, Energetic, Giggly, Grapefruit, Tropical, Flowery
+Happy, Relaxed, Sleepy, Creative, Euphoric, Berry, Pungent, Grape
+None, None
+Happy, Talkative, Euphoric, Uplifted, Giggly, Lemon, Earthy, Pungent
+Uplifted, Happy, Energetic, Creative, Talkative, Berry, Sweet, Earthy
+Relaxed, Euphoric, Happy, Hungry, Creative, Berry, Sweet, Flowery
+Relaxed, Sleepy, Uplifted, Hungry, Happy, Earthy, Diesel, Citrus
+ms, Relaxed, Sleepy, Uplifted, Focused, Tingly, Earthy, Diesel, Sweet
+Euphoric, Happy, Uplifted, Relaxed, Creative, Blueberry, Cheese, Vanilla
+Uplifted, Euphoric, Energetic, Focused, Happy, nan
+None, None
+Relaxed, Euphoric, Happy, Uplifted, Giggly, Flowery, Pungent, Citrus
+ms, Relaxed, Sleepy, Happy, Giggly, Talkative, Sweet, Spicy/Herbal, Berry
+ms, pain, Happy, Relaxed, Euphoric, Giggly, Focused, Berry, Sweet, Earthy
+cachexia, nausea, Energetic, Uplifted, Happy, Focused, Euphoric, Earthy, Spicy/Herbal, Sweet
+ms, Euphoric, Hungry, Energetic, Happy, Relaxed, Diesel, Citrus, Woody
+anxiety, depression, Happy, Uplifted, Euphoric, Tingly, Relaxed, Woody, Earthy, Tropical
+Sleepy, Euphoric, Happy, Relaxed, Hungry, Skunk, Flowery, Earthy
+Relaxed, Sleepy, Happy, Euphoric, Hungry, Earthy, Pungent, Pine
+Energetic, Euphoric, Relaxed, Focused, Creative, Earthy, Woody, Pine
+Happy, Energetic, Uplifted, Focused, Relaxed, Spicy/Herbal, Citrus, Sweet
+Uplifted, Euphoric, Happy, Relaxed, Talkative, Earthy, Citrus, Woody
+Euphoric, None
+Happy, Uplifted, Focused, Energetic, Giggly, Tropical, Skunk, Butter
+pain, Sleepy, Relaxed, Tingly, Hungry, nan
+appetite loss, appetite, depression, Talkative, Euphoric, Giggly, Happy, Hungry, nan
+Relaxed, Sleepy, Happy, Uplifted, Euphoric, Pine, Woody, Earthy
+autism, inflammation, anxiety, pain, Relaxed, Uplifted, Happy, Sleepy, Euphoric, Woody, Earthy, Citrus
+nausea, appetite, pain, Talkative, Uplifted, Creative, Euphoric, Giggly, Spicy/Herbal, Pepper, Pungent
+inflammation, ms, pain, Uplifted, Happy, Relaxed, Energetic, Creative, Earthy, Sweet, Pine
+headache, nausea, ms, pain, Happy, Hungry, Relaxed, Uplifted, Aroused, Flowery, Earthy, Rose
+pain, Happy, Euphoric, Relaxed, Hungry, Creative, Sweet, Lemon, Tropical
+Aroused, Talkative, Tingly, Uplifted, Creative, Flowery, Earthy, Pungent
+pain, None, None
+pain, None, None
+Relaxed, Uplifted, Happy, Focused, Energetic, Earthy, Pine, Citrus
+Euphoric, Relaxed, Uplifted, Happy, Hungry, Sage, Grape, Flowery
+Relaxed, Creative, Euphoric, Hungry, Happy, Sweet, Earthy, Citrus
+Sleepy, Relaxed, Happy, Hungry, Tingly, Sweet, Lemon, Spicy/Herbal
+Uplifted, Energetic, Euphoric, Relaxed, Talkative, Sweet, Blueberry, Honey
+ms, Euphoric, Happy, Relaxed, Sleepy, Uplifted, Skunk, Pungent, Flowery
+pain, Relaxed, Happy, Euphoric, Focused, Energetic, Earthy, Sweet, Pungent
+headache, pain, Relaxed, Happy, Sleepy, Uplifted, Talkative, Pungent, Earthy, Sweet
+appetite, pain, Relaxed, Happy, Uplifted, Hungry, Euphoric, Skunk, Pungent, Earthy
+Relaxed, Euphoric, Hungry, Happy, Sleepy, Sweet, Earthy, Pine
+Euphoric, Happy, Uplifted, Relaxed, Sleepy, Diesel, Earthy, Citrus
+Euphoric, Uplifted, Relaxed, Energetic, Talkative, Blueberry, Berry, Sweet
+Euphoric, Creative, Focused, Uplifted, Relaxed, Earthy, Skunk, Citrus
+Happy, Relaxed, Uplifted, Euphoric, Creative, Pungent, Pine, Chemical
+inflammation, ms, arthritis, pain, Relaxed, Happy, Uplifted, Energetic, Euphoric, Diesel, Earthy, Violet
+Happy, Hungry, Creative, Energetic, Euphoric, Tree, Fruit, Earthy, Pine
+ms, Relaxed, Happy, Sleepy, Uplifted, Euphoric, Earthy, Sweet, Pine
+Relaxed, Euphoric, Sleepy, Happy, Tingly, Grapefruit, Citrus, Sweet
+ms, Energetic, Focused, Relaxed, Euphoric, Happy, Pungent, Citrus, Sweet
+Relaxed, Uplifted, Energetic, Giggly, Creative, Sweet, Vanilla, Pungent
+ms, Euphoric, Uplifted, Relaxed, Creative, Energetic, Rose, Flowery, Sweet
+pain, Relaxed, Sleepy, Creative, Hungry, Uplifted, Diesel, Citrus, Strawberry
+pain, Happy, Relaxed, Hungry, Tingly, Aroused, Skunk, Honey, Lemon
+Uplifted, Happy, Relaxed, Talkative, Energetic, Citrus, Tropical, Skunk
+anxiety, ms, pain, Happy, Relaxed, Energetic, Uplifted, Focused, Flowery, Earthy, Cheese
+nausea, pain, Relaxed, Sleepy, Happy, Euphoric, Hungry, Woody, Earthy, Skunk
+Relaxed, Tropical, Sweet, Berry
+nausea, Relaxed, Focused, Uplifted, Happy, Hungry, Earthy, Pungent, Grapefruit
+hiv, Relaxed, Uplifted, Euphoric, Hungry, Happy, Pine, Earthy, Flowery
+Euphoric, Relaxed, Happy, Hungry, Sleepy, Citrus, Spicy/Herbal, Pungent
+Relaxed, Euphoric, Happy, Sleepy, Tingly, Diesel, Skunk, Ammonia
+appetite, pain, Happy, Relaxed, Euphoric, Giggly, Uplifted, Spicy/Herbal, Menthol, Diesel
+Happy, Euphoric, Relaxed, Uplifted, Energetic, Sage, Pungent, Diesel
+ms, Relaxed, Happy, Uplifted, Euphoric, Focused, Pine, Citrus, Diesel
+pain, Happy, Relaxed, Uplifted, Euphoric, Focused, Earthy, Pine, Pungent
+Relaxed, Happy, Euphoric, Uplifted, Sleepy, Pine, Earthy, Lemon
+Energetic, Happy, Uplifted, Euphoric, Relaxed, Sage, Earthy, Spicy/Herbal
+pain, Relaxed, Happy, Uplifted, Aroused, Sleepy, Pungent, Spicy/Herbal, Woody
+Relaxed, Happy, Uplifted, Euphoric, Sleepy, Earthy, Sweet, Woody
+Sleepy, Happy, Hungry, Relaxed, Aroused, Blueberry, Berry, Flowery
+Euphoric, Happy, Relaxed, Sleepy, Uplifted, Sweet, Berry, Blueberry
+Uplifted, Focused, Happy, Euphoric, Relaxed, Grapefruit, Lemon, Sweet
+Creative, Relaxed, Uplifted, Euphoric, Focused, Diesel, Coffee, Earthy
+Relaxed, Euphoric, Uplifted, Focused, Hungry, Earthy, Woody, Pungent
+Creative, Euphoric, Uplifted, Happy, Energetic, Mango, Earthy, Pine
+ms, Happy, Relaxed, Euphoric, Uplifted, Sleepy, Earthy, Sweet, Tree, Fruit
+Sleepy, Aroused, Talkative, Tingly, Uplifted, Citrus, Grapefruit, Earthy
+Aroused, Tingly, Uplifted, Euphoric, Focused, Sweet, Flowery, Earthy
+Happy, Uplifted, Creative, Euphoric, Aroused, Lemon, Citrus, Lime
+depression, Happy, Relaxed, Euphoric, Uplifted, Sleepy, Earthy, Pungent, Woody
+Relaxed, Euphoric, Sleepy, Happy, Tingly, Lemon, Pine, Woody
+insomnia, appetite, pain, Relaxed, Creative, Giggly, Talkative, Uplifted, Sweet, Tropical, Flowery
+ms, pain, Euphoric, Hungry, Relaxed, None
+Euphoric, Relaxed, Uplifted, Happy, Hungry, Sweet, Blueberry, Pungent
+nausea, ms, depression, Happy, Uplifted, Energetic, Relaxed, Creative, Pine, Citrus, Grapefruit
+None, None
+pain, Euphoric, Talkative, Uplifted, Creative, Energetic, Flowery, Lavender, Honey
+Relaxed, Happy, Uplifted, Giggly, Euphoric, Sweet, Earthy, Pine
+Relaxed, Happy, Hungry, Creative, Euphoric, Earthy, Skunk, Citrus
+Relaxed, Euphoric, Sleepy, Happy, Uplifted, Earthy, Pungent, Sweet
+ms, Uplifted, Relaxed, Energetic, Euphoric, Focused, Strawberry, Sweet, Pine
+Relaxed, Sleepy, Hungry, Aroused, Uplifted, Spicy/Herbal, Citrus, Lemon
+pain, Euphoric, Happy, Relaxed, Energetic, Talkative, Spicy/Herbal, Pepper, Sweet
+Uplifted, Happy, Aroused, Tingly, Creative, Pungent, Tropical, Flowery
+anxiety, depression, pain, Uplifted, Focused, Happy, Energetic, Euphoric, Sweet, Lemon, Flowery
+nausea, pain, Euphoric, Relaxed, Uplifted, Happy, Energetic, Earthy, Pungent, Lemon
+pain, Relaxed, Tingly, Happy, Focused, Hungry, Earthy, Pungent, Skunk
+hiv, Uplifted, Energetic, Euphoric, Relaxed, Aroused, Tropical, Pungent, Sweet
+Relaxed, Euphoric, Focused, Happy, Tingly, Earthy, Woody, Spicy/Herbal
+anxiety, depression, Relaxed, Happy, Euphoric, Focused, Uplifted, Pungent, Sweet, Earthy
+ms, pain, Relaxed, Happy, Sleepy, Euphoric, Tingly, Sweet, Tropical, Mango
+Talkative, Uplifted, Relaxed, Euphoric, Hungry, nan
+Happy, Euphoric, Relaxed, Creative, Energetic, Sweet, Pine, Earthy
+pain, Happy, Relaxed, Uplifted, Euphoric, Talkative, Berry, Blueberry, Sweet
+anxiety, nausea, Relaxed, Uplifted, Focused, Energetic, Euphoric, Sweet, Earthy, Berry
+hiv, Euphoric, Relaxed, Uplifted, Happy, Tingly, Skunk, Earthy, Pine
+Happy, Relaxed, Euphoric, Giggly, Hungry, Skunk, Spicy/Herbal, Sweet
+Relaxed, Sleepy, Euphoric, Earthy, Sweet, Pine
+Euphoric, Happy, Relaxed, Creative, Giggly, Citrus, Sweet, Diesel
+Euphoric, Aroused, Talkative, Uplifted, Happy, Citrus, Tropical, Earthy
+ms, Happy, Relaxed, Uplifted, Euphoric, Creative, Sweet, Woody, Berry
+headache, insomnia, Aroused, Energetic, Euphoric, Focused, Relaxed, Lemon, Tree, Fruit, Pine
+Aroused, Uplifted, Energetic, Euphoric, Happy, None
+Happy, Euphoric, Relaxed, Talkative, Uplifted, Earthy, Sweet, Pungent
+Happy, Relaxed, Giggly, Uplifted, Focused, Earthy, Chemical, Citrus
+Creative, Energetic, Focused, Happy, Aroused, None
+Creative, Uplifted, Happy, Energetic, Euphoric, Skunk, Pine, Mango
+anxiety, Happy, Euphoric, Tingly, Relaxed, Giggly, Citrus, Lime, Lemon
+Focused, Euphoric, Energetic, Relaxed, Aroused, Pine, Lemon, Spicy/Herbal
+insomnia, Relaxed, Sleepy, Euphoric, Happy, Tingly, Earthy, Pine, Sweet
+pain, Relaxed, Euphoric, Giggly, Happy, Hungry, Sweet, Spicy/Herbal, Strawberry
+anxiety, ms, Euphoric, Relaxed, Uplifted, Creative, Happy, Lime, Citrus, Flowery
+Relaxed, Euphoric, Uplifted, Giggly, Happy, Grape, Pine, Nutty
+appetite, Sleepy, Relaxed, Focused, Euphoric, Happy, Citrus, Earthy, Lemon
+Relaxed, Happy, Sleepy, Euphoric, Uplifted, Minty, Menthol, Woody
+Euphoric, Uplifted, Relaxed, Talkative, Happy, Menthol, Spicy/Herbal, Pepper
+Happy, Euphoric, Relaxed, Creative, Uplifted, Grape, Sweet, Pepper
+anxiety, appetite, pain, Creative, Euphoric, Happy, Uplifted, Focused, Sweet, Skunk, Citrus
+Euphoric, Happy, Relaxed, Sleepy, Uplifted, Lemon, Sweet, Strawberry
+pain, Relaxed, Sleepy, Happy, Uplifted, Hungry, Earthy, Skunk, Berry
+appetite, Happy, Uplifted, Relaxed, Focused, Creative, Skunk, Pungent, Earthy
+Relaxed, Happy, Focused, Giggly, Euphoric, Earthy, Woody, Skunk
+appetite loss, appetite, Euphoric, Creative, Relaxed, Happy, Hungry, Skunk, Earthy, Pungent
+pain, Relaxed, Happy, Euphoric, Uplifted, Creative, Skunk, Berry, Blueberry
+Happy, Uplifted, Energetic, Relaxed, Sleepy, Skunk, Diesel, Earthy
+None, None
+Focused, Happy, Relaxed, Uplifted, Euphoric, Pungent, Skunk, Spicy/Herbal
+ms, pain, Relaxed, Euphoric, Sleepy, Happy, Uplifted, Earthy, Sweet, Citrus
+Happy, Giggly, Relaxed, Euphoric, Hungry, Chemical, Sweet, Citrus
+pain, Relaxed, Euphoric, Happy, Uplifted, Sleepy, Earthy, Pungent, Sweet
+Uplifted, Energetic, Happy, Talkative, Creative, Woody, Earthy, Sweet
+Creative, Euphoric, Tingly, Uplifted, Energetic, Skunk, Pine, Pungent
+Happy, Relaxed, Uplifted, Euphoric, Creative, Diesel, Skunk, Lemon
+appetite, Relaxed, Happy, Uplifted, Talkative, Euphoric, Earthy, Pungent, Sweet
+depression, Uplifted, Happy, Creative, Euphoric, Focused, Citrus, Ammonia, Sweet
+ms, Talkative, Uplifted, Energetic, Happy, Flowery, Earthy, Pungent
+appetite, Euphoric, Relaxed, Happy, Sleepy, Hungry, Ammonia, Lemon, Earthy
+Relaxed, Happy, Euphoric, Uplifted, Giggly, Blueberry, Earthy, Sweet
+Uplifted, Happy, Relaxed, Euphoric, Sleepy, Earthy, Chemical, Skunk
+Focused, Energetic, Uplifted, Euphoric, Happy, Diesel, Woody, Sweet
+Relaxed, Euphoric, Sleepy, Happy, Uplifted, Earthy, Tea, Woody
+Euphoric, Happy, Uplifted, Focused, Giggly, Chemical, Woody, Diesel
+Relaxed, Happy, Euphoric, Hungry, Sleepy, Earthy, Sweet, Skunk
+Uplifted, Relaxed, Flowery
+Aroused, Sleepy, Uplifted, Relaxed, Minty, Pepper, Earthy
+Relaxed, Euphoric, Hungry, Happy, Talkative, Citrus, Earthy, Woody
+Relaxed, Sleepy, Talkative, Creative, Focused, Earthy, Lemon, Flowery
+Happy, Euphoric, Uplifted, Focused, Creative, Lemon, Citrus, Pungent
+appetite loss, ms, appetite, depression, Uplifted, Euphoric, Talkative, Relaxed, Hungry, Citrus, Spicy/Herbal, Sweet
+Relaxed, Hungry, Focused, Sleepy, Euphoric, Mango, Sweet, Flowery
+appetite, pain, Happy, Euphoric, Giggly, Uplifted, Energetic, Earthy, Citrus, Woody
+appetite, Euphoric, Uplifted, Happy, Focused, Talkative, Citrus, Tropical, Spicy/Herbal
+Tingly, Focused, Aroused, Uplifted, Energetic, Sweet, Tropical
+pain, Relaxed, Euphoric, Happy, Focused, Sleepy, Diesel, Lemon, Pungent
+anxiety, Euphoric, Happy, Creative, Hungry, Uplifted, nan
+insomnia, anxiety, Tingly, Uplifted, Euphoric, Focused, Happy, None
+Relaxed, Creative, Giggly, Happy, Uplifted, Diesel, Lemon, Pungent
+Happy, Uplifted, Euphoric, Relaxed, Energetic, Sweet, Diesel, Earthy
+Relaxed, Giggly, Hungry, Energetic, Happy, Skunk, Citrus, Diesel
+Relaxed, Happy, Euphoric, Uplifted, Sleepy, Apple, Sweet, Pungent
+ms, Relaxed, Happy, Euphoric, Uplifted, Focused, Sweet, Diesel, Tree, Fruit
+anxiety, Creative, Energetic, Focused, Happy, Uplifted, Diesel, Apricot, Pine
+Happy, Euphoric, Uplifted, Relaxed, Sleepy, Earthy, Diesel, Flowery
+insomnia, anxiety, nausea, ms, pain, Relaxed, Happy, Uplifted, Creative, Giggly, Sweet, Pungent, Earthy
+Happy, Creative, Focused, Uplifted, Energetic, Diesel, Earthy, Sweet
+Happy, Uplifted, Talkative, Relaxed, Creative, Cheese, Pungent, Lime
+pain, None, None
+Uplifted, Sleepy, Creative, Happy, Talkative, Diesel, Sweet, Earthy
+Relaxed, Creative, Uplifted, Euphoric, Hungry, Sweet, Lime, Earthy
+Relaxed, Happy, Talkative, Euphoric, Uplifted, Diesel, Sweet, Earthy
+Happy, Relaxed, Euphoric, Focused, Uplifted, Diesel, Earthy, Sweet
+depression, pain, Happy, Uplifted, Euphoric, Energetic, Relaxed, Diesel, Pungent, Earthy
+anxiety, Happy, Euphoric, Creative, Tingly, Uplifted, Diesel, Earthy, Blueberry
+Talkative, Happy, Relaxed, Creative, Uplifted, Diesel, Pungent, Flowery
+anxiety, pain, Energetic, Happy, Aroused, Uplifted, Focused, Berry, Earthy, Pine
+Relaxed, Happy, Uplifted, Hungry, Energetic, Grape, Sweet, Berry
+Uplifted, Euphoric, Happy, Creative, Relaxed, Citrus, Lemon, Pungent
+pain, Focused, Uplifted, Euphoric, Happy, Energetic, Diesel, Pungent, Skunk
+depression, Energetic, Creative, Happy, Uplifted, Euphoric, Citrus, Sweet, Tropical
+Happy, Euphoric, Energetic, Uplifted, Talkative, Berry, Sweet, Citrus
+Uplifted, Energetic, Creative, Happy, Focused, Earthy, Pungent, Tree, Fruit
+ms, pain, Relaxed, Happy, Uplifted, Energetic, Focused, Earthy, Pungent, Diesel
+Happy, Energetic, Uplifted, Focused, Euphoric, Citrus, Pungent, Earthy
+Talkative, Energetic, Happy, Relaxed, Focused, Lemon, Citrus, Earthy
+Uplifted, Energetic, Happy, Euphoric, Creative, Citrus, Nutty, Earthy
+Happy, Relaxed, Uplifted, Euphoric, Creative, Diesel, Pungent, Pine
+Uplifted, Happy, Relaxed, Creative, Talkative, Citrus, Earthy, Flowery
+Happy, Uplifted, Focused, Energetic, Euphoric, Sweet, Citrus, Berry
+Uplifted, Happy, Talkative, Giggly, Relaxed, Citrus, Earthy, Pine
+inflammation, anxiety, nausea, glaucoma, ms, ptsd, depression, Happy, Euphoric, Energetic, Talkative, Hungry, Diesel, Skunk, Pungent
+nausea, Aroused, Tingly, Energetic, Euphoric, Happy, Ammonia, Citrus, Coffee
+Uplifted, Happy, Talkative, Energetic, Euphoric, Citrus, Sweet, Spicy/Herbal
+Happy, Creative, Relaxed, Euphoric, Uplifted, Strawberry, Sweet, Diesel
+ms, Relaxed, Euphoric, Happy, Uplifted, Creative, Sweet, Diesel, Citrus
+Happy, Uplifted, Euphoric, Energetic, Focused, Citrus, Diesel, Orange
+inflammation, pain, Relaxed, Creative, Focused, Euphoric, Happy, Citrus, Diesel, Sweet
+Relaxed, Happy, Uplifted, Focused, Hungry, Earthy, Diesel, Flowery
+Tingly, Happy, Sleepy, Uplifted, Hungry, Pungent, Diesel, Sweet
+Happy, Focused, Relaxed, Uplifted, Creative, Sweet, Tropical, Pungent
+Hungry, Happy, Relaxed, Sleepy, Energetic, Earthy, Mango, Tropical
+Sleepy, Talkative, Uplifted, Euphoric, Giggly, Sweet
+None, None
+Uplifted, Euphoric, Focused, Hungry, Relaxed, Sweet, Berry, Blueberry
+None, nan
+Euphoric, Relaxed, Energetic, Hungry, Happy, Skunk, Mango, Sweet
+Aroused, Uplifted, Creative, Euphoric, Happy, Lemon
+Euphoric, Relaxed, Uplifted, Happy, Creative, Earthy, Flowery, Berry
+Uplifted, Relaxed, Happy, Focused, Euphoric, Earthy, Sweet, Pungent
+depression, pain, Relaxed, Uplifted, Euphoric, Happy, Energetic, Sweet, Citrus, Pine
+pain, Relaxed, Uplifted, Euphoric, Talkative, Giggly, Sweet, Earthy, Berry
+Creative, Focused, Energetic, Uplifted, Euphoric, nan
+insomnia, pain, Relaxed, Tingly, Sleepy, Uplifted, Creative, Ammonia, Diesel, Spicy/Herbal
+anxiety, depression, Uplifted, Euphoric, Happy, Hungry, Relaxed, Pungent, Pine, Flowery
+Euphoric, Uplifted, Relaxed, Happy, Focused, Earthy, Sweet, Flowery
+Happy, Uplifted, Euphoric, Relaxed, Creative, Sweet, Citrus, Earthy
+Relaxed, Euphoric, Hungry, Sleepy, Uplifted, Earthy, Sweet, Pungent
+appetite, Relaxed, Uplifted, Happy, Talkative, Euphoric, Pine, Woody, Flowery
+ms, depression, pain, Talkative, Creative, Energetic, Euphoric, Focused, Sweet, Berry, Strawberry
+Focused, Sleepy, Creative, Energetic, Euphoric, Flowery, Lavender, Rose
+insomnia, anxiety, pain, Happy, Relaxed, Energetic, Tingly, Euphoric, Sweet, Flowery, Tea
+headache, inflammation, nausea, ms, pain, Uplifted, Creative, Focused, Happy, Relaxed, Citrus, Earthy, Sweet
+Happy, Euphoric, Sleepy, Giggly, Relaxed, Earthy, Spicy/Herbal, Berry
+Relaxed, Uplifted, Happy, Euphoric, Energetic, Berry, Citrus, Sweet
+insomnia, aids, ptsd, pain, Relaxed, Sleepy, Happy, Euphoric, Uplifted, Earthy, Lemon, Pungent
+Relaxed, Uplifted, Focused, Happy, Sleepy, Skunk, Pine, Earthy
+pain, Relaxed, Focused, Uplifted, Happy, Euphoric, Citrus, Sweet, Lemon
+Relaxed, Sleepy, Happy, Euphoric, Uplifted, Grape, Pine, Menthol
+anxiety, Happy, Relaxed, Uplifted, Euphoric, Talkative, Diesel, Pungent, Earthy
+Sleepy, Euphoric, Happy, Relaxed, Diesel, Pepper, Earthy
+depression, pain, Relaxed, Happy, Uplifted, Energetic, Creative, Tropical, Sweet, Pungent
+Euphoric, Relaxed, Happy, Uplifted, Creative, Pine, Pungent, Woody
+Euphoric, Happy, Focused, Tingly, Energetic, Berry, Earthy, Pungent
+Energetic, Happy, Uplifted, Focused, Talkative, Sweet, Flowery, Berry
+nausea, pain, Relaxed, Happy, Euphoric, Focused, Tingly, Earthy, Woody, Berry
+migraines, nausea, pain, Happy, Hungry, Uplifted, Focused, Tingly, Earthy, Pine, Orange
+ms, Energetic, Euphoric, Happy, Talkative, Giggly, Sweet, Citrus, Spicy/Herbal
+anxiety, ms, Happy, Relaxed, Uplifted, Euphoric, Talkative, Strawberry, Sweet, Flowery
+nausea, pain, Relaxed, Strawberry
+Creative, Relaxed, Uplifted, Euphoric, Energetic, Strawberry, Sweet, Earthy
+Relaxed, Euphoric, Happy, Uplifted, Creative, Strawberry, Sweet, Berry
+Euphoric, Happy, Uplifted, Relaxed, Creative, Strawberry, Sweet, Earthy
+Relaxed, Happy, Uplifted, Energetic, Euphoric, Strawberry, Sweet, Berry
+ms, depression, pain, Relaxed, Happy, Euphoric, Uplifted, Giggly, Strawberry, Sweet, Cheese
+Happy, Uplifted, Euphoric, Energetic, Relaxed, Strawberry, Sweet, Berry
+insomnia, Happy, Relaxed, Uplifted, Euphoric, Creative, Diesel, Strawberry, Sweet
+Uplifted, Euphoric, Happy, Energetic, Creative, Strawberry, Sweet, Berry
+Uplifted, Creative, Focused, Talkative, Aroused, Strawberry, Earthy, Diesel
+appetite loss, insomnia, appetite, pain, Relaxed, Happy, Uplifted, Hungry, Euphoric, Strawberry, Sweet, Berry
+anxiety, ms, Happy, Aroused, Relaxed, Giggly, Hungry, Sweet, Strawberry, Earthy
+Focused, Energetic, Euphoric, Happy, Creative, Strawberry, Sweet, Berry
+Relaxed, Happy, Sleepy, Uplifted, Euphoric, Strawberry, Sweet, Pungent
+ms, Happy, Relaxed, Euphoric, Uplifted, Energetic, Strawberry, Lemon, Berry
+Happy, Euphoric, Uplifted, Focused, Energetic, Strawberry, Sweet, Mango
+Happy, Relaxed, Uplifted, Tingly, Euphoric, Sweet, Strawberry, Berry
+Happy, Relaxed, Euphoric, Hungry, Creative, Strawberry, Diesel, Spicy/Herbal
+anxiety, ptsd, Uplifted, Creative, Relaxed, Happy, Energetic, Strawberry, Berry, Pungent
+Uplifted, Happy, Focused, Euphoric, Talkative, Flowery, Pine, Earthy
+anxiety, nausea, pain, Relaxed, Euphoric, Happy, Sleepy, Uplifted, Rose, Sweet, Flowery
+nausea, pain, None, None
+Relaxed, Happy, Sleepy, Euphoric, Giggly, Sweet, Earthy, Tar
+Relaxed, Hungry, Sleepy, Happy, Euphoric, Sweet, Woody, Pine
+migraines, nausea, Euphoric, Relaxed, Happy, Focused, Uplifted, Sweet, Tropical, Blueberry
+None, None
+nausea, glaucoma, pain, Euphoric, Happy, Relaxed, Uplifted, Creative, Sweet, Plum, Tropical
+Hungry, Happy, Giggly, Aroused, Uplifted, Skunk, Sweet, Woody
+appetite, Relaxed, Happy, Uplifted, Energetic, Talkative, Earthy, Pine, Sweet
+anxiety, depression, pain, Talkative, Euphoric, Uplifted, Relaxed, Tingly, Violet, Sweet, Citrus
+Creative, Happy, Talkative, Giggly, Aroused, Tea, Earthy, Spicy/Herbal
+Focused, Hungry, Creative, Talkative, Uplifted, Citrus, Sweet, Pine
+ms, Hungry, Relaxed, Talkative, Uplifted, Focused, Earthy, Pine, Diesel
+Happy, Uplifted, Euphoric, Focused, Tingly, Citrus, Sweet, Earthy
+anxiety, Creative, Euphoric, Uplifted, Happy, Energetic, Citrus, Earthy, Sweet
+None, None
+Relaxed, Creative, Aroused, Sleepy, Uplifted, Sweet, Citrus, Flowery
+Relaxed, Happy, Euphoric, Uplifted, Creative, Sweet, Citrus, Earthy
+appetite loss, nausea, appetite, pain, Happy, Uplifted, Energetic, Creative, Focused, Citrus, Sweet, Tea
+Happy, Uplifted, Euphoric, Relaxed, Talkative, Spicy/Herbal, Citrus, Sweet
+inflammation, nausea, pain, Relaxed, Happy, Euphoric, Uplifted, Tingly, Pungent, Diesel, Flowery
+depression, Uplifted, Creative, Energetic, Focused, Happy, Spicy/Herbal, Sweet, Apricot
+Happy, Relaxed, Sleepy, Euphoric, Focused, Earthy, Pine, Minty
+headache, anxiety, Happy, Uplifted, Relaxed, Euphoric, Energetic, Sweet, Blueberry, Tea
+appetite loss, insomnia, appetite, pain, Relaxed, Giggly, Sleepy, Happy, Creative, Citrus, Mint, Flowery
+Euphoric, Happy, Uplifted, Tingly, Creative, Coffee, Lemon
+ms, Tingly, Euphoric, Relaxed, Happy, Sleepy, Cheese, Blue, Cheese, Earthy
+Creative, Tingly, Uplifted, Energetic, Happy, Earthy, Pungent, Pine
+depression, Happy, Giggly, Energetic, Focused, Euphoric, Earthy, Flowery, Pungent
+Happy, Energetic, Uplifted, Talkative, Focused, Sweet, Pungent, Skunk
+Relaxed, Happy, Euphoric, Giggly, Aroused, Earthy, Minty, Flowery
+Happy, Uplifted, Energetic, Euphoric, Focused, Lemon, Citrus, Sweet
+ms, Relaxed, Happy, Hungry, Euphoric, Creative, Lemon, Citrus, Earthy
+nausea, appetite, Happy, Uplifted, Energetic, Euphoric, Relaxed, Citrus, Earthy, Sweet
+depression, Happy, Uplifted, Creative, Euphoric, Giggly, Flowery, Sweet, Pungent
+pain, Relaxed, Sleepy, Euphoric, Happy, Hungry, Skunk, Earthy, Sweet
+Uplifted, Happy, Euphoric, Relaxed, Focused, Citrus, Flowery, Earthy
+pain, Uplifted, Happy, Euphoric, Creative, Energetic, Diesel, Sweet, Earthy
+Relaxed, Uplifted, Happy, Focused, Giggly, Citrus, Sweet, Lemon
+depression, Happy, Euphoric, Talkative, Sleepy, Uplifted, Citrus, Earthy, Diesel
+depression, Euphoric, Energetic, Happy, Uplifted, Relaxed, Pungent, Spicy/Herbal, Earthy
+Happy, Relaxed, Uplifted, Focused, Giggly, Sweet, Honey, Berry
+insomnia, Happy, Relaxed, Sleepy, Euphoric, Giggly, Earthy, Woody, Spicy/Herbal
+Relaxed, Happy, Euphoric, Uplifted, Giggly, Earthy, Woody, Pine
+insomnia, ms, pain, Relaxed, Sleepy, Euphoric, Happy, Hungry, Earthy, Pine, Pungent
+Relaxed, Happy, Euphoric, Tingly, Uplifted, Pungent, Pine, Diesel
+Euphoric, Relaxed, Happy, Creative, Energetic, Earthy, Citrus, Flowery
+ms, Happy, Uplifted, Relaxed, Euphoric, Creative, Sweet, Pungent, Flowery
+ms, Relaxed, Focused, Euphoric, Uplifted, Happy, Citrus, Blueberry, Strawberry
+anxiety, nausea, ms, arthritis, pain, Relaxed, Focused, Uplifted, Talkative, Happy, Pine, Earthy, Spicy/Herbal
+Hungry, Relaxed, Focused, Creative, Giggly, Woody, Citrus, Earthy
+appetite loss, insomnia, anxiety, nausea, appetite, pain, Relaxed, Tingly, Giggly, Happy, Hungry, Citrus, Sweet, Pungent
+ms, Relaxed, Happy, Creative, Uplifted, Euphoric, Berry, Sweet, Sage
+insomnia, anxiety, ms, pain, Relaxed, Sleepy, Happy, Euphoric, Tingly, Sweet, Pine, Berry
+Relaxed, Happy, Euphoric, Creative, Focused, Cheese, Sweet, Pungent
+Relaxed, Sleepy, Euphoric, Hungry, Happy, Grapefruit, Citrus, Sweet
+Happy, Euphoric, Relaxed, Giggly, Energetic, Woody, Sweet, Diesel
+depression, pain, Euphoric, Creative, Giggly, Happy, Relaxed, Berry, Earthy, Pungent
+ms, pain, Sleepy, Relaxed, Hungry, Uplifted, Happy, Earthy, Skunk, Pungent
+depression, Aroused, Talkative, Uplifted, Creative, Euphoric, Pear, Diesel, Sweet
+ms, None, None
+Happy, Focused, Aroused, Sleepy, Tingly, Rose, Sweet, Citrus
+pain, Hungry, Happy, Relaxed, Euphoric, Sleepy, Citrus, Sweet, Flowery
+Relaxed, Happy, Euphoric, Uplifted, Aroused, Citrus, Earthy, Pine
+nausea, Happy, Relaxed, Euphoric, Focused, Uplifted, Diesel, Skunk, Tobacco
+Euphoric, Creative, Happy, Focused, Relaxed, Sweet, Berry, Citrus
+Energetic, Euphoric, Creative, Happy, Aroused, Citrus, Spicy/Herbal, Minty
+headache, Relaxed, Happy, Euphoric, Uplifted, Sleepy, Sweet, Flowery, Berry
+Relaxed, Uplifted, Happy, Focused, Sleepy, Earthy, Sweet, Woody
+Euphoric, Happy, Talkative, Creative, Giggly, Sweet, Citrus, Earthy
+appetite, pain, Relaxed, Happy, Focused, Uplifted, Hungry, Diesel, Citrus, Berry
+Energetic, Creative, Relaxed, Happy, Uplifted, Pungent, Ammonia, Berry
+None, nan
+inflammation, anxiety, nausea, Relaxed, Uplifted, Focused, Happy, Sleepy, Earthy, Citrus, Orange
+Relaxed, Happy, Giggly, Uplifted, Hungry, Earthy, Pungent, Sweet
+Focused, Uplifted, Creative, Talkative, Energetic, Woody, Earthy, Pungent
+insomnia, nausea, pain, Relaxed, Happy, Hungry, Creative, Euphoric, Pine, Diesel, Skunk
+Aroused, Talkative, Euphoric, Happy, Relaxed, None
+Energetic, Happy, Talkative, Tingly, Uplifted, Sweet, Citrus, Lime
+nausea, pain, Euphoric, Relaxed, Tingly, Happy, Sleepy, Pungent, Earthy, Pine
+insomnia, appetite, pain, Relaxed, Sleepy, Happy, Euphoric, Hungry, Earthy, Pine, Citrus
+Sleepy, Creative, Hungry, Relaxed, Citrus, Earthy, Woody
+Hungry, Aroused, Sleepy, Giggly, Happy, Diesel, Skunk, Pine
+Euphoric, Happy, Uplifted, Energetic, Focused, Citrus, Sweet, Earthy
+anxiety, appetite, depression, Relaxed, Sleepy, Giggly, Talkative, Uplifted, Peach, Lemon, Citrus
+depression, None, None
+Happy, Uplifted, Energetic, Relaxed, Creative, Citrus, Orange, Sweet
+pain, Happy, Relaxed, Euphoric, Uplifted, Energetic, Citrus, Orange, Sweet
+Talkative, Uplifted, Energetic, Euphoric, Happy, Citrus, Orange, Sweet
+Relaxed, Sleepy, Happy, Euphoric, Hungry, Citrus, Orange, Tropical
+Euphoric, Energetic, Uplifted, Hungry, Happy, Citrus, Orange, Pungent
+Happy, Relaxed, Tingly, Sleepy, Uplifted, Citrus, Orange, Sweet
+Tingly, Relaxed, Aroused, Happy, Creative, Citrus, Woody, Sage
+Euphoric, Aroused, Uplifted, Creative, Energetic, Sweet, Citrus, Orange
+ms, Happy, Uplifted, Energetic, Euphoric, Relaxed, Citrus, Orange, Sweet
+ms, Tingly, Creative, Focused, Uplifted, Happy, Citrus, Sweet, Orange
+Uplifted, Happy, Energetic, Euphoric, Focused, Citrus, Orange, Pungent
+depression, Tingly, Uplifted, Euphoric, Happy, Relaxed, nan
+ms, Talkative, Uplifted, Creative, Energetic, Giggly, Citrus, Orange, Pine
+Happy, Uplifted, Energetic, Talkative, Creative, Citrus, Orange, Tropical
+Energetic, Focused, Uplifted, Euphoric, Happy, Mango, Sweet, Citrus
+Talkative, Creative, Euphoric, Focused, Aroused, Sweet, Diesel, Spicy/Herbal
+Happy, Euphoric, Creative, Relaxed, Focused, Sweet, Berry, Earthy
+Relaxed, Happy, Sleepy, Creative, Euphoric, Sweet, Pine, Rose
+ms, Uplifted, Relaxed, Happy, Euphoric, Giggly, Tropical, Pepper, Sweet
+Tingly, Uplifted, Relaxed, Creative, Energetic, Pepper, Sweet, Berry
+Happy, Relaxed, Focused, Uplifted, Energetic, Earthy, Flowery, Sweet
+Euphoric, Relaxed, Energetic, Focused, Tingly, Tropical, Sweet, Citrus
+Creative, Energetic, Happy, Aroused, Euphoric, Pine, Pepper, Sweet
+headache, depression, Uplifted, Happy, Euphoric, Relaxed, Energetic, Earthy, Spicy/Herbal, Pine
+Energetic, Uplifted, Happy, Focused, Euphoric, Sweet, Earthy, Woody
+pain, Uplifted, Euphoric, Creative, Energetic, Focused, nan
+Uplifted, Hungry, Relaxed, Lemon, Earthy
+pain, Relaxed, Happy, Sleepy, Uplifted, Euphoric, Earthy, Sweet, Woody
+Uplifted, Creative, Energetic, Focused, Happy, Lavender, Earthy, Pungent
+ms, Uplifted, Aroused, Creative, Energetic, Euphoric, Earthy, Pungent, Tropical
+Happy, Uplifted, Euphoric, Relaxed, Hungry, Earthy, Coffee, Sweet
+Uplifted, Euphoric, Energetic, Focused, Giggly, Pungent, Pine, Citrus
+appetite loss, insomnia, nausea, ms, appetite, pain, Euphoric, Happy, Sleepy, Aroused, Energetic, Citrus, Sweet, Grapefruit
+Euphoric, Relaxed, Happy, Sleepy, Energetic, Berry, Flowery, Diesel
+None, nan
+ms, Uplifted, Relaxed, Sweet, Earthy
+pain, Euphoric, Happy, Uplifted, Relaxed, Tingly, Grape, Skunk, Sweet
+ms, pain, Giggly, Sleepy, Relaxed, Euphoric, Happy, Woody, Sweet, Earthy
+ms, Euphoric, Giggly, Happy, Relaxed, Sleepy, None
+Relaxed, Hungry, Euphoric, Happy, Uplifted, Coffee, Berry, Sweet
+Happy, Giggly, Euphoric, Relaxed, Tingly, Pungent, Pine, Diesel
+anxiety, appetite, Tingly, Uplifted, Creative, Euphoric, Focused, Spicy/Herbal, Sweet, Apple
+Happy, Uplifted, Relaxed, Euphoric, Creative, Earthy, Sweet, Citrus
+Sleepy, Uplifted, Relaxed, Earthy, Woody
+appetite, Relaxed, Uplifted, Creative, Euphoric, Focused, Sweet, Diesel, Citrus
+Uplifted, Happy, Energetic, Euphoric, Creative, Citrus, Earthy, Chemical
+pain, Relaxed, Uplifted, Euphoric, Happy, Sleepy, Earthy, Woody, Berry
+Happy, Uplifted, Relaxed, Euphoric, Sleepy, Sweet, Grape, Flowery
+Relaxed, Euphoric, Happy, Creative, Uplifted, Earthy, Pine, Pungent
+insomnia, pain, Aroused, Relaxed, Diesel, Pungent, Pine
+migraines, nausea, pain, Relaxed, Uplifted, Happy, Tingly, Euphoric, Lemon, Sweet, Tree, Fruit
+Talkative, Tingly, Uplifted, Creative, Euphoric, Pungent, Woody, Pine
+depression, Euphoric, Happy, Relaxed, Uplifted, Energetic, Skunk, Citrus, Spicy/Herbal
+appetite loss, insomnia, nausea, ms, appetite, pain, Relaxed, Euphoric, Happy, Uplifted, Hungry, Minty, Mint, Sweet
+Happy, Energetic, Creative, Focused, Uplifted, Flowery, Sweet, Lemon
+ms, depression, Euphoric, Creative, Energetic, Happy, Aroused, Sweet, Pungent, Menthol
+Hungry, Relaxed, Sleepy, Happy, Earthy, Woody
+ms, Euphoric, Uplifted, Relaxed, Focused, Happy, Rose, Sweet, Earthy
+inflammation, nausea, Relaxed, Uplifted, Creative, Focused, Talkative, Sweet, Earthy, Tropical
+Happy, Uplifted, Creative, Euphoric, Sleepy, Berry, Apple, Spicy/Herbal
+Relaxed, Giggly, Hungry, Creative, Energetic, Sweet, Flowery, Pungent
+pain, Relaxed, Euphoric, Happy, Sleepy, Uplifted, Earthy, Pungent, Flowery
+Happy, Creative, Relaxed, Spicy/Herbal, Citrus, Chestnut
+anxiety, depression, Happy, Relaxed, Focused, Euphoric, Energetic, Strawberry, Sweet, Berry
+ms, Euphoric, Happy, Uplifted, Talkative, Giggly, Citrus, Pepper, Grapefruit
+Happy, Euphoric, Relaxed, Sleepy, Creative, Earthy, Pine, Lemon
+Happy, Tingly, Energetic, Euphoric, Talkative, Spicy/Herbal, Pungent, Skunk
+anxiety, pain, Euphoric, Relaxed, Happy, Uplifted, Sleepy, Pine, Lemon, Sweet
+Energetic, Relaxed, Uplifted, Creative, Focused, Earthy, Spicy/Herbal, Tropical
+None, None
+insomnia, pain, Happy, Relaxed, Sleepy, Euphoric, Creative, Pine, Earthy, Berry
+pain, Sleepy, Focused, Happy, Relaxed, Energetic, Flowery, Earthy
+ms, Happy, Hungry, Relaxed, Energetic, Uplifted, Pine, Berry, Citrus
+Relaxed, Euphoric, Tingly, Happy, Sleepy, Citrus, Lime, Chemical
+migraines, anxiety, ptsd, arthritis, pain, Happy, Euphoric, Relaxed, Uplifted, Creative, Earthy, Pine, Lemon
+Relaxed, Sleepy, Euphoric, Happy, Hungry, Sweet, Berry, Earthy
+pain, Sleepy, Tingly, Uplifted, Creative, Energetic, nan
+nausea, ms, pain, Relaxed, Happy, Uplifted, Euphoric, Focused, Pungent, Skunk, Diesel
+Relaxed, Focused, Aroused, Uplifted, Energetic, Lime, Lemon, Earthy
+inflammation, nausea, Focused, Relaxed, Uplifted, Energetic, Happy, Pepper, Spicy/Herbal, Flowery
+Happy, Creative, Relaxed, Uplifted, Euphoric, Earthy, Spicy/Herbal, Woody
+Relaxed, Sleepy, Happy, Uplifted, Energetic, Citrus, Pungent, Diesel
+Relaxed, Sleepy, Euphoric, Happy, Creative, Earthy, Pine, Sweet
+ms, pain, Relaxed, Happy, Uplifted, Focused, Tingly, Citrus, Sweet, Pungent
+Tingly, Sleepy, Hungry, Happy, Uplifted, Skunk
+Happy, Uplifted, Euphoric, Relaxed, Aroused, Earthy, Pungent, Skunk
+Relaxed, Sleepy, Happy, Euphoric, Tingly, Earthy, Pungent, Cheese
+Relaxed, Focused, Sleepy, Euphoric, Happy, Diesel, Sweet, Earthy
+ms, Uplifted, Energetic, Focused, Relaxed, Tingly, Lime, Grapefruit, Tropical
+inflammation, ms, depression, Happy, Uplifted, Energetic, Creative, Relaxed, Tropical, Sweet, Pineapple
+Happy, Focused, Relaxed, Euphoric, Creative, Citrus, Apricot, Skunk
+pain, Euphoric, Uplifted, Relaxed, Energetic, Happy, Tropical, Orange, Sweet
+Relaxed, Euphoric, Happy, Sleepy, Creative, Earthy, Pine, Pungent
+ms, Uplifted, Focused, Sleepy, Relaxed, Tingly, Earthy, Woody, Pine
+insomnia, Aroused, Sleepy, Euphoric, Giggly, Happy, Sweet, Vanilla, Chestnut
+Talkative, Energetic, Happy, Sleepy, Uplifted, Spicy/Herbal, Pepper, Citrus
+Relaxed, Sleepy, Happy, Euphoric, Uplifted, Skunk, Earthy, Pungent
+None, None
+Happy, Hungry, Uplifted, Euphoric, Focused, Spicy/Herbal, Flowery, Earthy
+Happy, Focused, Uplifted, Energetic, Euphoric, Pungent, Skunk, Flowery
+Happy, Euphoric, Uplifted, Energetic, Relaxed, Berry, Sweet, Tropical
+Creative, Energetic, Happy, Talkative, Focused, Sweet, Citrus, Lime
+Energetic, Uplifted, Relaxed, Creative, Happy, Citrus, Orange, Earthy
+appetite loss, insomnia, appetite, pain, Relaxed, Sleepy, Uplifted, Hungry, Happy, Earthy, Pungent, Sweet
+insomnia, pain, Relaxed, Happy, Uplifted, Hungry, Giggly, Sweet, Woody, Flowery
+pain, Happy, Relaxed, Uplifted, Euphoric, Energetic, Cheese, Pungent, Berry
+insomnia, pain, Relaxed, Sleepy, Hungry, Happy, Uplifted, Tree, Fruit, Sweet, Grape
+Euphoric, Energetic, Aroused, Focused, Happy, Tropical, Sweet, Spicy/Herbal
+anxiety, pain, Sleepy, Tingly, Giggly, Hungry, Relaxed, Ammonia, Lemon, Pineapple
+ms, Relaxed, Giggly, Euphoric, Focused, Tingly, Pungent, Tree, Fruit, Sweet
+ms, Uplifted, Creative, Energetic, Euphoric, Focused, Diesel, Skunk, Lime
+hiv, Relaxed, Happy, Uplifted, Euphoric, Sleepy, Flowery, Berry, Earthy
+Happy, Euphoric, Uplifted, Talkative, Relaxed, Grape, Sweet, Pine
+Relaxed, Happy, Euphoric, Focused, Uplifted, Earthy, Berry, Citrus
+depression, Uplifted, Happy, Giggly, Energetic, Relaxed, Pungent, Sage, Woody
+pain, Sleepy, Relaxed, Happy, Euphoric, Hungry, Earthy, Flowery, Sweet
+inflammation, cancer, epilepsy, Relaxed, Creative, Tingly, Euphoric, Focused, Citrus, Earthy, Pungent
+ms, Euphoric, Relaxed, Sleepy, Hungry, Happy, Sweet, Berry, Tropical
+hiv, Happy, Relaxed, Euphoric, Energetic, Uplifted, Pine, Flowery, Earthy
+ms, Relaxed, Happy, Sleepy, Euphoric, Hungry, Vanilla, Sweet, Flowery
+Sleepy, Happy, Relaxed, nan
+anxiety, depression, Uplifted, Energetic, Euphoric, Talkative, Aroused, Sweet, Citrus, Spicy/Herbal
+Happy, Relaxed, Euphoric, Sleepy, Tingly, None
+Uplifted, Happy, Energetic, Creative, Focused, Citrus, Pine, Pungent
+anxiety, arthritis, pain, Relaxed, Euphoric, Sleepy, Happy, Uplifted, Earthy, Pungent, Pine
+Focused, Tingly, Happy, Uplifted, Creative, Citrus, Lemon, Berry
+pain, Happy, Euphoric, Creative, Relaxed, Hungry, Woody, Earthy, Sweet
+depression, pain, Happy, Relaxed, Euphoric, Uplifted, Energetic, Pungent, Berry, Diesel
+Happy, Uplifted, Euphoric, Hungry, Relaxed, Berry, Pungent, Sweet
+Euphoric, Hungry, Relaxed, Uplifted, Happy, None
+Relaxed, Sleepy, Happy, Euphoric, Uplifted, Earthy, Spicy/Herbal, Woody
+Happy, Relaxed, Uplifted, Focused, Sleepy, Violet, Spicy/Herbal, Lavender
+None, nan
+Energetic, Talkative, Happy, Giggly, Uplifted, Citrus, Pungent, Spicy/Herbal
+depression, Happy, Relaxed, Uplifted, Euphoric, Tingly, Earthy, Pungent, Sweet
+Uplifted, Happy, Euphoric, Talkative, Energetic, Earthy, Lemon, Woody
+migraines, depression, pain, Relaxed, Happy, Euphoric, Tingly, Hungry, Earthy, Berry, Pungent
+Relaxed, Euphoric, Hungry, Happy, Talkative, Pine, Earthy, Berry
+anxiety, ms, pain, Happy, Energetic, Focused, Relaxed, Creative, Skunk, Blueberry, Earthy
+Energetic, Focused, Uplifted, Creative, Relaxed, Sweet, Tropical, Honey
+anxiety, Creative, Tingly, Euphoric, Hungry, Uplifted, Spicy/Herbal, Earthy, Pungent
+ptsd, depression, Relaxed, Uplifted, Happy, Focused, Euphoric, Woody, Spicy/Herbal, Flowery
+Relaxed, Happy, Sleepy, Creative, Focused, Flowery, Earthy, Butter
+migraines, Happy, Giggly, Uplifted, Creative, Hungry, nan
+Happy, Relaxed, Energetic, Uplifted, Euphoric, Earthy, Pungent, Lemon
+Happy, Giggly, Relaxed, Hungry, Uplifted, Sweet, Flowery, Citrus
+inflammation, pain, Relaxed, Hungry, Happy, Euphoric, Uplifted, Earthy, Sweet, Flowery
+Creative, Relaxed, Sleepy, Talkative, Tingly, Earthy, Pungent, Cheese
+appetite, Relaxed, Happy, Hungry, Sleepy, Euphoric, Sweet, Berry, Tropical
+appetite, Relaxed, Uplifted, Happy, Sleepy, Talkative, Citrus, Spicy/Herbal, Sweet
+ms, Relaxed, Happy, Euphoric, Uplifted, Focused, Sweet, Vanilla, Earthy
+appetite, pain, Relaxed, Happy, Euphoric, Uplifted, Creative, Pungent, Diesel, Pine
+pain, None, nan
+appetite, pain, Relaxed, Happy, Euphoric, Uplifted, Creative, Sweet, Woody, Nutty
+pain, Relaxed, Happy, Creative, Hungry, Sleepy, Woody, Lemon, Spicy/Herbal
+anxiety, Uplifted, Energetic, Happy, Euphoric, Creative, Earthy, Spicy/Herbal, Woody
+Relaxed, Sleepy, Happy, Uplifted, Euphoric, Sweet, Apple, Pear
+depression, Energetic, Uplifted, Euphoric, Happy, Relaxed, Sweet, Pine, Citrus
+headache, nausea, pain, Relaxed, Euphoric, Sleepy, Focused, Happy, Sweet, Blueberry, Diesel
+Relaxed, Happy, Uplifted, Sleepy, Euphoric, Berry, Earthy, Sweet
+Giggly, Aroused, Sleepy, Talkative, Tingly, Sweet, Earthy, Flowery
+Happy, Uplifted, Euphoric, Energetic, Relaxed, Sweet, Berry, Earthy
+nausea, Euphoric, Relaxed, Aroused, Sleepy, Talkative, Sweet, Berry, Grape
+anxiety, Relaxed, Creative, Talkative, Happy, Euphoric, Cheese, Pungent, Flowery
+None, None
+appetite, pain, Relaxed, Happy, Euphoric, Focused, Uplifted, Earthy, Sweet, Pungent
+Relaxed, Uplifted, Happy, Giggly, Hungry, Earthy, Woody, Spicy/Herbal
+migraines, anxiety, depression, Relaxed, Euphoric, Uplifted, Creative, Happy, Diesel, Pungent, Citrus
+ms, pain, Relaxed, Happy, Hungry, Euphoric, Uplifted, Earthy, Woody, Sweet
+Relaxed, Energetic, Uplifted, Happy, Euphoric, Earthy, Sweet, Citrus
+Energetic, Aroused, Tingly, Uplifted, Talkative, Earthy, Woody, Pine
+ms, depression, Relaxed, Happy, Uplifted, Euphoric, Sleepy, Sweet, Earthy, Pungent
+nausea, Energetic, Euphoric, Happy, Relaxed, Sleepy, Sweet, Citrus, Earthy
+ms, pain, Relaxed, Sleepy, Happy, Euphoric, Hungry, Pungent, Sweet, Earthy
+anxiety, pain, Relaxed, Uplifted, Happy, Tingly, Euphoric, Lemon, Earthy, Citrus
+appetite loss, anxiety, glaucoma, appetite, cancer, depression, pain, Happy, Uplifted, Relaxed, Energetic, Euphoric, Sweet, Earthy, Pungent
+appetite, Talkative, Uplifted, Hungry, Relaxed, Euphoric, Berry, Citrus, Tropical
+Relaxed, Happy, Euphoric, Talkative, Uplifted, Earthy, Pungent, Tropical
+Relaxed, Happy, Euphoric, Uplifted, Hungry, Tar, Sweet, Pungent
+Creative, Energetic, Happy, Uplifted, Euphoric, Lemon, Pine, Citrus
+Creative, Relaxed, Happy, Sleepy, Energetic, Earthy, Pungent, Sweet
+Relaxed, Happy, Euphoric, Uplifted, Giggly, Berry, Pungent, Sweet
+Relaxed, Sleepy, Euphoric, Talkative, Happy, Nutty, Honey, Vanilla
+Talkative, Uplifted, Creative, Energetic, Euphoric, Diesel, Sweet, Tree, Fruit
+Happy, Giggly, Relaxed, Energetic, Uplifted, Lavender, Flowery, Earthy
+insomnia, anxiety, nausea, anorexia, ms, multiple sclerosis, pain, Happy, Giggly, Uplifted, Euphoric, Relaxed, Sweet, Skunk, Pungent
+insomnia, depression, Relaxed, Euphoric, Focused, Happy, Sleepy, Earthy, Citrus, Sweet
+Uplifted, Euphoric, Happy, Focused, Sleepy, Earthy, Sweet, Berry
+Relaxed, Focused, Euphoric, Sleepy, Happy, Earthy, Pine, Flowery
+Happy, Relaxed, Euphoric, Uplifted, Energetic, Earthy, Sweet, Diesel
+Relaxed, Happy, Euphoric, Uplifted, Sleepy, Earthy, Sweet, Skunk
+appetite, Relaxed, Euphoric, Happy, Uplifted, Creative, Pungent, Skunk, Diesel
+Relaxed, Happy, Euphoric, Talkative, Focused, Sweet, Skunk, Citrus
+anxiety, None, None
+anxiety, depression, Relaxed, Euphoric, Happy, Uplifted, Hungry, Sweet, Lemon, Citrus
+ptsd, arthritis, pain, Uplifted, Focused, Energetic, Creative, Happy, Earthy, Sweet, Flowery
+Relaxed, Happy, Tingly, Euphoric, Uplifted, Pungent, Skunk, Sweet
+Uplifted, Happy, Talkative, Relaxed, Creative, Flowery, Spicy/Herbal, Sweet
+Talkative, Uplifted, Focused, Giggly, Happy, Minty, Menthol, Violet
+depression, Happy, Citrus, Sweet
+hiv, anxiety, pain, Aroused, Sleepy, Uplifted, Creative, Euphoric, Spicy/Herbal, Citrus, Tree, Fruit
+insomnia, anxiety, ms, pain, Sleepy, Relaxed, Happy, Focused, Uplifted, Citrus, Earthy, Flowery
+ms, Relaxed, Happy, Tingly, Euphoric, Uplifted, Sweet, Flowery, Earthy
+cachexia, anorexia, appetite, Happy, Energetic, Uplifted, Euphoric, Creative, Earthy, Sage, Citrus
+Talkative, Uplifted, Creative, Energetic, Euphoric, nan
+Happy, Relaxed, Euphoric, Uplifted, Energetic, Earthy, Woody, Pungent
+anxiety, depression, Happy, Creative, Relaxed, Euphoric, Uplifted, Pungent, Sage, Earthy
+Happy, Focused, Euphoric, Uplifted, Creative, Sweet, Citrus, Orange
+ms, Relaxed, Sleepy, Happy, Euphoric, Uplifted, Earthy, Sweet, Flowery
+anxiety, Euphoric, Happy, Hungry, Talkative, Energetic, Citrus, Berry, Spicy/Herbal
+Uplifted, Happy, Focused, Creative, Energetic, Earthy, Pungent, Woody
+Euphoric, Relaxed, Focused, Hungry, Talkative, Sweet, Tree, Fruit, Apricot
+Relaxed, Happy, Sleepy, Uplifted, Tingly, Earthy, Pungent, Pine
+ms, Happy, Euphoric, Creative, Energetic, Focused, Honey, Earthy, Pungent
+appetite, pain, Euphoric, Happy, Relaxed, Tingly, Uplifted, Sweet, Citrus, Minty
+Happy, Euphoric, Relaxed, Uplifted, Creative, Sweet, Tropical, Flowery
+Relaxed, Tingly, Euphoric, Aroused, Happy, Flowery, Menthol, Citrus
+Creative, Hungry, Happy, Euphoric, Focused, Grape, Strawberry, Sweet
+insomnia, ms, pain, Relaxed, Happy, Euphoric, Sleepy, Hungry, Earthy, Pine, Sweet
+ms, Talkative, Euphoric, Relaxed, Berry, Earthy, Skunk
+ms, Happy, Relaxed, Euphoric, Uplifted, Focused, Menthol, Earthy, Pungent
+Uplifted, Relaxed, Focused, Energetic, Talkative, Earthy, Nutty, Sage
+Tingly, Euphoric, Relaxed, None
+Relaxed, Euphoric, Uplifted, Happy, Aroused, Earthy, Citrus, Lavender
+pain, Relaxed, Sleepy, Focused, Creative, Happy, Earthy, Pungent, Flowery
+Sleepy, Uplifted, Euphoric, Happy, Hungry, Pungent, Skunk, Blue, Cheese
+ms, Happy, Euphoric, Relaxed, Uplifted, Creative, Citrus, Sweet, Pine
+Relaxed, Focused, Tingly, Talkative, Happy, Sweet, Berry, Grapefruit
+nausea, pain, Relaxed, Sleepy, Euphoric, Happy, Uplifted, Pine, Woody, Earthy
+Focused, Happy, Energetic, Talkative, Uplifted, Spicy/Herbal, Pepper, Sweet
+appetite loss, inflammation, glaucoma, appetite, pain, Happy, Energetic, Uplifted, Focused, Euphoric, Earthy, Woody, Flowery
+ms, pain, Relaxed, Euphoric, Sleepy, Happy, Hungry, Earthy, Pungent, Diesel
+insomnia, anxiety, appetite, Relaxed, Uplifted, Sleepy, Happy, Euphoric, Earthy, Skunk, Woody
+Sleepy, Happy, Aroused, Relaxed, Hungry, Pine, Sage, Flowery
+Uplifted, Euphoric, Tingly, Creative, Happy, Diesel, Citrus, Pine
+Relaxed, Happy, Sleepy, Euphoric, Hungry, Spicy/Herbal, Earthy, Sweet
+appetite loss, insomnia, nausea, ms, appetite, depression, pain, Uplifted, Relaxed, Happy, Energetic, Euphoric, Sweet, Earthy, Pungent
+Tingly, Uplifted, Energetic, None
+depression, Happy, Uplifted, Energetic, Relaxed, Euphoric, Sweet, Citrus, Lime
+appetite loss, anxiety, nausea, anorexia, appetite, Happy, Energetic, Uplifted, Euphoric, Focused, Earthy, Sweet, Flowery
+Happy, Relaxed, Uplifted, Euphoric, Focused, Diesel, Pungent, Sage
+Happy, Uplifted, Relaxed, Euphoric, Energetic, Earthy, Woody, Pine
+Relaxed, Happy, Euphoric, Uplifted, Sleepy, Sweet, Berry, Grape
+Relaxed, Sleepy, Talkative, Euphoric, Happy, Earthy, Sweet, Spicy/Herbal
+ms, pain, Relaxed, Sleepy, Euphoric, Happy, Hungry, Sweet, Earthy, Pungent
+appetite, depression, Hungry, Relaxed, Uplifted, Happy, Sleepy, Berry, Earthy, Pungent
